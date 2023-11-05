@@ -35,6 +35,11 @@
     "MD5": "3956130e36754f184a0443c850f708f8"
   },
   {
+    "FileName": "filelist.json",
+    "Size": 150642,
+    "MD5": "938fdda24c4e1a54d2dad786e29a8b32"
+  },
+  {
     "FileName": "Microsoft.Bcl.AsyncInterfaces.dll",
     "Size": 26752,
     "MD5": "970b6e6478ae3ab699f277d77de0cd19"
@@ -3673,156 +3678,6 @@
     "FileName": "Mods\\@Community-Online-Tools\\Keys\\Jacob_Mango_V3.bikey",
     "Size": 167,
     "MD5": "5d1b66407ee86a70fe9caa6a196c0e01"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\meta.cpp",
-    "Size": 98,
-    "MD5": "45181e7958c6ea53df299962d600a893"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPBGUI.pbo",
-    "Size": 22436070,
-    "MD5": "f223c919533db0fba1cc5791ba1fa9cf"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPBGUI.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "c3d1a1d81969405d3a7b548201eb5e0b"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPB_Ammunition.pbo",
-    "Size": 150393452,
-    "MD5": "3302bbbc0748b1b7d55921d0302e58fd"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPB_Ammunition.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "366714aaeb6daecff65e51058281b61e"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPB_Animations.pbo",
-    "Size": 746167,
-    "MD5": "0c21c24bf85f95c2d6b0e895c2337c77"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPB_Animations.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "997d6dca8731ff30e857e2af987e3909"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPB_Attachments.pbo",
-    "Size": 346098928,
-    "MD5": "92d8f5e40c1e3d17241873d4e94587f9"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPB_Attachments.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "76208f142447f9e0caf758e0e67428f8"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPB_Explosive.pbo",
-    "Size": 124501126,
-    "MD5": "c474691365475519708187e45b5f1f60"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPB_Explosive.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "7df37bae297b0ca52ff08551bf6d7649"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPB_LMGS.pbo",
-    "Size": 74108464,
-    "MD5": "b94e02dd636d7e0c1cd4f0a8f8786776"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPB_LMGS.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "97179c5eaa8dca9ca01f49805ff0741b"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPB_Pistols.pbo",
-    "Size": 106192456,
-    "MD5": "049c2a5553e8d123a46fa5dfd867a0b0"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPB_Pistols.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "88ccd6d386535122be5d862bbb1af04c"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPB_Rifles.pbo",
-    "Size": 583000915,
-    "MD5": "1556134d80d0bfa88e66837f2a615194"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPB_Rifles.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "088fe90ded18853049f1a6123c57fc92"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPB_Scripts.pbo",
-    "Size": 45095,
-    "MD5": "9f81f245ae9b8de49c1270f483e6cc58"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPB_Scripts.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "5cdd04e1ab34761fdaeaab0c38afe0cb"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPB_Shotguns.pbo",
-    "Size": 17362002,
-    "MD5": "dcf330dcf1ef68257fcd3a47a1f56803"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPB_Shotguns.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "efb321b44785c329b479bf2460e4f109"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPB_SMGS.pbo",
-    "Size": 168494167,
-    "MD5": "87ee0e2aea3b085107fcf5812018e6bf"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPB_SMGS.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "8d8e2cd40e489b9499f1ce69a0c1b3e9"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPB_Snipers.pbo",
-    "Size": 346709864,
-    "MD5": "c8e3f0dc086fafd10b9c0bc99c047deb"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\CPB_Snipers.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "a91f23f0482e824bc2e0c43617432224"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\RPG7_D.pbo",
-    "Size": 49766111,
-    "MD5": "1f0b4a199ae1566aee70dea6434a9205"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Addons\\RPG7_D.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "c95a3f61fadbb73a9333d38c7488c7c7"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\Keys\\CPBWeaponsV3.bikey",
-    "Size": 165,
-    "MD5": "c099ae11411dc96b6a5ddeafa86058d1"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\XML\\CBPtypes.xml",
-    "Size": 90753,
-    "MD5": "6db7a041b076933d81371777245ef3aa"
-  },
-  {
-    "FileName": "Mods\\@CPBWeapons\\XML\\cpb_spawnabletypes.xml",
-    "Size": 6287,
-    "MD5": "2d81bec060e18ff88a4a11b24871c4fa"
   },
   {
     "FileName": "Mods\\@DabsFramework\\meta.cpp",
