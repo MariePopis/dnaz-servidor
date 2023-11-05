@@ -6,8 +6,8 @@
   },
   {
     "FileName": "DayZ Launcher.exe",
-    "Size": 21169152,
-    "MD5": "c1ee8c72d2eebaa00beb0a6104b75cc4"
+    "Size": 21168640,
+    "MD5": "a44f37ea8a667334d3295193b8e3f4ad"
   },
   {
     "FileName": "DayZ Launcher.exe.config",
@@ -18,16 +18,6 @@
     "FileName": "dayz.gproj",
     "Size": 1719,
     "MD5": "c3eb54b881b35859c09000f1695157ff"
-  },
-  {
-    "FileName": "DayZDNA.exe",
-    "Size": 21169664,
-    "MD5": "8513f3999eec8291015aee0329b5b4e5"
-  },
-  {
-    "FileName": "DayZDNA.exe.config",
-    "Size": 552,
-    "MD5": "ea18aff34def054cc191cf77a13dfc7d"
   },
   {
     "FileName": "DayZ_BE.exe",
@@ -53,16 +43,6 @@
     "FileName": "Newtonsoft.Json.dll",
     "Size": 711952,
     "MD5": "195ffb7167db3219b217c4fd439eedd6"
-  },
-  {
-    "FileName": "Newtonsoft.Json.xml",
-    "Size": 713541,
-    "MD5": "d398ffe9fdac6a53a8d8bb26f29bbb3c"
-  },
-  {
-    "FileName": "Nickname.ini",
-    "Size": 4,
-    "MD5": "c89ba6dae4a839403eb7607dcb25e697"
   },
   {
     "FileName": "steam_api64.dll",
@@ -1501,8 +1481,8 @@
   },
   {
     "FileName": "Mods\\nomes.txt",
-    "Size": 409,
-    "MD5": "47b894a1e044ea6edea57c06da782ae0"
+    "Size": 345,
+    "MD5": "348ecc18005a256c2c8a9e643c6b2e49"
   },
   {
     "FileName": "Mods\\Pegar Pastas.bat",
@@ -1625,107 +1605,107 @@
     "MD5": "822d0e4b5e65d678a9da52078c4fcc64"
   },
   {
-    "FileName": "Mods\\@Blacks MMG Retex\\meta.cpp",
+    "FileName": "Mods\\@BlacksMMGRetex\\meta.cpp",
     "Size": 104,
     "MD5": "bb88f08ff3d2f15ecc942e4516e08b65"
   },
   {
-    "FileName": "Mods\\@Blacks MMG Retex\\Addons\\BlacksMMGAttach.pbo",
+    "FileName": "Mods\\@BlacksMMGRetex\\Addons\\BlacksMMGAttach.pbo",
     "Size": 58484453,
     "MD5": "5957ab5e4d8f7d038f231edcbcc8540e"
   },
   {
-    "FileName": "Mods\\@Blacks MMG Retex\\Addons\\BlacksMMGAttach.pbo.BLACKS.bisign",
+    "FileName": "Mods\\@BlacksMMGRetex\\Addons\\BlacksMMGAttach.pbo.BLACKS.bisign",
     "Size": 559,
     "MD5": "32ef48d11219221d394e435748477d20"
   },
   {
-    "FileName": "Mods\\@Blacks MMG Retex\\Addons\\BlacksMMGCargoBelt.pbo",
+    "FileName": "Mods\\@BlacksMMGRetex\\Addons\\BlacksMMGCargoBelt.pbo",
     "Size": 310953968,
     "MD5": "4dd95102f74d4968a85d8c660bbd47f2"
   },
   {
-    "FileName": "Mods\\@Blacks MMG Retex\\Addons\\BlacksMMGCargoBelt.pbo.BLACKS.bisign",
+    "FileName": "Mods\\@BlacksMMGRetex\\Addons\\BlacksMMGCargoBelt.pbo.BLACKS.bisign",
     "Size": 559,
     "MD5": "41a315bcb3f579e3641f7a698f51e360"
   },
   {
-    "FileName": "Mods\\@Blacks MMG Retex\\Addons\\BlacksMMGCarrier.pbo",
+    "FileName": "Mods\\@BlacksMMGRetex\\Addons\\BlacksMMGCarrier.pbo",
     "Size": 54333153,
     "MD5": "2a19eeff7088d571bc70dd2bd6a5f971"
   },
   {
-    "FileName": "Mods\\@Blacks MMG Retex\\Addons\\BlacksMMGCarrier.pbo.BLACKS.bisign",
+    "FileName": "Mods\\@BlacksMMGRetex\\Addons\\BlacksMMGCarrier.pbo.BLACKS.bisign",
     "Size": 559,
     "MD5": "964ae7a1658ae36a72f886252f40c16c"
   },
   {
-    "FileName": "Mods\\@Blacks MMG Retex\\Addons\\BlacksMMGComPants.pbo",
+    "FileName": "Mods\\@BlacksMMGRetex\\Addons\\BlacksMMGComPants.pbo",
     "Size": 22117506,
     "MD5": "bf342f16af5ac9653f40caa493dccf6b"
   },
   {
-    "FileName": "Mods\\@Blacks MMG Retex\\Addons\\BlacksMMGComPants.pbo.BLACKS.bisign",
+    "FileName": "Mods\\@BlacksMMGRetex\\Addons\\BlacksMMGComPants.pbo.BLACKS.bisign",
     "Size": 559,
     "MD5": "bbc425f25517075b2bb166e9034d301e"
   },
   {
-    "FileName": "Mods\\@Blacks MMG Retex\\Addons\\BlacksMMGNVGs.pbo",
+    "FileName": "Mods\\@BlacksMMGRetex\\Addons\\BlacksMMGNVGs.pbo",
     "Size": 120398690,
     "MD5": "225ed664cdb2fd3dafcddc0f7499dfd0"
   },
   {
-    "FileName": "Mods\\@Blacks MMG Retex\\Addons\\BlacksMMGNVGs.pbo.BLACKS.bisign",
+    "FileName": "Mods\\@BlacksMMGRetex\\Addons\\BlacksMMGNVGs.pbo.BLACKS.bisign",
     "Size": 559,
     "MD5": "a160cf3aed753f8d33559b88cf9bafe2"
   },
   {
-    "FileName": "Mods\\@Blacks MMG Retex\\Addons\\BlacksMMGOpShirt.pbo",
+    "FileName": "Mods\\@BlacksMMGRetex\\Addons\\BlacksMMGOpShirt.pbo",
     "Size": 58723416,
     "MD5": "a68158c44d9c903d0c42cab65da4a748"
   },
   {
-    "FileName": "Mods\\@Blacks MMG Retex\\Addons\\BlacksMMGOpShirt.pbo.BLACKS.bisign",
+    "FileName": "Mods\\@BlacksMMGRetex\\Addons\\BlacksMMGOpShirt.pbo.BLACKS.bisign",
     "Size": 559,
     "MD5": "a261b9efc8abc3ef05e24a71ee616e45"
   },
   {
-    "FileName": "Mods\\@Blacks MMG Retex\\Addons\\BlacksMMGPouches.pbo",
+    "FileName": "Mods\\@BlacksMMGRetex\\Addons\\BlacksMMGPouches.pbo",
     "Size": 81681716,
     "MD5": "26cea6b6caac7d2478c7e1790d9bd6af"
   },
   {
-    "FileName": "Mods\\@Blacks MMG Retex\\Addons\\BlacksMMGPouches.pbo.BLACKS.bisign",
+    "FileName": "Mods\\@BlacksMMGRetex\\Addons\\BlacksMMGPouches.pbo.BLACKS.bisign",
     "Size": 559,
     "MD5": "a7a61c993b72a5f787ce18d9e4d72671"
   },
   {
-    "FileName": "Mods\\@Blacks MMG Retex\\Addons\\BlacksMMGStkrHelm.pbo",
+    "FileName": "Mods\\@BlacksMMGRetex\\Addons\\BlacksMMGStkrHelm.pbo",
     "Size": 59746560,
     "MD5": "5c37ff0897eabc4d0bbad756fa48068d"
   },
   {
-    "FileName": "Mods\\@Blacks MMG Retex\\Addons\\BlacksMMGStkrHelm.pbo.BLACKS.bisign",
+    "FileName": "Mods\\@BlacksMMGRetex\\Addons\\BlacksMMGStkrHelm.pbo.BLACKS.bisign",
     "Size": 559,
     "MD5": "f1c4ef625a7fdc44e1e7262d7f240019"
   },
   {
-    "FileName": "Mods\\@Blacks MMG Retex\\Addons\\BlacksMMGSupplybag.pbo",
+    "FileName": "Mods\\@BlacksMMGRetex\\Addons\\BlacksMMGSupplybag.pbo",
     "Size": 114300793,
     "MD5": "8e8c9e451d109e302e18d0844a17f9b6"
   },
   {
-    "FileName": "Mods\\@Blacks MMG Retex\\Addons\\BlacksMMGSupplybag.pbo.BLACKS.bisign",
+    "FileName": "Mods\\@BlacksMMGRetex\\Addons\\BlacksMMGSupplybag.pbo.BLACKS.bisign",
     "Size": 559,
     "MD5": "2dfdbbbeb512f964f49402243451b3f8"
   },
   {
-    "FileName": "Mods\\@Blacks MMG Retex\\Addons\\BlacksMMGVest.pbo",
+    "FileName": "Mods\\@BlacksMMGRetex\\Addons\\BlacksMMGVest.pbo",
     "Size": 129522912,
     "MD5": "5b32ecec15a02d62f345f16c0952361b"
   },
   {
-    "FileName": "Mods\\@Blacks MMG Retex\\Addons\\BlacksMMGVest.pbo.BLACKS.bisign",
+    "FileName": "Mods\\@BlacksMMGRetex\\Addons\\BlacksMMGVest.pbo.BLACKS.bisign",
     "Size": 559,
     "MD5": "549a5877befbce951706ec38b0fd2558"
   },
@@ -3800,136 +3780,6 @@
     "MD5": "5d1b66407ee86a70fe9caa6a196c0e01"
   },
   {
-    "FileName": "Mods\\@CPB-Weapons\\.modversion",
-    "Size": 128,
-    "MD5": "935be2cdfee166f76def2906b6783a75"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\meta.cpp",
-    "Size": 98,
-    "MD5": "45181e7958c6ea53df299962d600a893"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\CPB_Ammunition.pbo",
-    "Size": 150393452,
-    "MD5": "3302bbbc0748b1b7d55921d0302e58fd"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\CPB_Ammunition.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "366714aaeb6daecff65e51058281b61e"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\CPB_Animations.pbo",
-    "Size": 746167,
-    "MD5": "0c21c24bf85f95c2d6b0e895c2337c77"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\CPB_Animations.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "997d6dca8731ff30e857e2af987e3909"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\CPB_Attachments.pbo",
-    "Size": 346098928,
-    "MD5": "92d8f5e40c1e3d17241873d4e94587f9"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\CPB_Attachments.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "76208f142447f9e0caf758e0e67428f8"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\CPB_Explosive.pbo",
-    "Size": 124501126,
-    "MD5": "c474691365475519708187e45b5f1f60"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\CPB_Explosive.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "7df37bae297b0ca52ff08551bf6d7649"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\CPB_LMGS.pbo",
-    "Size": 74108464,
-    "MD5": "b94e02dd636d7e0c1cd4f0a8f8786776"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\CPB_LMGS.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "97179c5eaa8dca9ca01f49805ff0741b"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\CPB_Pistols.pbo",
-    "Size": 106192456,
-    "MD5": "049c2a5553e8d123a46fa5dfd867a0b0"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\CPB_Pistols.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "88ccd6d386535122be5d862bbb1af04c"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\CPB_Rifles.pbo",
-    "Size": 583000915,
-    "MD5": "1556134d80d0bfa88e66837f2a615194"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\CPB_Rifles.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "088fe90ded18853049f1a6123c57fc92"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\CPB_Scripts.pbo",
-    "Size": 45095,
-    "MD5": "9f81f245ae9b8de49c1270f483e6cc58"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\CPB_Scripts.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "5cdd04e1ab34761fdaeaab0c38afe0cb"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\CPB_Shotguns.pbo",
-    "Size": 17362002,
-    "MD5": "dcf330dcf1ef68257fcd3a47a1f56803"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\CPB_Shotguns.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "efb321b44785c329b479bf2460e4f109"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\CPB_SMGS.pbo",
-    "Size": 168494167,
-    "MD5": "87ee0e2aea3b085107fcf5812018e6bf"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\CPB_SMGS.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "8d8e2cd40e489b9499f1ce69a0c1b3e9"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\CPB_Snipers.pbo",
-    "Size": 346709864,
-    "MD5": "c8e3f0dc086fafd10b9c0bc99c047deb"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\CPB_Snipers.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "a91f23f0482e824bc2e0c43617432224"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\RPG7_D.pbo",
-    "Size": 49766111,
-    "MD5": "1f0b4a199ae1566aee70dea6434a9205"
-  },
-  {
-    "FileName": "Mods\\@CPB-Weapons\\Addons\\RPG7_D.pbo.CPBWeaponsV3.bisign",
-    "Size": 565,
-    "MD5": "c95a3f61fadbb73a9333d38c7488c7c7"
-  },
-  {
     "FileName": "Mods\\@CPBWeapons\\meta.cpp",
     "Size": 98,
     "MD5": "45181e7958c6ea53df299962d600a893"
@@ -4138,6 +3988,261 @@
     "FileName": "Mods\\@DayZEditorLoader\\Addons\\Scripts.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "7ed7cc04caf5cdc8db2321acdbc4fc6a"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPBGUI.pbo",
+    "Size": 22436070,
+    "MD5": "f223c919533db0fba1cc5791ba1fa9cf"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPBGUI.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "5aa18612e80c5187a693e406b58f915f"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPB_Ammunition.pbo",
+    "Size": 150393452,
+    "MD5": "3302bbbc0748b1b7d55921d0302e58fd"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPB_Ammunition.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "0f1275866957484b0a245fd9edff7502"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPB_Animations.pbo",
+    "Size": 746167,
+    "MD5": "0c21c24bf85f95c2d6b0e895c2337c77"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPB_Animations.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "d7b1fe8f4458bbd32087351b938dd5a1"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPB_Attachments.pbo",
+    "Size": 346098928,
+    "MD5": "92d8f5e40c1e3d17241873d4e94587f9"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPB_Attachments.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "7ad6b51549d7eeaf0522cc96784f9c58"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPB_Explosive.pbo",
+    "Size": 124501126,
+    "MD5": "c474691365475519708187e45b5f1f60"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPB_Explosive.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "93dde9603c52f4d845834214a26c039a"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPB_LMGS.pbo",
+    "Size": 74108464,
+    "MD5": "b94e02dd636d7e0c1cd4f0a8f8786776"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPB_LMGS.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "42d0960c8c34601f2bbbd125842b9ce5"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPB_Pistols.pbo",
+    "Size": 106192456,
+    "MD5": "049c2a5553e8d123a46fa5dfd867a0b0"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPB_Pistols.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "1cdf257ce840dd6fe34bc8ca45a47e38"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPB_Rifles.pbo",
+    "Size": 583000915,
+    "MD5": "1556134d80d0bfa88e66837f2a615194"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPB_Rifles.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "3055c54d93ba6c6cd726d5a83af42e9e"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPB_Scripts.pbo",
+    "Size": 45095,
+    "MD5": "9f81f245ae9b8de49c1270f483e6cc58"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPB_Scripts.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "b50662b26ace77deba5e3b83abc963e5"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPB_Shotguns.pbo",
+    "Size": 17362002,
+    "MD5": "dcf330dcf1ef68257fcd3a47a1f56803"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPB_Shotguns.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "505b9fd005f5da83d9d5dd56c1695f0d"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPB_SMGS.pbo",
+    "Size": 168494167,
+    "MD5": "87ee0e2aea3b085107fcf5812018e6bf"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPB_SMGS.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "90db70a5a1a7885ee9cbbb776aae9b5a"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPB_Snipers.pbo",
+    "Size": 346709864,
+    "MD5": "c8e3f0dc086fafd10b9c0bc99c047deb"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\CPB_Snipers.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "d4a25a614b029a13f87fd5f738c7a088"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\ParagonGear.pbo",
+    "Size": 2142465334,
+    "MD5": "f3bd4812a2f26424948afd44b31c352c"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\ParagonGear.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "e288284b6bcfdd872ad99d7868962a81"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\ParagonGear2.pbo",
+    "Size": 98732316,
+    "MD5": "f09d771e71fe3c7491ff35efb80f10a3"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\ParagonGear2.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "8b1cb9b6dd89931b1bfae95e4fe8b670"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\ParagonStorage.pbo",
+    "Size": 762861240,
+    "MD5": "ad23b76375e7a2972474721a33b188ae"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\ParagonStorage.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "144f0140307e8f5f68f0bd9ecf42b36e"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\Paragon_Arsenal.pbo",
+    "Size": 1723188764,
+    "MD5": "53f107c5358d9dc495e74fb4ea50b144"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\Paragon_Arsenal.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "57af21a4c6fb0a81f4bc2924922b67fe"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\RPG7_D.pbo",
+    "Size": 49766111,
+    "MD5": "1f0b4a199ae1566aee70dea6434a9205"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\RPG7_D.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "0e5c0d2f3ce3d8b62cdb9b6251cc6f81"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\TabletHacking.pbo",
+    "Size": 264892,
+    "MD5": "70a6b5a6330e5fa48ea9b6a476abe469"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Addons\\TabletHacking.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "0d551b09bb99cb84816b1276aac338e9"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\Keys\\DNASERVER.bikey",
+    "Size": 162,
+    "MD5": "ca73099ee23c375c1d02a5fe68ac8cfe"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\xml\\CBPtypes.xml",
+    "Size": 90753,
+    "MD5": "6db7a041b076933d81371777245ef3aa"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\xml\\Class names.txt",
+    "Size": 3102,
+    "MD5": "d459bcda24176f0ddb0cbbda45843448"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\xml\\Class namesARMOR.txt",
+    "Size": 10041,
+    "MD5": "029614c7e5c7bfc0d85eddee744302c0"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\xml\\Class namesSTOEREGE.txt",
+    "Size": 5004,
+    "MD5": "04885288b86ec4c0d96390a2c59af6b7"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\xml\\cpb_spawnabletypes.xml",
+    "Size": 6287,
+    "MD5": "2d81bec060e18ff88a4a11b24871c4fa"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\xml\\READ.cpp",
+    "Size": 549,
+    "MD5": "deea9444fc21755ada4f79eb4aed0f87"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\xml\\TraderConfigSTOEREGE.txt",
+    "Size": 9737,
+    "MD5": "50c633d12caa139e36695e181dbe612d"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\xml\\TraderConfig_Paragon.txt",
+    "Size": 5706,
+    "MD5": "3b04ffdfa9fe6f23e0adaf476f8fb4c4"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\xml\\TraderConfig_ParagonARMOR.txt",
+    "Size": 18289,
+    "MD5": "0354df78e321da63db01f3ef42748e79"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\xml\\TraderPlus.txt",
+    "Size": 6853,
+    "MD5": "df701ac9e6f38abdfb8b5b7f4bc107f0"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\xml\\TraderPlusARMOR.txt",
+    "Size": 21942,
+    "MD5": "fe5ee3f01db3c0ad2fa70af1233220c9"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\xml\\typesSTOEREGE.xml",
+    "Size": 72162,
+    "MD5": "73e5b561e3a18cc21f9f037e5207065c"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\xml\\TypesXML_Paragon.txt",
+    "Size": 60309,
+    "MD5": "39a87141b0ccf7710ec865b6a855697b"
+  },
+  {
+    "FileName": "Mods\\@DNAPACK\\xml\\TypesXML_ParagonARMOR.txt",
+    "Size": 193723,
+    "MD5": "7712956d303cf8478a7ea799ccee9371"
   },
   {
     "FileName": "Mods\\@DNAZ\\Addons\\0_DayzDogDefines.pbo",
@@ -4640,67 +4745,67 @@
     "MD5": "5538448e3916edbdc2f15254976e79a8"
   },
   {
-    "FileName": "Mods\\@Hunter Mega Pack\\meta.cpp",
+    "FileName": "Mods\\@HunterMegaPack\\meta.cpp",
     "Size": 104,
     "MD5": "995cbf54581dc2e92d1f25f2de14d51f"
   },
   {
-    "FileName": "Mods\\@Hunter Mega Pack\\addons\\HM_Core.pbo",
+    "FileName": "Mods\\@HunterMegaPack\\addons\\HM_Core.pbo",
     "Size": 169501,
     "MD5": "f761d1d783fcfbb16cc84772a9baf5c5"
   },
   {
-    "FileName": "Mods\\@Hunter Mega Pack\\addons\\HM_Core.pbo.HunterMods.bisign",
+    "FileName": "Mods\\@HunterMegaPack\\addons\\HM_Core.pbo.HunterMods.bisign",
     "Size": 563,
     "MD5": "96ebb71f1aa8d2f8615b57a5290c283c"
   },
   {
-    "FileName": "Mods\\@Hunter Mega Pack\\addons\\HM_Models.pbo",
+    "FileName": "Mods\\@HunterMegaPack\\addons\\HM_Models.pbo",
     "Size": 301626436,
     "MD5": "edfb28e5a1b11f06eba5bceed3c079b9"
   },
   {
-    "FileName": "Mods\\@Hunter Mega Pack\\addons\\HM_Models.pbo.HunterMods.bisign",
+    "FileName": "Mods\\@HunterMegaPack\\addons\\HM_Models.pbo.HunterMods.bisign",
     "Size": 563,
     "MD5": "82ccfef36fbbccda489d0fc4b52a3682"
   },
   {
-    "FileName": "Mods\\@Hunter Mega Pack\\addons\\HM_RPC.pbo",
+    "FileName": "Mods\\@HunterMegaPack\\addons\\HM_RPC.pbo",
     "Size": 3780963,
     "MD5": "f210e7bac5d717120fe112358ac3bf53"
   },
   {
-    "FileName": "Mods\\@Hunter Mega Pack\\addons\\HM_RPC.pbo.HunterMods.bisign",
+    "FileName": "Mods\\@HunterMegaPack\\addons\\HM_RPC.pbo.HunterMods.bisign",
     "Size": 563,
     "MD5": "cde7d3a9f920beafe59d4e5ddb614276"
   },
   {
-    "FileName": "Mods\\@Hunter Mega Pack\\files\\classnames.txt",
+    "FileName": "Mods\\@HunterMegaPack\\files\\classnames.txt",
     "Size": 1372,
     "MD5": "792f2deaad41013024da376f1fb30cb5"
   },
   {
-    "FileName": "Mods\\@Hunter Mega Pack\\files\\HM_Settings_Help.json",
+    "FileName": "Mods\\@HunterMegaPack\\files\\HM_Settings_Help.json",
     "Size": 2719,
     "MD5": "3cba7d37ce878a8cd81082d4e95ee9f0"
   },
   {
-    "FileName": "Mods\\@Hunter Mega Pack\\files\\trader_config.xml",
+    "FileName": "Mods\\@HunterMegaPack\\files\\trader_config.xml",
     "Size": 2102,
     "MD5": "2d82d1f08a4738a3ef5e0bc1ca8d546e"
   },
   {
-    "FileName": "Mods\\@Hunter Mega Pack\\files\\trader_plus_config.json",
+    "FileName": "Mods\\@HunterMegaPack\\files\\trader_plus_config.json",
     "Size": 2633,
     "MD5": "fa4bbb011da24a2b79ae201042f75657"
   },
   {
-    "FileName": "Mods\\@Hunter Mega Pack\\files\\types.xml",
+    "FileName": "Mods\\@HunterMegaPack\\files\\types.xml",
     "Size": 28335,
     "MD5": "91a9cc1f83bc2de9d3b074f309eb0dee"
   },
   {
-    "FileName": "Mods\\@Hunter Mega Pack\\keys\\HunterMods.bikey",
+    "FileName": "Mods\\@HunterMegaPack\\keys\\HunterMods.bikey",
     "Size": 163,
     "MD5": "54d7aebea48ab463369aff85ce9c5a99"
   },
@@ -4710,14 +4815,299 @@
     "MD5": "9416c0c8f67fd2288d84af6108fc6184"
   },
   {
+    "FileName": "Mods\\@MMG\\addons\\BlacksMMGAttach.pbo",
+    "Size": 58484453,
+    "MD5": "5957ab5e4d8f7d038f231edcbcc8540e"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\BlacksMMGAttach.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "1f09f212335b0b489d13db40d0de6de0"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\BlacksMMGCargoBelt.pbo",
+    "Size": 310953968,
+    "MD5": "4dd95102f74d4968a85d8c660bbd47f2"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\BlacksMMGCargoBelt.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "f1febdf292eb374af37d4f7367ff4b3b"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\BlacksMMGCarrier.pbo",
+    "Size": 54333153,
+    "MD5": "2a19eeff7088d571bc70dd2bd6a5f971"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\BlacksMMGCarrier.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "e0e40e5977d76e25f9d0a72b3c4033c2"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\BlacksMMGComPants.pbo",
+    "Size": 22117506,
+    "MD5": "bf342f16af5ac9653f40caa493dccf6b"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\BlacksMMGComPants.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "9e4b36c642fcb81e31959a3bbb398818"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\BlacksMMGNVGs.pbo",
+    "Size": 120398690,
+    "MD5": "225ed664cdb2fd3dafcddc0f7499dfd0"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\BlacksMMGNVGs.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "6cae055e8506518ef44f54000397bee4"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\BlacksMMGOpShirt.pbo",
+    "Size": 58723416,
+    "MD5": "a68158c44d9c903d0c42cab65da4a748"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\BlacksMMGOpShirt.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "8567735977ad8b19738cd5d12bd544f2"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\BlacksMMGPouches.pbo",
+    "Size": 81681716,
+    "MD5": "26cea6b6caac7d2478c7e1790d9bd6af"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\BlacksMMGPouches.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "75bf1ed7fd1373ea42aea44bb77b1f5a"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\BlacksMMGStkrHelm.pbo",
+    "Size": 59746560,
+    "MD5": "5c37ff0897eabc4d0bbad756fa48068d"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\BlacksMMGStkrHelm.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "19d82b902be353feb312f2e8f5fe0a5f"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\BlacksMMGSupplybag.pbo",
+    "Size": 114300793,
+    "MD5": "8e8c9e451d109e302e18d0844a17f9b6"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\BlacksMMGSupplybag.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "5b8bd538ef3d08b22ad17c7d63cf2418"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\BlacksMMGVest.pbo",
+    "Size": 129522912,
+    "MD5": "5b32ecec15a02d62f345f16c0952361b"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\BlacksMMGVest.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "ceae5985c8fb3f5a78a0ee3ced0927c1"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\camo_one.pbo",
+    "Size": 57814412,
+    "MD5": "a12b5891e0d1516ec3b3d953a4651566"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\camo_one.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "86d3c79cbf0092448728d00f2d44b413"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\data.pbo",
+    "Size": 68211879,
+    "MD5": "adcac7510a41cbed91a876600a7790d0"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\data.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "4f332d743e97165a3139c816c93d3683"
+  },
+  {
     "FileName": "Mods\\@MMG\\addons\\JPC_Vest.pbo",
     "Size": 1164513250,
     "MD5": "d7eb044bc083ee5387e4a9a01296f15a"
   },
   {
+    "FileName": "Mods\\@MMG\\addons\\JPC_Vest.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "5e84c586c607a387482b06739ae25482"
+  },
+  {
     "FileName": "Mods\\@MMG\\addons\\JPC_Vest.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "e5273edd6b0c363943fab592c0454a7f"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\MMG_storage.pbo",
+    "Size": 309455640,
+    "MD5": "81e36466ae0c1806f1ceaf4b2fd5f844"
+  },
+  {
+    "FileName": "Mods\\@MMG\\addons\\MMG_storage.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "58ee152a2fb45e46f6670cdead21903e"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files_storege\\ADDED IN LAST UPDATE.txt",
+    "Size": 786,
+    "MD5": "0e984372a40492d88b2b2b673281df7b"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files_storege\\ADDED IN LAST UPDATE.xml",
+    "Size": 40,
+    "MD5": "f0d8c520aa6d9c11694dd40f124d2ce8"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files_storege\\classnames.txt",
+    "Size": 2053,
+    "MD5": "8a2a7503411cca1463c09617dda3f775"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files_storege\\mmg_raidtools.xml",
+    "Size": 1140,
+    "MD5": "7d85aadf3501b303e94bda08ea5b3bbc"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files_storege\\mmg_storage.xml",
+    "Size": 33943,
+    "MD5": "14237a1f2eb747d1e5576cd78825c041"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files_storege\\MMG_storage_trader.txt",
+    "Size": 2397,
+    "MD5": "2398a337909e16ffc0633fd71ef37f8e"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files_storege\\raidsaw_types.xml",
+    "Size": 579,
+    "MD5": "670a69e938ee283fa6d9865c004ced57"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files_storege\\types.xml",
+    "Size": 765482,
+    "MD5": "bb582b30baea2859ef80098e5d47a7ba"
+  },
+  {
+    "FileName": "Mods\\@MMG\\files_storege\\trader\\MMG_storage_trader.txt",
+    "Size": 2908,
+    "MD5": "29e3d9759e6311207cef8935b77abef1"
+  },
+  {
+    "FileName": "Mods\\@MMG\\vest_files\\# YOU NEED ALL OF THE FILES.xml",
+    "Size": 32,
+    "MD5": "08f4b55a028fa89869717fd6b71c69ff"
+  },
+  {
+    "FileName": "Mods\\@MMG\\vest_files\\Classlist - ADDED IN LAST UPDATE.txt",
+    "Size": 28,
+    "MD5": "74d7ed11d93699783b1f78d949a844fa"
+  },
+  {
+    "FileName": "Mods\\@MMG\\vest_files\\ITEMS ADDED IN LAST UPDATE.xml",
+    "Size": 28,
+    "MD5": "74d7ed11d93699783b1f78d949a844fa"
+  },
+  {
+    "FileName": "Mods\\@MMG\\vest_files\\spawnabletypes\\mmg_cfgspawnabletypes.xml",
+    "Size": 77620,
+    "MD5": "eae9d6671056146545227279417b53f9"
+  },
+  {
+    "FileName": "Mods\\@MMG\\vest_files\\trader\\trader_files_mmg.txt",
+    "Size": 25010,
+    "MD5": "b2e8dbbd0c3e145c7203043501dda35e"
+  },
+  {
+    "FileName": "Mods\\@MMG\\vest_files\\types\\mmg_types_ADMINGEAR.xml",
+    "Size": 2729,
+    "MD5": "e498be17ac0697879cdeeea44c1ee977"
+  },
+  {
+    "FileName": "Mods\\@MMG\\vest_files\\types\\mmg_types_alpine.xml",
+    "Size": 17795,
+    "MD5": "75d4b67bca48e47607859348164846d1"
+  },
+  {
+    "FileName": "Mods\\@MMG\\vest_files\\types\\mmg_types_atacs.xml",
+    "Size": 17762,
+    "MD5": "51ef7ddfc89514098838225288c9abda"
+  },
+  {
+    "FileName": "Mods\\@MMG\\vest_files\\types\\mmg_types_black.xml",
+    "Size": 21316,
+    "MD5": "5a8109e5b709f814d9f3b937d88a1177"
+  },
+  {
+    "FileName": "Mods\\@MMG\\vest_files\\types\\mmg_types_carbines.xml",
+    "Size": 3584,
+    "MD5": "eebc81c05dbf409f58f7d5731605c9f7"
+  },
+  {
+    "FileName": "Mods\\@MMG\\vest_files\\types\\mmg_types_dark_woodland.xml",
+    "Size": 18035,
+    "MD5": "53e6cac1f25da65f112ad1ff755a7d98"
+  },
+  {
+    "FileName": "Mods\\@MMG\\vest_files\\types\\mmg_types_erdl.xml",
+    "Size": 17727,
+    "MD5": "f29a998e7752809b3bb094391a1b140f"
+  },
+  {
+    "FileName": "Mods\\@MMG\\vest_files\\types\\mmg_types_green.xml",
+    "Size": 20830,
+    "MD5": "f0715fed468caed86e8d155d17baefdb"
+  },
+  {
+    "FileName": "Mods\\@MMG\\vest_files\\types\\mmg_types_multicam.xml",
+    "Size": 17865,
+    "MD5": "545f5469b2e07c161bda91d570ba9cc5"
+  },
+  {
+    "FileName": "Mods\\@MMG\\vest_files\\types\\mmg_types_multicamblack.xml",
+    "Size": 18036,
+    "MD5": "94e4db9c45448c700b472fb59ef0a0e7"
+  },
+  {
+    "FileName": "Mods\\@MMG\\vest_files\\types\\mmg_types_multicam_tropic.xml",
+    "Size": 17581,
+    "MD5": "2bb33935fad0f8d8daba54babefac172"
+  },
+  {
+    "FileName": "Mods\\@MMG\\vest_files\\types\\mmg_types_NBC+NVG.xml",
+    "Size": 2716,
+    "MD5": "0f1d067921e722be0fa78ce92cfb4318"
+  },
+  {
+    "FileName": "Mods\\@MMG\\vest_files\\types\\mmg_types_patches.xml",
+    "Size": 31651,
+    "MD5": "5925df49ca316a50e1ed11c5af12245f"
+  },
+  {
+    "FileName": "Mods\\@MMG\\vest_files\\types\\mmg_types_police.xml",
+    "Size": 2079,
+    "MD5": "f4600e66c808e7f5aba53086677307db"
+  },
+  {
+    "FileName": "Mods\\@MMG\\vest_files\\types\\mmg_types_tan.xml",
+    "Size": 20745,
+    "MD5": "82319e259635693a111e133b51f4d8ae"
+  },
+  {
+    "FileName": "Mods\\@MMG\\vest_files\\types\\mmg_types_ucp.xml",
+    "Size": 18206,
+    "MD5": "d3728d1c6291f261ed8c0bc72676aef7"
   },
   {
     "FileName": "Mods\\@MMGBaseStorage\\meta.cpp",
@@ -4805,36 +5195,6 @@
     "MD5": "e7f2b5037ee49e5e927c22b93903a420"
   },
   {
-    "FileName": "Mods\\@ModsSparda\\Addons\\Prison.pbo",
-    "Size": 32544984,
-    "MD5": "3fabc691eca03f888ecdea55d842e270"
-  },
-  {
-    "FileName": "Mods\\@ModsSparda\\Addons\\Prison.pbo.evolucao.bisign",
-    "Size": 561,
-    "MD5": "7209975cc24601b8094becd22a7603d7"
-  },
-  {
-    "FileName": "Mods\\@ModsSparda\\Addons\\SkinStore.pbo",
-    "Size": 588116,
-    "MD5": "ea630827c2d709084d01f9e22716281e"
-  },
-  {
-    "FileName": "Mods\\@ModsSparda\\Addons\\SkinStore.pbo.evolucao.bisign",
-    "Size": 561,
-    "MD5": "e6e2245937045fad6725291f42f2d7c3"
-  },
-  {
-    "FileName": "Mods\\@ModsSparda\\Addons\\SkinTexturas.pbo",
-    "Size": 32412693,
-    "MD5": "5edd9e23bf2198a99dca8c8958968c63"
-  },
-  {
-    "FileName": "Mods\\@ModsSparda\\Addons\\SkinTexturas.pbo.evolucao.bisign",
-    "Size": 561,
-    "MD5": "c4286f38edbf9938f93eddb5e00452e7"
-  },
-  {
     "FileName": "Mods\\@ModsSparda\\Addons\\SpardaStore.pbo",
     "Size": 4843588,
     "MD5": "f5b4c1525364db1ccd5757fab2a17f96"
@@ -4843,11 +5203,6 @@
     "FileName": "Mods\\@ModsSparda\\Addons\\SpardaStore.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "0561fbbc43344cf66d2a9a27eb46bb84"
-  },
-  {
-    "FileName": "Mods\\@ModsSparda\\Addons\\SpardaStore.pbo.evolucao.bisign",
-    "Size": 561,
-    "MD5": "b116e63bc2108ad1e9e2ccd228006f71"
   },
   {
     "FileName": "Mods\\@ModsSparda\\Addons\\SpardaStoreItems.pbo",
@@ -4860,11 +5215,6 @@
     "MD5": "3720931d1df24452bff27d15c8b63488"
   },
   {
-    "FileName": "Mods\\@ModsSparda\\Addons\\SpardaStoreItems.pbo.evolucao.bisign",
-    "Size": 561,
-    "MD5": "b252aad98412d8b3052742509949b700"
-  },
-  {
     "FileName": "Mods\\@ModsSparda\\Addons\\SpardaVIP.pbo",
     "Size": 5786837,
     "MD5": "71d033172d0a92d3aabd75a444836d4b"
@@ -4875,69 +5225,109 @@
     "MD5": "d37b1270cbebdf31516cb2125d2fe44b"
   },
   {
-    "FileName": "Mods\\@ModsSparda\\Addons\\SpardaVIP.pbo.evolucao.bisign",
-    "Size": 561,
-    "MD5": "4eee1d7f626fb252594d225661f10f36"
-  },
-  {
-    "FileName": "Mods\\@ModsSparda\\Addons\\Storedata.pbo",
-    "Size": 498015,
-    "MD5": "5839e60428b19a35f330fd5b4918c127"
-  },
-  {
-    "FileName": "Mods\\@ModsSparda\\Addons\\Storedata.pbo.evolucao.bisign",
-    "Size": 561,
-    "MD5": "1301c14ce1b5aa04f61e031300cbdb48"
-  },
-  {
-    "FileName": "Mods\\@ModsSparda\\Addons_orig\\HumanZombie.pbo",
+    "FileName": "Mods\\@ModsSparda\\Addons_1\\HumanZombie.pbo",
     "Size": 3630653,
     "MD5": "d90c6751ca526b75a41fcd0b40831557"
   },
   {
-    "FileName": "Mods\\@ModsSparda\\Addons_orig\\HumanZombie.pbo.dnaz.bisign",
+    "FileName": "Mods\\@ModsSparda\\Addons_1\\HumanZombie.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "0bd126aac9bba81a7b927657a823fd73"
   },
   {
-    "FileName": "Mods\\@ModsSparda\\Addons_orig\\HumanZombieScript.pbo",
+    "FileName": "Mods\\@ModsSparda\\Addons_1\\HumanZombieScript.pbo",
     "Size": 366577,
     "MD5": "1d76720253bb473fc28c7711f3819092"
   },
   {
-    "FileName": "Mods\\@ModsSparda\\Addons_orig\\HumanZombieScript.pbo.dnaz.bisign",
+    "FileName": "Mods\\@ModsSparda\\Addons_1\\HumanZombieScript.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "e7f2b5037ee49e5e927c22b93903a420"
   },
   {
-    "FileName": "Mods\\@ModsSparda\\Addons_orig\\SpardaStore.pbo",
+    "FileName": "Mods\\@ModsSparda\\Addons_1\\Prison.pbo",
+    "Size": 32544984,
+    "MD5": "3fabc691eca03f888ecdea55d842e270"
+  },
+  {
+    "FileName": "Mods\\@ModsSparda\\Addons_1\\Prison.pbo.evolucao.bisign",
+    "Size": 561,
+    "MD5": "7209975cc24601b8094becd22a7603d7"
+  },
+  {
+    "FileName": "Mods\\@ModsSparda\\Addons_1\\SkinStore.pbo",
+    "Size": 588116,
+    "MD5": "ea630827c2d709084d01f9e22716281e"
+  },
+  {
+    "FileName": "Mods\\@ModsSparda\\Addons_1\\SkinStore.pbo.evolucao.bisign",
+    "Size": 561,
+    "MD5": "e6e2245937045fad6725291f42f2d7c3"
+  },
+  {
+    "FileName": "Mods\\@ModsSparda\\Addons_1\\SkinTexturas.pbo",
+    "Size": 32412693,
+    "MD5": "5edd9e23bf2198a99dca8c8958968c63"
+  },
+  {
+    "FileName": "Mods\\@ModsSparda\\Addons_1\\SkinTexturas.pbo.evolucao.bisign",
+    "Size": 561,
+    "MD5": "c4286f38edbf9938f93eddb5e00452e7"
+  },
+  {
+    "FileName": "Mods\\@ModsSparda\\Addons_1\\SpardaStore.pbo",
     "Size": 4843588,
     "MD5": "f5b4c1525364db1ccd5757fab2a17f96"
   },
   {
-    "FileName": "Mods\\@ModsSparda\\Addons_orig\\SpardaStore.pbo.dnaz.bisign",
+    "FileName": "Mods\\@ModsSparda\\Addons_1\\SpardaStore.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "0561fbbc43344cf66d2a9a27eb46bb84"
   },
   {
-    "FileName": "Mods\\@ModsSparda\\Addons_orig\\SpardaStoreItems.pbo",
+    "FileName": "Mods\\@ModsSparda\\Addons_1\\SpardaStore.pbo.evolucao.bisign",
+    "Size": 561,
+    "MD5": "b116e63bc2108ad1e9e2ccd228006f71"
+  },
+  {
+    "FileName": "Mods\\@ModsSparda\\Addons_1\\SpardaStoreItems.pbo",
     "Size": 2701710,
     "MD5": "14a5c21320372436b6f3f55acdf25624"
   },
   {
-    "FileName": "Mods\\@ModsSparda\\Addons_orig\\SpardaStoreItems.pbo.dnaz.bisign",
+    "FileName": "Mods\\@ModsSparda\\Addons_1\\SpardaStoreItems.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "3720931d1df24452bff27d15c8b63488"
   },
   {
-    "FileName": "Mods\\@ModsSparda\\Addons_orig\\SpardaVIP.pbo",
+    "FileName": "Mods\\@ModsSparda\\Addons_1\\SpardaStoreItems.pbo.evolucao.bisign",
+    "Size": 561,
+    "MD5": "b252aad98412d8b3052742509949b700"
+  },
+  {
+    "FileName": "Mods\\@ModsSparda\\Addons_1\\SpardaVIP.pbo",
     "Size": 5786837,
     "MD5": "71d033172d0a92d3aabd75a444836d4b"
   },
   {
-    "FileName": "Mods\\@ModsSparda\\Addons_orig\\SpardaVIP.pbo.dnaz.bisign",
+    "FileName": "Mods\\@ModsSparda\\Addons_1\\SpardaVIP.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "d37b1270cbebdf31516cb2125d2fe44b"
+  },
+  {
+    "FileName": "Mods\\@ModsSparda\\Addons_1\\SpardaVIP.pbo.evolucao.bisign",
+    "Size": 561,
+    "MD5": "4eee1d7f626fb252594d225661f10f36"
+  },
+  {
+    "FileName": "Mods\\@ModsSparda\\Addons_1\\Storedata.pbo",
+    "Size": 498015,
+    "MD5": "5839e60428b19a35f330fd5b4918c127"
+  },
+  {
+    "FileName": "Mods\\@ModsSparda\\Addons_1\\Storedata.pbo.evolucao.bisign",
+    "Size": 561,
+    "MD5": "1301c14ce1b5aa04f61e031300cbdb48"
   },
   {
     "FileName": "Mods\\@Paragon\\meta.cpp",
@@ -4963,96 +5353,6 @@
     "FileName": "Mods\\@Paragon\\addons\\ParagonGear2.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "8b93c5c792246503e5005e356d0b7c5e"
-  },
-  {
-    "FileName": "Mods\\@Paragon Arsenal\\meta.cpp",
-    "Size": 103,
-    "MD5": "2346336816f6c28540e5d6ee313c5fbc"
-  },
-  {
-    "FileName": "Mods\\@Paragon Arsenal\\addons\\Paragon_Arsenal.pbo",
-    "Size": 1723188764,
-    "MD5": "53f107c5358d9dc495e74fb4ea50b144"
-  },
-  {
-    "FileName": "Mods\\@Paragon Arsenal\\addons\\Paragon_Arsenal.pbo.Paragon.bisign",
-    "Size": 560,
-    "MD5": "85359755a3a9e2b479f3d3a1c5f6c2cb"
-  },
-  {
-    "FileName": "Mods\\@Paragon Arsenal\\extras\\Class names.txt",
-    "Size": 3102,
-    "MD5": "d459bcda24176f0ddb0cbbda45843448"
-  },
-  {
-    "FileName": "Mods\\@Paragon Arsenal\\extras\\TraderConfig_Paragon.txt",
-    "Size": 5706,
-    "MD5": "3b04ffdfa9fe6f23e0adaf476f8fb4c4"
-  },
-  {
-    "FileName": "Mods\\@Paragon Arsenal\\extras\\TraderPlus.txt",
-    "Size": 6853,
-    "MD5": "df701ac9e6f38abdfb8b5b7f4bc107f0"
-  },
-  {
-    "FileName": "Mods\\@Paragon Arsenal\\extras\\TypesXML_Paragon.txt",
-    "Size": 60309,
-    "MD5": "39a87141b0ccf7710ec865b6a855697b"
-  },
-  {
-    "FileName": "Mods\\@Paragon Arsenal\\keys\\Paragon.bikey",
-    "Size": 160,
-    "MD5": "4a6603db57bcac83054b10f68a07250a"
-  },
-  {
-    "FileName": "Mods\\@Paragon Storage\\meta.cpp",
-    "Size": 103,
-    "MD5": "e33664af78617b73291f588ba4a2a771"
-  },
-  {
-    "FileName": "Mods\\@Paragon Storage\\addons\\ParagonStorage.pbo",
-    "Size": 762861240,
-    "MD5": "ad23b76375e7a2972474721a33b188ae"
-  },
-  {
-    "FileName": "Mods\\@Paragon Storage\\addons\\ParagonStorage.pbo.Paragon.bisign",
-    "Size": 560,
-    "MD5": "9ec21c128d56f62c88b32bc49cdb7b7b"
-  },
-  {
-    "FileName": "Mods\\@Paragon Storage\\addons\\TabletHacking.pbo",
-    "Size": 264892,
-    "MD5": "70a6b5a6330e5fa48ea9b6a476abe469"
-  },
-  {
-    "FileName": "Mods\\@Paragon Storage\\addons\\TabletHacking.pbo.Paragon.bisign",
-    "Size": 560,
-    "MD5": "fb5c954f92152250bab01a7b5d43c943"
-  },
-  {
-    "FileName": "Mods\\@Paragon Storage\\extras\\Class names.txt",
-    "Size": 5004,
-    "MD5": "04885288b86ec4c0d96390a2c59af6b7"
-  },
-  {
-    "FileName": "Mods\\@Paragon Storage\\extras\\READ.cpp",
-    "Size": 549,
-    "MD5": "deea9444fc21755ada4f79eb4aed0f87"
-  },
-  {
-    "FileName": "Mods\\@Paragon Storage\\extras\\TraderConfig.txt",
-    "Size": 9737,
-    "MD5": "50c633d12caa139e36695e181dbe612d"
-  },
-  {
-    "FileName": "Mods\\@Paragon Storage\\extras\\types.xml",
-    "Size": 72162,
-    "MD5": "73e5b561e3a18cc21f9f037e5207065c"
-  },
-  {
-    "FileName": "Mods\\@Paragon Storage\\keys\\Paragon.bikey",
-    "Size": 160,
-    "MD5": "4a6603db57bcac83054b10f68a07250a"
   },
   {
     "FileName": "Mods\\@ParagonArsenal\\meta.cpp",
@@ -5091,6 +5391,56 @@
   },
   {
     "FileName": "Mods\\@ParagonArsenal\\keys\\Paragon.bikey",
+    "Size": 160,
+    "MD5": "4a6603db57bcac83054b10f68a07250a"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\meta.cpp",
+    "Size": 103,
+    "MD5": "e33664af78617b73291f588ba4a2a771"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\addons\\ParagonStorage.pbo",
+    "Size": 762861240,
+    "MD5": "ad23b76375e7a2972474721a33b188ae"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\addons\\ParagonStorage.pbo.Paragon.bisign",
+    "Size": 560,
+    "MD5": "9ec21c128d56f62c88b32bc49cdb7b7b"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\addons\\TabletHacking.pbo",
+    "Size": 264892,
+    "MD5": "70a6b5a6330e5fa48ea9b6a476abe469"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\addons\\TabletHacking.pbo.Paragon.bisign",
+    "Size": 560,
+    "MD5": "fb5c954f92152250bab01a7b5d43c943"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\extras\\Class names.txt",
+    "Size": 5004,
+    "MD5": "04885288b86ec4c0d96390a2c59af6b7"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\extras\\READ.cpp",
+    "Size": 549,
+    "MD5": "deea9444fc21755ada4f79eb4aed0f87"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\extras\\TraderConfig.txt",
+    "Size": 9737,
+    "MD5": "50c633d12caa139e36695e181dbe612d"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\extras\\types.xml",
+    "Size": 72162,
+    "MD5": "73e5b561e3a18cc21f9f037e5207065c"
+  },
+  {
+    "FileName": "Mods\\@ParagonStorage\\keys\\Paragon.bikey",
     "Size": 160,
     "MD5": "4a6603db57bcac83054b10f68a07250a"
   },
@@ -5355,67 +5705,27 @@
     "MD5": "fa353fab482af3c94c94c1ec5d1718d0"
   },
   {
-    "FileName": "Mods\\@TravelingTrader\\config.cpp",
-    "Size": 553,
-    "MD5": "b218807fa18db43478b4e241741005fb"
-  },
-  {
-    "FileName": "Mods\\@TravelingTrader\\meta.cpp",
-    "Size": 104,
-    "MD5": "98baf21b0e274b98582c9d0b52ca5e8a"
-  },
-  {
-    "FileName": "Mods\\@TravelingTrader\\addons\\TravelingTrader.pbo",
-    "Size": 6835,
-    "MD5": "aa31a2da349c8e0ddd3ba5259611e6a1"
-  },
-  {
-    "FileName": "Mods\\@TravelingTrader\\addons\\TravelingTrader.pbo.LinuxPhantom.bisign",
-    "Size": 565,
-    "MD5": "66bf9b379f610760c25ed3083a2bc2c0"
-  },
-  {
-    "FileName": "Mods\\@TravelingTrader\\INFO\\config.json",
-    "Size": 1211,
-    "MD5": "30c941f7dc44c150e95016bcecb4c3a5"
-  },
-  {
-    "FileName": "Mods\\@TravelingTrader\\INFO\\ExampleJson.txt",
-    "Size": 2153,
-    "MD5": "01c44c290eda6b81c328d82a3912bff2"
-  },
-  {
-    "FileName": "Mods\\@TravelingTrader\\INFO\\README.txt",
-    "Size": 4048,
-    "MD5": "6314c031b998838eab2f04222947b1c3"
-  },
-  {
-    "FileName": "Mods\\@TravelingTrader\\keys\\LinuxPhantom.bikey",
-    "Size": 165,
-    "MD5": "7b5bbcad94d7a70a65d9312c41cca6da"
-  },
-  {
-    "FileName": "Mods\\@Underground Bases\\meta.cpp",
+    "FileName": "Mods\\@UndergroundBases\\meta.cpp",
     "Size": 105,
     "MD5": "db94c5aa1f5b24e07425a4200970444a"
   },
   {
-    "FileName": "Mods\\@Underground Bases\\Addons\\UnderGroundBases.pbo",
+    "FileName": "Mods\\@UndergroundBases\\Addons\\UnderGroundBases.pbo",
     "Size": 259087255,
     "MD5": "602ddd33784533c8151793abfb8e32fd"
   },
   {
-    "FileName": "Mods\\@Underground Bases\\Addons\\UnderGroundBases.pbo.UGBCPB.bisign",
+    "FileName": "Mods\\@UndergroundBases\\Addons\\UnderGroundBases.pbo.UGBCPB.bisign",
     "Size": 559,
     "MD5": "fac3637405865c616038d24aebaddf20"
   },
   {
-    "FileName": "Mods\\@Underground Bases\\Keys\\UGBCPB.bikey",
+    "FileName": "Mods\\@UndergroundBases\\Keys\\UGBCPB.bikey",
     "Size": 159,
     "MD5": "a66e05563b573eeff435c6d07d887602"
   },
   {
-    "FileName": "Mods\\@Underground Bases\\XMLs\\UGBTypes.xml",
+    "FileName": "Mods\\@UndergroundBases\\XMLs\\UGBTypes.xml",
     "Size": 1317,
     "MD5": "3a35245d73fd79d0de7bc1660f2a5757"
   },
@@ -5456,8 +5766,8 @@
   },
   {
     "FileName": "Mods\\@VPPAdminTools\\Addons\\VPPAdminTools.pbo",
-    "Size": 2017246,
-    "MD5": "5af89b4dd89a5a15b20ab9c43ab054b9"
+    "Size": 10041235,
+    "MD5": "cf98e0664463ab47461ae1272c428e77"
   },
   {
     "FileName": "Mods\\@VPPAdminTools\\Addons\\VPPAdminTools.pbo.dnaz.bisign",
@@ -5490,134 +5800,359 @@
     "MD5": "70477dba4673b075c3665fd994f2ec7a"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\meta.cpp",
+    "FileName": "Mods\\@WinterChernarus\\meta.cpp",
     "Size": 104,
     "MD5": "ae4ba7310e73e55db06951b130a64f38"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\bunkergrass.pbo",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\BadgerWinter.pbo",
+    "Size": 176378385,
+    "MD5": "b7c2f80b31a11f6fcd872e871da612d9"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\BadgerWinter.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "3439f3f5e82d942ff17adc852ae3c6c9"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\bunkergrass.pbo",
     "Size": 15974327,
     "MD5": "27a0834f8bbbfcaecb2a4007dfb4638f"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\bunkergrass.pbo.Crazymike_winterchernarus.bisign",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\bunkergrass.pbo.Crazymike_winterchernarus.bisign",
     "Size": 578,
     "MD5": "c040e04b32fd6b2dc930b77703565950"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\chernarus_winter_roads.pbo",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\bunkergrass.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "115bf4d45d07c0738361f669e40f6a3b"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\chernarus_winter_roads.pbo",
     "Size": 213743727,
     "MD5": "a614249763d8429e6e7d6523002348e4"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\chernarus_winter_roads.pbo.Crazymike_winterchernarus.bisign",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\chernarus_winter_roads.pbo.Crazymike_winterchernarus.bisign",
     "Size": 578,
     "MD5": "33f498e85b0d749f33ad6784dca897a7"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\Chernarus_Winter_satmap.pbo",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\chernarus_winter_roads.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "ac99cd8e4c171a85dd616997254363a6"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\Chernarus_Winter_satmap.pbo",
     "Size": 258878941,
     "MD5": "27ff05966c436b5a7deaef1a2434e680"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\Chernarus_Winter_satmap.pbo.Crazymike_winterchernarus.bisign",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\Chernarus_Winter_satmap.pbo.Crazymike_winterchernarus.bisign",
     "Size": 578,
     "MD5": "421b46e848e9baf65bc180a5e98c7e21"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\chernarus_winter_scripts.pbo",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\Chernarus_Winter_satmap.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "ca2b06359b3f1c1de352c1e502ad0055"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\chernarus_winter_scripts.pbo",
     "Size": 63211,
     "MD5": "31e8a7c113d674f5dc6b60db74f6d286"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\chernarus_winter_scripts.pbo.Crazymike_winterchernarus.bisign",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\chernarus_winter_scripts.pbo.Crazymike_winterchernarus.bisign",
     "Size": 578,
     "MD5": "5f4f2483289de825a5d2595afe3fb5c8"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\farm.pbo",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\chernarus_winter_scripts.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "26b0377d322b6c790ca4f513acf524da"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\farm.pbo",
     "Size": 82504975,
     "MD5": "4327f5f1c19e443e521b74be398e8d1c"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\farm.pbo.Crazymike_winterchernarus.bisign",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\farm.pbo.Crazymike_winterchernarus.bisign",
     "Size": 578,
     "MD5": "ba735602d34232490b173394e215ca2e"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\misc.pbo",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\farm.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "d58604d8b9ff2dadbfedd22e3b897a44"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\MilitaryGear_Backpacks.pbo",
+    "Size": 136005996,
+    "MD5": "d2f917f263db214a42ae68a029353af7"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\MilitaryGear_Backpacks.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "05990526f84ced36951c029048ff4921"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\MilitaryGear_Ghillie.pbo",
+    "Size": 19113525,
+    "MD5": "66d577b041cd368ded5967a0b3afde1a"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\MilitaryGear_Ghillie.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "530f08218e49fae02e73ad7d12f8eda6"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\MilitaryGear_Headgear.pbo",
+    "Size": 39579144,
+    "MD5": "e50a65bbed6375645363fcbc2e92b00e"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\MilitaryGear_Headgear.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "4e30a50a7500232db4116a8a2de590c7"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\MilitaryGear_Masks.pbo",
+    "Size": 48478743,
+    "MD5": "912ffc416a4cd759e25e872d719e0b64"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\MilitaryGear_Masks.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "75263cf897e75c45d0fe49057e50aa8e"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\MilitaryGear_Pants.pbo",
+    "Size": 56304634,
+    "MD5": "a0d0253c1e7bd2687f8c0b61339e9f49"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\MilitaryGear_Pants.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "d3e0a8777f2feb14c708cbaa704ce950"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\MilitaryGear_Scripts.pbo",
+    "Size": 535739,
+    "MD5": "f0efdcd6aff4de0852c816870f8e9468"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\MilitaryGear_Scripts.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "d4c9d0ea99c10863425a6984df96fa82"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\MilitaryGear_Tents.pbo",
+    "Size": 78413840,
+    "MD5": "8b6c64a37a4708e8de937084d817530c"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\MilitaryGear_Tents.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "42bbb467b52f2d3666d8588178ef3105"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\MilitaryGear_Tops.pbo",
+    "Size": 76255104,
+    "MD5": "0a3ff4ada75ca42a752ed9e959c6def3"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\MilitaryGear_Tops.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "d29cabd554b1127c56dc899a2715ae29"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\MilitaryGear_Vests.pbo",
+    "Size": 87810140,
+    "MD5": "69ad44914bb8cebc06662c98d67abe1f"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\MilitaryGear_Vests.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "dfaeb974f856bc1b7cf85597e4d4df6a"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\misc.pbo",
     "Size": 62749100,
     "MD5": "74bb4d0ab0ad7d7c8dd19a8685e44229"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\misc.pbo.Crazymike_winterchernarus.bisign",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\misc.pbo.Crazymike_winterchernarus.bisign",
     "Size": 578,
     "MD5": "5ac9297f6885f50175a99847d1d1ccce"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\plants_bush_winter.pbo",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\misc.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "1cb7cbb42437ec87a7f3b802b32c1161"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\plants_bush_winter.pbo",
     "Size": 32125141,
     "MD5": "41e0825d336b6ac4212155a5e31757dc"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\plants_bush_winter.pbo.Crazymike_winterchernarus.bisign",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\plants_bush_winter.pbo.Crazymike_winterchernarus.bisign",
     "Size": 578,
     "MD5": "2aa7bf762bee48bbf2bc4075d8594805"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\plants_trees_winter.pbo",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\plants_bush_winter.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "d091507b914f1c394df544515f4bcb0b"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\plants_trees_winter.pbo",
     "Size": 508587891,
     "MD5": "0ed6e31264926b8e7c9f978a9e243f5f"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\plants_trees_winter.pbo.Crazymike_winterchernarus.bisign",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\plants_trees_winter.pbo.Crazymike_winterchernarus.bisign",
     "Size": 578,
     "MD5": "f3b851d1d11cee3ca0c951fccf471adb"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\rail_winter.pbo",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\plants_trees_winter.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "b6dc124d9615ce43d2815acf49c8fcfb"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\rail_winter.pbo",
     "Size": 4606687,
     "MD5": "e89d1dfab7f571432d728ded1abc1816"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\rail_winter.pbo.Crazymike_winterchernarus.bisign",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\rail_winter.pbo.Crazymike_winterchernarus.bisign",
     "Size": 578,
     "MD5": "e21a67ace760b0c1356b22ee3c660ce1"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\surfaces_winter.pbo",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\rail_winter.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "7b1efa085e934c2cbd1a7b5b63b44cda"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\surfaces_winter.pbo",
     "Size": 118634568,
     "MD5": "2f7a33966b735f5863935572bce6eae3"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\surfaces_winter.pbo.Crazymike_winterchernarus.bisign",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\surfaces_winter.pbo.Crazymike_winterchernarus.bisign",
     "Size": 578,
     "MD5": "0991fa362e8ddab8f2d27efd6782bf7c"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\Winter_Expansion.pbo",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\surfaces_winter.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "09dc920282369fe43276bec6adc1ca3c"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\Winter_Expansion.pbo",
     "Size": 13530477,
     "MD5": "4dd7f2afddbe7c6132b2f912691ce2be"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\Winter_Expansion.pbo.Crazymike_winterchernarus.bisign",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\Winter_Expansion.pbo.Crazymike_winterchernarus.bisign",
     "Size": 578,
     "MD5": "faa69a478bb52471d28b079081fae301"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\Winter_Expansion_Zombies.pbo",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\Winter_Expansion.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "919affad0fbbb5a25764d13830bae7dd"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Addons\\Winter_Expansion_Zombies.pbo",
     "Size": 8572318,
     "MD5": "474f9cb60cf28d460738fe3c5fa46e3d"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Addons\\Winter_Expansion_Zombies.pbo.Crazymike_winterchernarus.bisign",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\Winter_Expansion_Zombies.pbo.Crazymike_winterchernarus.bisign",
     "Size": 578,
     "MD5": "bf448f5949500c13517ded4c1054d910"
   },
   {
-    "FileName": "Mods\\@Winter Chernarus\\Keys\\Crazymike_winterchernarus.bikey",
+    "FileName": "Mods\\@WinterChernarus\\Addons\\Winter_Expansion_Zombies.pbo.DNASERVER.bisign",
+    "Size": 562,
+    "MD5": "88be73ac7335b280d5a22ee12e16f86f"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\Keys\\Crazymike_winterchernarus.bikey",
     "Size": 178,
     "MD5": "4d702f55c45c44b0d639781d5343fe89"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\xml\\All Types V10 - sorted by camos.xml",
+    "Size": 233229,
+    "MD5": "6dd53ebef9afe5a1eb30ef1060d6a401"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\xml\\badgerwinterwear_types.txt",
+    "Size": 79420,
+    "MD5": "a79de4b72a5299c20c3d0b20f1a32ad1"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\xml\\Custom Item List.txt",
+    "Size": 3700,
+    "MD5": "7fd148fcb31d4cb606326b40b11094bb"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\xml\\dayz_badgers_winter_wear_traderintegration.txt",
+    "Size": 6735,
+    "MD5": "d9646c26d469d629f60d5eb1e667704a"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\xml\\ItemNames.txt",
+    "Size": 3608,
+    "MD5": "14438ef7cd15bc8c81c4900e850866ca"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\xml\\meta.cpp",
+    "Size": 109,
+    "MD5": "683fd60927754f74311f2d620e6e3fc1"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\xml\\TraderConfig V10 only.txt",
+    "Size": 1916,
+    "MD5": "03869d9e600cbc529c6712a7b48c6a2a"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\xml\\TraderConfig V10.txt",
+    "Size": 24723,
+    "MD5": "76c48a22e26426e7aa5d5baade852871"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\xml\\Types V10 only.xml",
+    "Size": 14772,
+    "MD5": "e49cf1ab0a661cec7067f72afea13c6b"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\xmlbag\\badgerwinterwear_types.txt",
+    "Size": 79420,
+    "MD5": "a79de4b72a5299c20c3d0b20f1a32ad1"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\xmlbag\\Custom Item List.txt",
+    "Size": 3700,
+    "MD5": "7fd148fcb31d4cb606326b40b11094bb"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\xmlbag\\dayz_badgers_winter_wear_traderintegration.txt",
+    "Size": 6735,
+    "MD5": "d9646c26d469d629f60d5eb1e667704a"
+  },
+  {
+    "FileName": "Mods\\@WinterChernarus\\xmlbag\\ItemNames.txt",
+    "Size": 3608,
+    "MD5": "14438ef7cd15bc8c81c4900e850866ca"
   },
   {
     "FileName": "Mods\\_@TravelingTrader\\config.cpp",
