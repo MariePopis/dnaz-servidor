@@ -35,6 +35,11 @@
     "MD5": "3956130e36754f184a0443c850f708f8"
   },
   {
+    "FileName": "filelist.json",
+    "Size": 176536,
+    "MD5": "4548618451463a1e3782015b5afb4d60"
+  },
+  {
     "FileName": "Microsoft.Bcl.AsyncInterfaces.dll",
     "Size": 26752,
     "MD5": "970b6e6478ae3ab699f277d77de0cd19"
@@ -5193,6 +5198,11 @@
     "FileName": "Mods\\@ModsSparda\\Addons\\HumanZombieScript.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "e7f2b5037ee49e5e927c22b93903a420"
+  },
+  {
+    "FileName": "Mods\\@ModsSparda\\Addons\\HumanZombieServer.pbo",
+    "Size": 269577,
+    "MD5": "35c412b6ff273384c1150c6c5741f66e"
   },
   {
     "FileName": "Mods\\@ModsSparda\\Addons\\SpardaStore.pbo",
