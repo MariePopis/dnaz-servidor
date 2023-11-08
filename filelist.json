@@ -4380,56 +4380,6 @@
     "MD5": "6ef9957eb7d0630cca700069eadabcb5"
   },
   {
-    "FileName": "Mods\\@Estacao\\addons\\CJ187_SummerChernarus_Bunkergrass.pbo",
-    "Size": 21732642,
-    "MD5": "39f4fbd9a8e434a1a97c017cd326d872"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\CJ187_SummerChernarus_Bunkergrass.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "09e4d7deee0998ab57fcce9bfc1f72c5"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\CJ187_SummerChernarus_GhillieSuit.pbo",
-    "Size": 2747094,
-    "MD5": "d8c38f5832e3dd0b0d9b58e1b8b51cc1"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\CJ187_SummerChernarus_GhillieSuit.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "5efc4a9e57c06ce74f562971203fee95"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\CJ187_SummerChernarus_Plants.pbo",
-    "Size": 684547559,
-    "MD5": "0b17cd0901b2f31e0ce91eea7ff854da"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\CJ187_SummerChernarus_Plants.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "15f0bc40281e32ad332bd4419e7cc904"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\CJ187_SummerChernarus_Sounds.pbo",
-    "Size": 6921097,
-    "MD5": "268a1fca303171d407b4de257368c540"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\CJ187_SummerChernarus_Sounds.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "f1c4a11326123e7886cea5767e1cdce9"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\CJ187_SummerChernarus_Surfaces.pbo",
-    "Size": 151155803,
-    "MD5": "d6010cc1326516b251d28f04658279bc"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\CJ187_SummerChernarus_Surfaces.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "5af227d3a7989c49e8956b2db6282055"
-  },
-  {
     "FileName": "Mods\\@Estacao\\addons\\farm.pbo",
     "Size": 82504975,
     "MD5": "4327f5f1c19e443e521b74be398e8d1c"
@@ -4478,16 +4428,6 @@
     "FileName": "Mods\\@Estacao\\addons\\rail_winter.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "b7cfcac5718da02051df7478e155c9fd"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\summer_highgrass.pbo",
-    "Size": 9816,
-    "MD5": "fc54e4090d4b20d918600760fa456b36"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\summer_highgrass.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "57ed74ce5e341b857d2ae780f0f55fbb"
   },
   {
     "FileName": "Mods\\@Estacao\\addons\\surfaces_winter.pbo",
