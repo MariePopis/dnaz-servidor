@@ -3875,6 +3875,16 @@
     "MD5": "263e1477b05baf6b78f52b1b1dfa80cd"
   },
   {
+    "FileName": "Mods\\@edificacao\\addons\\Bagpackfix.pbo",
+    "Size": 2667,
+    "MD5": "0331c0defadf82f9d854b20ab47fdb86"
+  },
+  {
+    "FileName": "Mods\\@edificacao\\addons\\Bagpackfix.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "766bfb610f5ff7dcf05484ec0f9a05b9"
+  },
+  {
     "FileName": "Mods\\@edificacao\\addons\\billboards.pbo",
     "Size": 2969,
     "MD5": "464705d5ed42bc53026e742b29f916c8"
@@ -3943,6 +3953,16 @@
     "FileName": "Mods\\@edificacao\\addons\\FKN_Items_Static.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "1a11f98a1d5f50a939e4051ce80f8e25"
+  },
+  {
+    "FileName": "Mods\\@edificacao\\addons\\FSP3.8.pbo",
+    "Size": 36498,
+    "MD5": "88630e42b7a08b3470ef302cc0c570fb"
+  },
+  {
+    "FileName": "Mods\\@edificacao\\addons\\FSP3.8.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "fcfdea1e265ba40062f89925a21958d0"
   },
   {
     "FileName": "Mods\\@edificacao\\addons\\furniture.pbo",
@@ -4205,6 +4225,16 @@
     "MD5": "32c88900a2daac8dc5351287b4d2442f"
   },
   {
+    "FileName": "Mods\\@edificacao\\addons\\snafubullet3.3.pbo",
+    "Size": 23954,
+    "MD5": "403c1e20f909f610e768d81334452e41"
+  },
+  {
+    "FileName": "Mods\\@edificacao\\addons\\snafubullet3.3.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "cdef7b443d80adeb8c90411576b090a2"
+  },
+  {
     "FileName": "Mods\\@edificacao\\addons\\SPBuilding.pbo",
     "Size": 138498800,
     "MD5": "72df616cb56983141bed7ba55d897362"
@@ -4243,6 +4273,16 @@
     "FileName": "Mods\\@edificacao\\addons\\staticitems.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "d1947441236cf26b80b6cb38b6125d3d"
+  },
+  {
+    "FileName": "Mods\\@edificacao\\addons\\SuperFunGun.pbo",
+    "Size": 25140860,
+    "MD5": "7bd150495b5c43fa141b40c907825ba6"
+  },
+  {
+    "FileName": "Mods\\@edificacao\\addons\\SuperFunGun.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "3a8516ec9cf05d08ed9868949dd9eef9"
   },
   {
     "FileName": "Mods\\@edificacao\\addons\\traffic.pbo",
@@ -4798,11 +4838,6 @@
     "FileName": "Mods\\@Estacao\\addons\\Verão\\summer_highgrass.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "57ed74ce5e341b857d2ae780f0f55fbb"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\Typesinverno - Copia\\types.xml",
-    "Size": 797,
-    "MD5": "3c10f874d6efb94f9d4e0fd3a8597c29"
   },
   {
     "FileName": "Mods\\@GUI\\Addons\\GUISparda.pbo",
