@@ -5,12 +5,12 @@
     "MD5": "14a6db156de5b3e224232f6251f839dd"
   },
   {
-    "FileName": "DayZ DNAZ.exe",
+    "FileName": "DayZ Launcher.exe",
     "Size": 21168640,
-    "MD5": "ab854b275bfc7eb2e135a8db5196ea2f"
+    "MD5": "a3172ef3187c35c5e2b0bbeb52c297c5"
   },
   {
-    "FileName": "DayZ DNAZ.exe.config",
+    "FileName": "DayZ Launcher.exe.config",
     "Size": 552,
     "MD5": "ea18aff34def054cc191cf77a13dfc7d"
   },
@@ -43,11 +43,6 @@
     "FileName": "Newtonsoft.Json.dll",
     "Size": 711952,
     "MD5": "195ffb7167db3219b217c4fd439eedd6"
-  },
-  {
-    "FileName": "Nickname.ini",
-    "Size": 7,
-    "MD5": "ede3a2da1a9c83c49da69280e331b5e3"
   },
   {
     "FileName": "steam_api64.dll",
@@ -1500,16 +1495,6 @@
     "MD5": "37af7dc5fab6bd834bfd6ae8a01c5714"
   },
   {
-    "FileName": "Mods\\@AdvancedWeaponScopes\\meta.cpp",
-    "Size": 110,
-    "MD5": "7f5fe509c1c1bb38302265ce708865f4"
-  },
-  {
-    "FileName": "Mods\\@AdvancedWeaponScopes\\mod.cpp",
-    "Size": 32,
-    "MD5": "30e41bb9ff65acc89664d347d5d6081b"
-  },
-  {
     "FileName": "Mods\\@AdvancedWeaponScopes\\Addons\\AdvancedWeaponScopes.pbo",
     "Size": 262934115,
     "MD5": "420d180adc4fa45d293ce3bcae6ffd40"
@@ -1518,16 +1503,6 @@
     "FileName": "Mods\\@AdvancedWeaponScopes\\Addons\\AdvancedWeaponScopes.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "98763150ba8d26bf9466084eb8b8d0f4"
-  },
-  {
-    "FileName": "Mods\\@BaseBuildingPlus\\meta.cpp",
-    "Size": 104,
-    "MD5": "0ab0939838634a6fcb8de1f18f140654"
-  },
-  {
-    "FileName": "Mods\\@BaseBuildingPlus\\mod.cpp",
-    "Size": 1106,
-    "MD5": "9068b844c6b7c659df04c3cda34019b3"
   },
   {
     "FileName": "Mods\\@BaseBuildingPlus\\addons\\BaseBuildingPlus.pbo",
@@ -1570,11 +1545,6 @@
     "MD5": "eb0987815686b017ebced48f2822d0ca"
   },
   {
-    "FileName": "Mods\\@BasicMap\\meta.cpp",
-    "Size": 97,
-    "MD5": "32b820356824c4c925cf889ee78c3e75"
-  },
-  {
     "FileName": "Mods\\@BasicMap\\Addons\\BasicMap.pbo",
     "Size": 71048674,
     "MD5": "b5057e1781e03afc3f7e950a64b0472a"
@@ -1595,16 +1565,6 @@
     "MD5": "60a19f63b51848af5163a18638c4c554"
   },
   {
-    "FileName": "Mods\\@BasicSpawnSelect\\meta.cpp",
-    "Size": 104,
-    "MD5": "f4013ae3d9fb62229ff0b6574a2c729e"
-  },
-  {
-    "FileName": "Mods\\@BasicSpawnSelect\\mod.cpp",
-    "Size": 1063,
-    "MD5": "f8bfa394b7990bbd42ec74367c7db9c0"
-  },
-  {
     "FileName": "Mods\\@BasicSpawnSelect\\Addons\\BasicSpawnSelect.pbo",
     "Size": 2465512,
     "MD5": "43aa06dfa6ddc2642c724bdc41607777"
@@ -1613,11 +1573,6 @@
     "FileName": "Mods\\@BasicSpawnSelect\\Addons\\BasicSpawnSelect.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "822d0e4b5e65d678a9da52078c4fcc64"
-  },
-  {
-    "FileName": "Mods\\@Breachingcharge\\meta.cpp",
-    "Size": 103,
-    "MD5": "0fa58d9362b27eee9f78cb6b6d60c24c"
   },
   {
     "FileName": "Mods\\@Breachingcharge\\Addons\\HDSN_BreachingCharge.pbo",
@@ -1630,9 +1585,14 @@
     "MD5": "7d268337f933133659c6ec820dfab375"
   },
   {
-    "FileName": "Mods\\@BuilderItems\\meta.cpp",
-    "Size": 100,
-    "MD5": "121512bc9bb078475fa3e041ce94afc0"
+    "FileName": "Mods\\@BuilderItems\\addons\\AltarRetreat.pbo",
+    "Size": 101,
+    "MD5": "236a24a981df28e934f4e3023bd5057c"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\AltarRetreat.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "2e3d86764a27eddd32574c29ebb71500"
   },
   {
     "FileName": "Mods\\@BuilderItems\\addons\\billboards.pbo",
@@ -1663,6 +1623,46 @@
     "FileName": "Mods\\@BuilderItems\\addons\\BuildingsModPack.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "dd23852a1d4e7cfb1a4bacbaadea8171"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\BuildingsModPack2.pbo",
+    "Size": 718492938,
+    "MD5": "b3d4381eb626f6c36b742e66559486ca"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\BuildingsModPack2.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "30555137ed8dbdaf09907f21f5c3a535"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\BuildingsModPack3.pbo",
+    "Size": 1517380735,
+    "MD5": "1d72a08ea4c3a9f7942e206410f4af4f"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\BuildingsModPack3.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "cfc7de4b30c320e64916c69f48030298"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\BuildingsModPack4.pbo",
+    "Size": 786901007,
+    "MD5": "a2d950772d0af37dec036ae6929cc682"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\BuildingsModPack4.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "7aa4b3a26b8285244b4edc14ceacb9f7"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\BuildingsModPack6.pbo",
+    "Size": 440336662,
+    "MD5": "df8fb487a865972028252d7606687c03"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\BuildingsModPack6.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "4f5a3faf7239cb4afe6411021c33729a"
   },
   {
     "FileName": "Mods\\@BuilderItems\\addons\\BuildingsModPack7.pbo",
@@ -1995,19 +1995,34 @@
     "MD5": "b164bc1be3d8ff93f40734fe6606cf24"
   },
   {
-    "FileName": "Mods\\@BuilderItems\\keys\\NotABananaV3.bikey",
-    "Size": 165,
-    "MD5": "2e1d9d9531344a7f7fe917e610d0b37a"
+    "FileName": "Mods\\@BuilderItems\\addons\\ZStuff.pbo",
+    "Size": 1855669124,
+    "MD5": "2a6504b4501fee5ed309cd17d5f69fa2"
   },
   {
-    "FileName": "Mods\\@CannabisPlus\\meta.cpp",
-    "Size": 100,
-    "MD5": "5414f82f85d280b24a144961ed078d50"
+    "FileName": "Mods\\@BuilderItems\\addons\\ZStuff.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "5d58e6980386d57d2c0fe4d2a434983e"
   },
   {
-    "FileName": "Mods\\@CannabisPlus\\mod.cpp",
-    "Size": 793,
-    "MD5": "676fd28ec6c09e81b1218a4a99ce960a"
+    "FileName": "Mods\\@BuilderItems\\addons\\ZStuff01.pbo",
+    "Size": 548621938,
+    "MD5": "4bc3002004d88a0ea50347ddd7e05895"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\ZStuff01.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "86cbf9709019e70045c8bc91e72e043c"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\ZStuff02.pbo",
+    "Size": 925158985,
+    "MD5": "8df88ace92f9c4f3ac1775756f3edafa"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\addons\\ZStuff02.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "5ec2d63343f90f6ad462c511fbf40a46"
   },
   {
     "FileName": "Mods\\@CannabisPlus\\addons\\CannabisPlus.pbo",
@@ -2038,11 +2053,6 @@
     "FileName": "Mods\\@CannabisPlus\\addons\\CPTOKENS.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "b6388101cc699466e2b72ffe1b7c726b"
-  },
-  {
-    "FileName": "Mods\\@CannabisPlus\\keys\\IceBlade.bikey",
-    "Size": 161,
-    "MD5": "e50a650799f179bae8ba5f3b15329dba"
   },
   {
     "FileName": "Mods\\@Cars\\Addons\\Audi_RS6.pbo",
@@ -3565,16 +3575,6 @@
     "MD5": "878f9cc224a317ca1fe3bc06f4df84f3"
   },
   {
-    "FileName": "Mods\\@CF\\meta.cpp",
-    "Size": 90,
-    "MD5": "041cf6f8a7f02326dfb49d2df03b22c1"
-  },
-  {
-    "FileName": "Mods\\@CF\\mod.cpp",
-    "Size": 539,
-    "MD5": "76ea704e214527f9a0e447bd836ab1bc"
-  },
-  {
     "FileName": "Mods\\@CF\\Addons\\GUI.pbo",
     "Size": 96852,
     "MD5": "512fb1fc8cba1d49060099739fb713eb"
@@ -3605,21 +3605,6 @@
     "MD5": "f85df6c607449d7f0aa276d1a04ccc47"
   },
   {
-    "FileName": "Mods\\@CF\\keys\\Jacob_Mango_V3.bikey",
-    "Size": 167,
-    "MD5": "5d1b66407ee86a70fe9caa6a196c0e01"
-  },
-  {
-    "FileName": "Mods\\@CodeLock\\meta.cpp",
-    "Size": 97,
-    "MD5": "40ede411a38d9955ac6d4655d3301a0d"
-  },
-  {
-    "FileName": "Mods\\@CodeLock\\mod.cpp",
-    "Size": 568,
-    "MD5": "0ae346658b94ccf587ad7ff34f0bad56"
-  },
-  {
     "FileName": "Mods\\@CodeLock\\Addons\\CodeLock.pbo",
     "Size": 10381094,
     "MD5": "fefa81337efca3747e3781eb08ba68d7"
@@ -3628,11 +3613,6 @@
     "FileName": "Mods\\@CodeLock\\Addons\\CodeLock.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "3f756204ea6c9328c7a549c98fcbe81f"
-  },
-  {
-    "FileName": "Mods\\@DabsFramework\\meta.cpp",
-    "Size": 102,
-    "MD5": "99260ca53df1778f66ead4949149824e"
   },
   {
     "FileName": "Mods\\@DabsFramework\\addons\\GUI.pbo",
@@ -3663,21 +3643,6 @@
     "FileName": "Mods\\@DabsFramework\\addons\\Scripts.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "de9bd90135452ceb856aef420e12107d"
-  },
-  {
-    "FileName": "Mods\\@DabsFramework\\keys\\dab.bikey",
-    "Size": 156,
-    "MD5": "eabd6b6d064f1adad6dbfd17231602c0"
-  },
-  {
-    "FileName": "Mods\\@DayZEditorLoader\\meta.cpp",
-    "Size": 106,
-    "MD5": "b68d6ae5c054ce9647a86d7a3895ef2e"
-  },
-  {
-    "FileName": "Mods\\@DayZEditorLoader\\mod.cpp",
-    "Size": 136,
-    "MD5": "c1965e062691b5553ac79cb506f5a367"
   },
   {
     "FileName": "Mods\\@DayZEditorLoader\\Addons\\Scripts.pbo",
@@ -3840,29 +3805,14 @@
     "MD5": "0411a4fb30d448a3df7a6103bc752ed3"
   },
   {
-    "FileName": "Mods\\@DNAZ\\server data\\dogtags_types.xml",
-    "Size": 1548,
-    "MD5": "df503cf74a83555a8861c4d4b96f81f7"
+    "FileName": "Mods\\@edificacao\\addons\\AltarRetreat.pbo",
+    "Size": 101,
+    "MD5": "236a24a981df28e934f4e3023bd5057c"
   },
   {
-    "FileName": "Mods\\@DNAZ\\server data\\EquipDogtag_examples.c",
-    "Size": 3283,
-    "MD5": "a1383b381d08f83504114ec106be8392"
-  },
-  {
-    "FileName": "Mods\\@DNAZ\\server data\\example_init.c",
-    "Size": 5071,
-    "MD5": "26e27051b10a520c6262a940ce973041"
-  },
-  {
-    "FileName": "Mods\\@DNAZ\\server data\\README.txt",
-    "Size": 493,
-    "MD5": "db85c747941595a200d62fd91500576f"
-  },
-  {
-    "FileName": "Mods\\@DNAZ\\XMLs\\UGBTypes.xml",
-    "Size": 1317,
-    "MD5": "3a35245d73fd79d0de7bc1660f2a5757"
+    "FileName": "Mods\\@edificacao\\addons\\AltarRetreat.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "2e3d86764a27eddd32574c29ebb71500"
   },
   {
     "FileName": "Mods\\@edificacao\\addons\\ArmA2_Props.pbo",
@@ -3983,6 +3933,46 @@
     "FileName": "Mods\\@edificacao\\addons\\garbage.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "cf4b541fbcb234d7ed382505a3399538"
+  },
+  {
+    "FileName": "Mods\\@edificacao\\addons\\HM_Core.pbo",
+    "Size": 169501,
+    "MD5": "f761d1d783fcfbb16cc84772a9baf5c5"
+  },
+  {
+    "FileName": "Mods\\@edificacao\\addons\\HM_Core.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "f6fc551a05cf1a968d5a19db10b9c78d"
+  },
+  {
+    "FileName": "Mods\\@edificacao\\addons\\HM_Models.pbo",
+    "Size": 301626436,
+    "MD5": "edfb28e5a1b11f06eba5bceed3c079b9"
+  },
+  {
+    "FileName": "Mods\\@edificacao\\addons\\HM_Models.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "fc9b2999ea2eb94690c50d5bea9da10e"
+  },
+  {
+    "FileName": "Mods\\@edificacao\\addons\\HM_RPC.pbo",
+    "Size": 3780963,
+    "MD5": "f210e7bac5d717120fe112358ac3bf53"
+  },
+  {
+    "FileName": "Mods\\@edificacao\\addons\\HM_RPC.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "de32638d8f0c45c0194fba38d81a5065"
+  },
+  {
+    "FileName": "Mods\\@edificacao\\addons\\hydrocity.pbo",
+    "Size": 98,
+    "MD5": "8d4d3c4e64b529f0772bb2c48ced4e28"
+  },
+  {
+    "FileName": "Mods\\@edificacao\\addons\\hydrocity.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "06f652469b84f994c20d0ab5d9d4ef3d"
   },
   {
     "FileName": "Mods\\@edificacao\\addons\\industrial.pbo",
@@ -4195,6 +4185,16 @@
     "MD5": "c37ffbb590a06b130b0245ec1d179738"
   },
   {
+    "FileName": "Mods\\@edificacao\\addons\\RUSForma_MapObject.pbo",
+    "Size": 1058100872,
+    "MD5": "c9775cfaed77e7b7d82ff9839c83f3da"
+  },
+  {
+    "FileName": "Mods\\@edificacao\\addons\\RUSForma_MapObject.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "b43fc4ad9c49e3cd9f5f6dc8fb5efb21"
+  },
+  {
     "FileName": "Mods\\@edificacao\\addons\\scripts.pbo",
     "Size": 2788,
     "MD5": "93c9a7c3a32b14a77e62b9ba5ab87e2d"
@@ -4203,6 +4203,26 @@
     "FileName": "Mods\\@edificacao\\addons\\scripts.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "338864cd76707ab790dbb42f971f4616"
+  },
+  {
+    "FileName": "Mods\\@edificacao\\addons\\SFP.pbo",
+    "Size": 1998223475,
+    "MD5": "6cb3f03444f5ee25f870f1fb634f747c"
+  },
+  {
+    "FileName": "Mods\\@edificacao\\addons\\SFP.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "8c6c80569e3e884a8a94f01305631e44"
+  },
+  {
+    "FileName": "Mods\\@edificacao\\addons\\SFP2.pbo",
+    "Size": 1715671387,
+    "MD5": "de41edeb45842afd32c2df44c88ebcc2"
+  },
+  {
+    "FileName": "Mods\\@edificacao\\addons\\SFP2.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "36fa0ba94c9f67637c07b4fe4ebc09ac"
   },
   {
     "FileName": "Mods\\@edificacao\\addons\\sidewalks.pbo",
@@ -4353,231 +4373,6 @@
     "FileName": "Mods\\@edificacao\\addons\\wrecks.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "b164bc1be3d8ff93f40734fe6606cf24"
-  },
-  {
-    "FileName": "Mods\\@edificacao\\Level19 Objects\\Server_mpmissions_Folder\\init.c",
-    "Size": 586,
-    "MD5": "2d90f85e13631dba7b589e37c48b2464"
-  },
-  {
-    "FileName": "Mods\\@edificacao\\Level19 Objects\\Server_mpmissions_Folder\\Level19.c",
-    "Size": 6691,
-    "MD5": "fb28dad3815a888663a3255576a5451e"
-  },
-  {
-    "FileName": "Mods\\@edificacao\\Level19 Objects\\Server_mpmissions_Folder\\mapgrouppos.xml",
-    "Size": 118,
-    "MD5": "8ce547904c0dcd279d0cb0315f684861"
-  },
-  {
-    "FileName": "Mods\\@edificacao\\Level19 Objects\\Server_mpmissions_Folder\\mapgroupproto.xml",
-    "Size": 2215,
-    "MD5": "8a238bcb7bb4004fb17c0c587d44b67a"
-  },
-  {
-    "FileName": "Mods\\@edificacao\\XMLs\\mapgroupproto.xml",
-    "Size": 21495,
-    "MD5": "e4365b9e1f8081fa6d55be76cfe35090"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\bunkergrass.pbo",
-    "Size": 15974327,
-    "MD5": "27a0834f8bbbfcaecb2a4007dfb4638f"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\bunkergrass.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "3dae771e182b3f06483168a89aeae7c5"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\chernarus_winter_roads.pbo",
-    "Size": 213743727,
-    "MD5": "a614249763d8429e6e7d6523002348e4"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\chernarus_winter_roads.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "6eab65f13b78c07e9bb43af87b4a15d9"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\Chernarus_Winter_satmap.pbo",
-    "Size": 258878941,
-    "MD5": "27ff05966c436b5a7deaef1a2434e680"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\Chernarus_Winter_satmap.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "5c4878787428f04f977e61ae91341a20"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\chernarus_winter_scripts.pbo",
-    "Size": 63211,
-    "MD5": "31e8a7c113d674f5dc6b60db74f6d286"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\chernarus_winter_scripts.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "6ef9957eb7d0630cca700069eadabcb5"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\farm.pbo",
-    "Size": 82504975,
-    "MD5": "4327f5f1c19e443e521b74be398e8d1c"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\farm.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "1cd254f8989cb79dc415077c562335d8"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\misc.pbo",
-    "Size": 62749100,
-    "MD5": "74bb4d0ab0ad7d7c8dd19a8685e44229"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\misc.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "52fcb6d3bea6c738ce46ac52e43b4cd6"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\plants_bush_winter.pbo",
-    "Size": 32125141,
-    "MD5": "41e0825d336b6ac4212155a5e31757dc"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\plants_bush_winter.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "8d03fba4ea12b81f5fe09a68e07350e7"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\plants_trees_winter.pbo",
-    "Size": 508587891,
-    "MD5": "0ed6e31264926b8e7c9f978a9e243f5f"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\plants_trees_winter.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "9dfc5a39d3a774dfe8750bf33ff90e52"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\rail_winter.pbo",
-    "Size": 4606687,
-    "MD5": "e89d1dfab7f571432d728ded1abc1816"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\rail_winter.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "b7cfcac5718da02051df7478e155c9fd"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\surfaces_winter.pbo",
-    "Size": 118634568,
-    "MD5": "2f7a33966b735f5863935572bce6eae3"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\surfaces_winter.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "6bf76d29cb10975d29d9e91da5ff9f39"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\WinterChernarus123MapPatch.pbo",
-    "Size": 286632678,
-    "MD5": "64bd5b6090271ce78740940dd3dee231"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\WinterChernarus123MapPatch.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "f76e5fa330616b47c93fff4877cf6708"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\WinterChernarus123MapPatchBunkerGrass.pbo",
-    "Size": 24208251,
-    "MD5": "f68172bc212ed84e4ceb383fca09675f"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\WinterChernarus123MapPatchBunkerGrass.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "016088a3f1811e9ac9c1f3acba3d49e1"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\WinterChernarus123MapPatchPlants.pbo",
-    "Size": 38188111,
-    "MD5": "0fe6f2f959bab11e3f0f3f3d67405cee"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\WinterChernarus123MapPatchPlants.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "dca0692b647be38e7b1a34a1d0145caf"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\WinterChernarus123MapPatchRoad.pbo",
-    "Size": 262260883,
-    "MD5": "d4dc6fce1ea8153fbacd40aaf48124d5"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\WinterChernarus123MapPatchRoad.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "6eeb2be7b7cab3df9ef6b59a91d8908b"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\WinterChernarus123MapPatchSidewalk.pbo",
-    "Size": 17215984,
-    "MD5": "124ea09051c7fa40585ea2aa20691cae"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\WinterChernarus123MapPatchSidewalk.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "0c7f84a9dfca3dacdecc233870a20ab9"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\WinterChernarus123MapPatchSurfaces.pbo",
-    "Size": 117513290,
-    "MD5": "148c8694c44a3f7bfeddeb335569ce4d"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\WinterChernarus123MapPatchSurfaces.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "55dfefeeb88c16f2002742dbdafd2b9d"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\WinterChernarus123MapPatchWorld.pbo",
-    "Size": 56123,
-    "MD5": "c34a5f8b4a6ea249f39d9fdef2f67fc7"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\WinterChernarus123MapPatchWorld.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "27ca23afef543c3f8c1b837384710e47"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\WinterStash.pbo",
-    "Size": 11160379,
-    "MD5": "6be38040c217cb8a09e4ccea817ad91f"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\WinterStash.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "fdb38738f28f905adef825e94e6223df"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\Winter_Expansion.pbo",
-    "Size": 13530477,
-    "MD5": "4dd7f2afddbe7c6132b2f912691ce2be"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\Winter_Expansion.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "8e6b88769a9ddcd91ddf91d1b97c88c9"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\Winter_Expansion_Zombies.pbo",
-    "Size": 8572318,
-    "MD5": "474f9cb60cf28d460738fe3c5fa46e3d"
-  },
-  {
-    "FileName": "Mods\\@Estacao\\addons\\Winter_Expansion_Zombies.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "bce93c0662646d40579676d2ec4f2de7"
   },
   {
     "FileName": "Mods\\@Estacao\\addons\\inverno\\bunkergrass.pbo",
@@ -4848,16 +4643,6 @@
     "FileName": "Mods\\@GUI\\Addons\\GUISparda.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "fd3f79196bf049cc19118b98c567bf14"
-  },
-  {
-    "FileName": "Mods\\@Heli\\meta.cpp",
-    "Size": 137,
-    "MD5": "126b0b6312a08ce1cb81f2b0fc237c23"
-  },
-  {
-    "FileName": "Mods\\@Heli\\mod.cpp",
-    "Size": 642,
-    "MD5": "e10c85836a13c4e9359da74c9934dede"
   },
   {
     "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Apache.pbo",
@@ -5270,11 +5055,6 @@
     "MD5": "5538448e3916edbdc2f15254976e79a8"
   },
   {
-    "FileName": "Mods\\@MMG\\meta.cpp",
-    "Size": 115,
-    "MD5": "9416c0c8f67fd2288d84af6108fc6184"
-  },
-  {
     "FileName": "Mods\\@MMG\\addons\\BlacksMMGAttach.pbo",
     "Size": 58484453,
     "MD5": "5957ab5e4d8f7d038f231edcbcc8540e"
@@ -5605,11 +5385,6 @@
     "MD5": "d37b1270cbebdf31516cb2125d2fe44b"
   },
   {
-    "FileName": "Mods\\@Paragon\\meta.cpp",
-    "Size": 110,
-    "MD5": "bcfaef402b74dad7a52bfb9963d36c7b"
-  },
-  {
     "FileName": "Mods\\@Paragon\\addons\\HM_Core.pbo",
     "Size": 169501,
     "MD5": "f761d1d783fcfbb16cc84772a9baf5c5"
@@ -5910,6 +5685,16 @@
     "MD5": "87c1840e2158cfc5c2682002b48e085c"
   },
   {
+    "FileName": "Mods\\@Paragon\\addons\\RFhelipad.pbo",
+    "Size": 50872758,
+    "MD5": "c566ba9ba56a91b1e27262ac02b974f8"
+  },
+  {
+    "FileName": "Mods\\@Paragon\\addons\\RFhelipad.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "333dfc3a0382ebf76cd9bc3d119b5174"
+  },
+  {
     "FileName": "Mods\\@Paragon\\addons\\TabletHacking.pbo",
     "Size": 264892,
     "MD5": "70a6b5a6330e5fa48ea9b6a476abe469"
@@ -5918,131 +5703,6 @@
     "FileName": "Mods\\@Paragon\\addons\\TabletHacking.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "e0372bb6d81b4b58b1625d273de50dd4"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\Extras\\ItemList.txt",
-    "Size": 6856,
-    "MD5": "7fa9e885ee8d4799e50df2879fe8d6a6"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\Extras\\msp_types.xml",
-    "Size": 110212,
-    "MD5": "b93d76d7603f24387ba3173cc143f8b6"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\Extras\\newitems.txt",
-    "Size": 638,
-    "MD5": "807ebbaadf0f0702a0833cab19ff353b"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\Extras\\newtypes.xml",
-    "Size": 11292,
-    "MD5": "4cdafc7bf3fa62b436536ccebe4a879d"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\Extras\\patchnotes.txt",
-    "Size": 281,
-    "MD5": "d1b028010df3f59e0116c395a78b895e"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\Extras\\Codelock\\MSP_CodeLockConfig.json",
-    "Size": 198,
-    "MD5": "75da94a5a79cd703f371faa1ea7b375f"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\Extras\\MuchStuffPack\\MSP_Config.json",
-    "Size": 188,
-    "MD5": "876cb21899af076992663d75214939e2"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\extrasparagon\\Class namesSTOEREGE.txt",
-    "Size": 5004,
-    "MD5": "04885288b86ec4c0d96390a2c59af6b7"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\extrasparagon\\READ.cpp",
-    "Size": 549,
-    "MD5": "deea9444fc21755ada4f79eb4aed0f87"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\extrasparagon\\TraderConfigSTOEREGE.txt",
-    "Size": 9737,
-    "MD5": "50c633d12caa139e36695e181dbe612d"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\extrasparagon\\typesSTOEREGE.xml",
-    "Size": 72162,
-    "MD5": "73e5b561e3a18cc21f9f037e5207065c"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\fileshunt\\classnames.txt",
-    "Size": 1372,
-    "MD5": "792f2deaad41013024da376f1fb30cb5"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\fileshunt\\HM_Settings_Help.json",
-    "Size": 2719,
-    "MD5": "3cba7d37ce878a8cd81082d4e95ee9f0"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\fileshunt\\trader_config.xml",
-    "Size": 2102,
-    "MD5": "2d82d1f08a4738a3ef5e0bc1ca8d546e"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\fileshunt\\trader_plus_config.json",
-    "Size": 2633,
-    "MD5": "fa4bbb011da24a2b79ae201042f75657"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\fileshunt\\types.xml",
-    "Size": 28335,
-    "MD5": "91a9cc1f83bc2de9d3b074f309eb0dee"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\filesmmg\\ADDED IN LAST UPDATE.txt",
-    "Size": 786,
-    "MD5": "0e984372a40492d88b2b2b673281df7b"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\filesmmg\\ADDED IN LAST UPDATE.xml",
-    "Size": 40,
-    "MD5": "f0d8c520aa6d9c11694dd40f124d2ce8"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\filesmmg\\classnames.txt",
-    "Size": 2053,
-    "MD5": "8a2a7503411cca1463c09617dda3f775"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\filesmmg\\mmg_raidtools.xml",
-    "Size": 1140,
-    "MD5": "7d85aadf3501b303e94bda08ea5b3bbc"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\filesmmg\\mmg_storage.xml",
-    "Size": 33943,
-    "MD5": "14237a1f2eb747d1e5576cd78825c041"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\filesmmg\\MMG_storage_trader.txt",
-    "Size": 2397,
-    "MD5": "2398a337909e16ffc0633fd71ef37f8e"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\filesmmg\\raidsaw_types.xml",
-    "Size": 579,
-    "MD5": "670a69e938ee283fa6d9865c004ced57"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\filesmmg\\types.xml",
-    "Size": 765482,
-    "MD5": "bb582b30baea2859ef80098e5d47a7ba"
-  },
-  {
-    "FileName": "Mods\\@Paragon\\filesmmg\\trader\\MMG_storage_trader.txt",
-    "Size": 2908,
-    "MD5": "29e3d9759e6311207cef8935b77abef1"
   },
   {
     "FileName": "Mods\\@Party\\Addons\\SchanaModParty.pbo",
@@ -6065,11 +5725,6 @@
     "MD5": "c246f7b0a1624492adef29d192fc86bf"
   },
   {
-    "FileName": "Mods\\@SkyZ\\meta.cpp",
-    "Size": 110,
-    "MD5": "a60216649636d84e5c624c9cc7fcae12"
-  },
-  {
     "FileName": "Mods\\@SkyZ\\Addons\\Skyz.pbo",
     "Size": 17890693,
     "MD5": "950dd23fcae6ae5a86c9a0834ed500df"
@@ -6078,11 +5733,6 @@
     "FileName": "Mods\\@SkyZ\\Addons\\Skyz.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "7dbef463bbf6cebde7390d3ed356f2d3"
-  },
-  {
-    "FileName": "Mods\\@SkyZ\\Keys\\ruffaz.bikey",
-    "Size": 159,
-    "MD5": "ff7ac0bb2df66843f58d5a8bc509776e"
   },
   {
     "FileName": "Mods\\@SNAFU\\Addons\\apesm300.pbo",
@@ -6523,11 +6173,6 @@
     "FileName": "Mods\\@VPPAdminTools\\Addons\\VPPStaticItems.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "1d92d52ac48ccde8f815be1117c3638d"
-  },
-  {
-    "FileName": "Nova pasta\\DayZ DNAZ.exe",
-    "Size": 21168640,
-    "MD5": "7a6717e6b85d2d07132dee106d69c1a3"
   },
   {
     "FileName": "_Essenciais\\dxwebsetup.exe",
