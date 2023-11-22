@@ -3665,6 +3665,96 @@
     "MD5": "a1f724d078e24e2e2ca4d1025be15d65"
   },
   {
+    "FileName": "Mods\\@DNAZ\\Addons\\Armour_arena.pbo",
+    "Size": 32954662,
+    "MD5": "b698270e8be31904dad8e8e4588f4da9"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\Armour_arena.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "a3839b3761d5c606403c6f777e1c2510"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\Armour_base_clan.pbo",
+    "Size": 15056594,
+    "MD5": "9d1f1fd27c3f3e89942c6661b13b8aee"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\Armour_base_clan.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "dcad446f2851da2bb521e2742ca80ad9"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\Armour_base_hidden.pbo",
+    "Size": 1547939,
+    "MD5": "aaa9470821aecdd7a4eb72010cd92918"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\Armour_base_hidden.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "2696e927e81bcf97844d4f984f1f3ff6"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\Armour_construction.pbo",
+    "Size": 184788672,
+    "MD5": "02fa4f92906bbcb9e87f88efb9c53ef2"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\Armour_construction.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "f520f3e8d56a6629e37431e9f887c936"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\Armour_construction1.pbo",
+    "Size": 148463992,
+    "MD5": "eb5a5b02bc74b0f4e8fc1b8b802bb0bd"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\Armour_construction1.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "ec8024175f01a2e056dac9775f1dc5e4"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\Armour_single.pbo",
+    "Size": 4674625,
+    "MD5": "5814a2f7cbd7de06d0b7c1c376a14941"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\Armour_single.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "1544b39302f5ce59ba70a8e4ffd359de"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\Armour_solo.pbo",
+    "Size": 30779531,
+    "MD5": "08620653e803781df344089087b83175"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\Armour_solo.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "38c81290be4a53f5142c3dd7156404d3"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\Autorun.pbo",
+    "Size": 6694,
+    "MD5": "5021749466ce79da41dd5ad60ad8ce15"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\Autorun.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "fe42c0fbca23e90bac6efb53fd4b3915"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\billboard.pbo",
+    "Size": 26192739,
+    "MD5": "7d8e523607e265ebeeb89047af600174"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\billboard.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "f7c6e4b1c96918eeebe73b0e6149ec24"
+  },
+  {
     "FileName": "Mods\\@DNAZ\\Addons\\BuildingsModPack7.pbo",
     "Size": 664808958,
     "MD5": "d8b30a9f7aa0086070c6e86b45d70f88"
@@ -3683,6 +3773,46 @@
     "FileName": "Mods\\@DNAZ\\Addons\\Characters.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "4817d953bdc955b638831bf858553d13"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\ch_bases.pbo",
+    "Size": 47625492,
+    "MD5": "18d8606adfb633d987ffe9f6b93dc005"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\ch_bases.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "5aa70e637c3ce6b1e0601bf0c237dad0"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\ch_bases_addon.pbo",
+    "Size": 42985561,
+    "MD5": "48a96b2f4d5ded3ad172abe5a29fda1f"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\ch_bases_addon.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "682d6bfbaa3d23519e56de4619cc2a82"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\CodelockRemote.pbo",
+    "Size": 12597901,
+    "MD5": "ec77aeeba57682198659407d94a90640"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\CodelockRemote.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "d94784bc53d233fd6aed06bcc373c737"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\data.pbo",
+    "Size": 230,
+    "MD5": "c5aa65876cad73ed553a52c60d05ca97"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\data.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "6f200cabae76ef5a48b2a1a910a6239f"
   },
   {
     "FileName": "Mods\\@DNAZ\\Addons\\dayz_dog.pbo",
@@ -3715,6 +3845,16 @@
     "MD5": "ca819f460ed268e0d6bef94b4470aa29"
   },
   {
+    "FileName": "Mods\\@DNAZ\\Addons\\evg_drones.pbo",
+    "Size": 147515717,
+    "MD5": "fca3b59dd898f8ca4cf2223334798386"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\evg_drones.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "a5abed44432cc5af882e27f8ed7e60d4"
+  },
+  {
     "FileName": "Mods\\@DNAZ\\Addons\\Gear.pbo",
     "Size": 13218432,
     "MD5": "8751c5a56813b0a5cb839174d59b6a20"
@@ -3723,6 +3863,26 @@
     "FileName": "Mods\\@DNAZ\\Addons\\Gear.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "fcb9578f98eba50e3ab78e62af5a2bc0"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\GemStonesAndSwords.pbo",
+    "Size": 309516314,
+    "MD5": "8956c9a2552ae7dc6ebae58351f3742b"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\GemStonesAndSwords.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "87cb4a9946bdcb75a521226ec889b9d4"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\GemSword.pbo",
+    "Size": 70120654,
+    "MD5": "789e9bf222bd15af21e5ef3da61f96c6"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\GemSword.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "cc7b966b745af8e4570471d05914e971"
   },
   {
     "FileName": "Mods\\@DNAZ\\Addons\\GlobalChat.pbo",
@@ -3765,6 +3925,16 @@
     "MD5": "678ea7e8f68f6d9f14a65c2a592ab6e9"
   },
   {
+    "FileName": "Mods\\@DNAZ\\Addons\\ItemRarity.pbo",
+    "Size": 7422,
+    "MD5": "a1b485f4e55579325df3f4c6b0586cc3"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\ItemRarity.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "52f4f9c8578138f005d26645e1bfe18d"
+  },
+  {
     "FileName": "Mods\\@DNAZ\\Addons\\LanguageCore.pbo",
     "Size": 4350,
     "MD5": "84240b856a2d432d927c8c03c69f601d"
@@ -3775,6 +3945,16 @@
     "MD5": "ffd98199c1ad4baf9c56d077654fcecb"
   },
   {
+    "FileName": "Mods\\@DNAZ\\Addons\\LeaderBoard.pbo",
+    "Size": 12609800,
+    "MD5": "ee1b2e89012e48daf029cd137268be1a"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\LeaderBoard.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "867476c5a549e724e3b94880cd8a9bfd"
+  },
+  {
     "FileName": "Mods\\@DNAZ\\Addons\\newkillfeed.pbo",
     "Size": 14971,
     "MD5": "c9f18c81fea96b8f4178494fd6f95d47"
@@ -3783,6 +3963,26 @@
     "FileName": "Mods\\@DNAZ\\Addons\\newkillfeed.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "9967c4a48eb7bf1ed168d84c46865d2a"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\Notifications.pbo",
+    "Size": 12807749,
+    "MD5": "a672fa923368d7938cf3ed0b8284656f"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\Notifications.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "5e5285e089dde63f23ad42ae75bf8753"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\NotificationsDefine.pbo",
+    "Size": 823,
+    "MD5": "1a6c3d8edff97b9b24d10bd40a8209e8"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\NotificationsDefine.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "424dcbec8ed90790f745fdd02a7d8395"
   },
   {
     "FileName": "Mods\\@DNAZ\\Addons\\Scripts.pbo",
