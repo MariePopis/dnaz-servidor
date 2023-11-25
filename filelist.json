@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "FileName": "amd_ags_x64.dll",
     "Size": 111536,
@@ -1495,6 +1495,16 @@
     "MD5": "37af7dc5fab6bd834bfd6ae8a01c5714"
   },
   {
+    "FileName": "Mods\\@AdvancedWeaponScopes\\meta.cpp",
+    "Size": 110,
+    "MD5": "7f5fe509c1c1bb38302265ce708865f4"
+  },
+  {
+    "FileName": "Mods\\@AdvancedWeaponScopes\\mod.cpp",
+    "Size": 32,
+    "MD5": "30e41bb9ff65acc89664d347d5d6081b"
+  },
+  {
     "FileName": "Mods\\@AdvancedWeaponScopes\\Addons\\AdvancedWeaponScopes.pbo",
     "Size": 262934115,
     "MD5": "420d180adc4fa45d293ce3bcae6ffd40"
@@ -1503,6 +1513,16 @@
     "FileName": "Mods\\@AdvancedWeaponScopes\\Addons\\AdvancedWeaponScopes.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "98763150ba8d26bf9466084eb8b8d0f4"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\meta.cpp",
+    "Size": 104,
+    "MD5": "0ab0939838634a6fcb8de1f18f140654"
+  },
+  {
+    "FileName": "Mods\\@BaseBuildingPlus\\mod.cpp",
+    "Size": 1106,
+    "MD5": "9068b844c6b7c659df04c3cda34019b3"
   },
   {
     "FileName": "Mods\\@BaseBuildingPlus\\addons\\BaseBuildingPlus.pbo",
@@ -1545,6 +1565,11 @@
     "MD5": "eb0987815686b017ebced48f2822d0ca"
   },
   {
+    "FileName": "Mods\\@BasicMap\\meta.cpp",
+    "Size": 97,
+    "MD5": "32b820356824c4c925cf889ee78c3e75"
+  },
+  {
     "FileName": "Mods\\@BasicMap\\Addons\\BasicMap.pbo",
     "Size": 71048674,
     "MD5": "b5057e1781e03afc3f7e950a64b0472a"
@@ -1565,6 +1590,16 @@
     "MD5": "60a19f63b51848af5163a18638c4c554"
   },
   {
+    "FileName": "Mods\\@BasicSpawnSelect\\meta.cpp",
+    "Size": 104,
+    "MD5": "f4013ae3d9fb62229ff0b6574a2c729e"
+  },
+  {
+    "FileName": "Mods\\@BasicSpawnSelect\\mod.cpp",
+    "Size": 1063,
+    "MD5": "f8bfa394b7990bbd42ec74367c7db9c0"
+  },
+  {
     "FileName": "Mods\\@BasicSpawnSelect\\Addons\\BasicSpawnSelect.pbo",
     "Size": 2465512,
     "MD5": "43aa06dfa6ddc2642c724bdc41607777"
@@ -1575,6 +1610,11 @@
     "MD5": "822d0e4b5e65d678a9da52078c4fcc64"
   },
   {
+    "FileName": "Mods\\@Breachingcharge\\meta.cpp",
+    "Size": 103,
+    "MD5": "0fa58d9362b27eee9f78cb6b6d60c24c"
+  },
+  {
     "FileName": "Mods\\@Breachingcharge\\Addons\\HDSN_BreachingCharge.pbo",
     "Size": 14099203,
     "MD5": "66ae2913d9d2b44d150460e1f8edb879"
@@ -1583,6 +1623,11 @@
     "FileName": "Mods\\@Breachingcharge\\Addons\\HDSN_BreachingCharge.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "7d268337f933133659c6ec820dfab375"
+  },
+  {
+    "FileName": "Mods\\@BuilderItems\\meta.cpp",
+    "Size": 100,
+    "MD5": "121512bc9bb078475fa3e041ce94afc0"
   },
   {
     "FileName": "Mods\\@BuilderItems\\addons\\AltarRetreat.pbo",
@@ -2025,6 +2070,21 @@
     "MD5": "5ec2d63343f90f6ad462c511fbf40a46"
   },
   {
+    "FileName": "Mods\\@BuilderItems\\keys\\NotABananaV3.bikey",
+    "Size": 165,
+    "MD5": "2e1d9d9531344a7f7fe917e610d0b37a"
+  },
+  {
+    "FileName": "Mods\\@CannabisPlus\\meta.cpp",
+    "Size": 100,
+    "MD5": "5414f82f85d280b24a144961ed078d50"
+  },
+  {
+    "FileName": "Mods\\@CannabisPlus\\mod.cpp",
+    "Size": 793,
+    "MD5": "676fd28ec6c09e81b1218a4a99ce960a"
+  },
+  {
     "FileName": "Mods\\@CannabisPlus\\addons\\CannabisPlus.pbo",
     "Size": 137284764,
     "MD5": "feec80e399698907e036cef0fc07b35d"
@@ -2053,6 +2113,11 @@
     "FileName": "Mods\\@CannabisPlus\\addons\\CPTOKENS.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "b6388101cc699466e2b72ffe1b7c726b"
+  },
+  {
+    "FileName": "Mods\\@CannabisPlus\\keys\\IceBlade.bikey",
+    "Size": 161,
+    "MD5": "e50a650799f179bae8ba5f3b15329dba"
   },
   {
     "FileName": "Mods\\@Cars\\Addons\\Audi_RS6.pbo",
@@ -3575,6 +3640,16 @@
     "MD5": "878f9cc224a317ca1fe3bc06f4df84f3"
   },
   {
+    "FileName": "Mods\\@CF\\meta.cpp",
+    "Size": 90,
+    "MD5": "041cf6f8a7f02326dfb49d2df03b22c1"
+  },
+  {
+    "FileName": "Mods\\@CF\\mod.cpp",
+    "Size": 539,
+    "MD5": "76ea704e214527f9a0e447bd836ab1bc"
+  },
+  {
     "FileName": "Mods\\@CF\\Addons\\GUI.pbo",
     "Size": 96852,
     "MD5": "512fb1fc8cba1d49060099739fb713eb"
@@ -3605,6 +3680,21 @@
     "MD5": "f85df6c607449d7f0aa276d1a04ccc47"
   },
   {
+    "FileName": "Mods\\@CF\\keys\\Jacob_Mango_V3.bikey",
+    "Size": 167,
+    "MD5": "5d1b66407ee86a70fe9caa6a196c0e01"
+  },
+  {
+    "FileName": "Mods\\@CodeLock\\meta.cpp",
+    "Size": 97,
+    "MD5": "40ede411a38d9955ac6d4655d3301a0d"
+  },
+  {
+    "FileName": "Mods\\@CodeLock\\mod.cpp",
+    "Size": 568,
+    "MD5": "0ae346658b94ccf587ad7ff34f0bad56"
+  },
+  {
     "FileName": "Mods\\@CodeLock\\Addons\\CodeLock.pbo",
     "Size": 10381094,
     "MD5": "fefa81337efca3747e3781eb08ba68d7"
@@ -3613,6 +3703,11 @@
     "FileName": "Mods\\@CodeLock\\Addons\\CodeLock.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "3f756204ea6c9328c7a549c98fcbe81f"
+  },
+  {
+    "FileName": "Mods\\@DabsFramework\\meta.cpp",
+    "Size": 102,
+    "MD5": "99260ca53df1778f66ead4949149824e"
   },
   {
     "FileName": "Mods\\@DabsFramework\\addons\\GUI.pbo",
@@ -3643,6 +3738,21 @@
     "FileName": "Mods\\@DabsFramework\\addons\\Scripts.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "de9bd90135452ceb856aef420e12107d"
+  },
+  {
+    "FileName": "Mods\\@DabsFramework\\keys\\dab.bikey",
+    "Size": 156,
+    "MD5": "eabd6b6d064f1adad6dbfd17231602c0"
+  },
+  {
+    "FileName": "Mods\\@DayZEditorLoader\\meta.cpp",
+    "Size": 106,
+    "MD5": "b68d6ae5c054ce9647a86d7a3895ef2e"
+  },
+  {
+    "FileName": "Mods\\@DayZEditorLoader\\mod.cpp",
+    "Size": 136,
+    "MD5": "c1965e062691b5553ac79cb506f5a367"
   },
   {
     "FileName": "Mods\\@DayZEditorLoader\\Addons\\Scripts.pbo",
@@ -3946,8 +4056,8 @@
   },
   {
     "FileName": "Mods\\@DNAZ\\Addons\\LeaderBoard.pbo",
-    "Size": 12609800,
-    "MD5": "ee1b2e89012e48daf029cd137268be1a"
+    "Size": 12609779,
+    "MD5": "1b2b8ab1ec5847535f7508482e1829a3"
   },
   {
     "FileName": "Mods\\@DNAZ\\Addons\\LeaderBoard.pbo.dnaz.bisign",
@@ -4845,6 +4955,16 @@
     "MD5": "fd3f79196bf049cc19118b98c567bf14"
   },
   {
+    "FileName": "Mods\\@Heli\\meta.cpp",
+    "Size": 137,
+    "MD5": "126b0b6312a08ce1cb81f2b0fc237c23"
+  },
+  {
+    "FileName": "Mods\\@Heli\\mod.cpp",
+    "Size": 642,
+    "MD5": "e10c85836a13c4e9359da74c9934dede"
+  },
+  {
     "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Apache.pbo",
     "Size": 43366201,
     "MD5": "23604fb15b7a5313ba3cd74153ba81c8"
@@ -5255,6 +5375,11 @@
     "MD5": "5538448e3916edbdc2f15254976e79a8"
   },
   {
+    "FileName": "Mods\\@MMG\\meta.cpp",
+    "Size": 115,
+    "MD5": "9416c0c8f67fd2288d84af6108fc6184"
+  },
+  {
     "FileName": "Mods\\@MMG\\addons\\BlacksMMGAttach.pbo",
     "Size": 58484453,
     "MD5": "5957ab5e4d8f7d038f231edcbcc8540e"
@@ -5583,6 +5708,11 @@
     "FileName": "Mods\\@ModsSparda\\Addons\\SpardaVIP.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "d37b1270cbebdf31516cb2125d2fe44b"
+  },
+  {
+    "FileName": "Mods\\@Paragon\\meta.cpp",
+    "Size": 110,
+    "MD5": "bcfaef402b74dad7a52bfb9963d36c7b"
   },
   {
     "FileName": "Mods\\@Paragon\\addons\\HM_Core.pbo",
@@ -5925,6 +6055,11 @@
     "MD5": "c246f7b0a1624492adef29d192fc86bf"
   },
   {
+    "FileName": "Mods\\@SkyZ\\meta.cpp",
+    "Size": 110,
+    "MD5": "a60216649636d84e5c624c9cc7fcae12"
+  },
+  {
     "FileName": "Mods\\@SkyZ\\Addons\\Skyz.pbo",
     "Size": 17890693,
     "MD5": "950dd23fcae6ae5a86c9a0834ed500df"
@@ -5933,6 +6068,11 @@
     "FileName": "Mods\\@SkyZ\\Addons\\Skyz.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "7dbef463bbf6cebde7390d3ed356f2d3"
+  },
+  {
+    "FileName": "Mods\\@SkyZ\\Keys\\ruffaz.bikey",
+    "Size": 159,
+    "MD5": "ff7ac0bb2df66843f58d5a8bc509776e"
   },
   {
     "FileName": "Mods\\@SNAFU\\Addons\\apesm300.pbo",
