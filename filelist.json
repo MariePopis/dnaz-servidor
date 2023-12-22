@@ -15,39 +15,9 @@
     "MD5": "fbe3dd21e1b2da768eab8e6dca620d4c"
   },
   {
-    "FileName": "DayZ_Launcher.exe",
-    "Size": 21168640,
-    "MD5": "a3172ef3187c35c5e2b0bbeb52c297c5"
-  },
-  {
-    "FileName": "DayZ_Launcher.exe.config",
-    "Size": 552,
-    "MD5": "ea18aff34def054cc191cf77a13dfc7d"
-  },
-  {
     "FileName": "DayZ_x64.exe",
     "Size": 16396016,
     "MD5": "9ad8f201474df0523af00770c1fb5db8"
-  },
-  {
-    "FileName": "DiscordRPC.dll",
-    "Size": 83968,
-    "MD5": "3956130e36754f184a0443c850f708f8"
-  },
-  {
-    "FileName": "Microsoft.Bcl.AsyncInterfaces.dll",
-    "Size": 26752,
-    "MD5": "970b6e6478ae3ab699f277d77de0cd19"
-  },
-  {
-    "FileName": "Newtonsoft.Json.dll",
-    "Size": 711952,
-    "MD5": "195ffb7167db3219b217c4fd439eedd6"
-  },
-  {
-    "FileName": "Newtonsoft.Json.xml",
-    "Size": 713541,
-    "MD5": "d398ffe9fdac6a53a8d8bb26f29bbb3c"
   },
   {
     "FileName": "steam_api64.dll",
@@ -63,11 +33,6 @@
     "FileName": "steam_appid.txt",
     "Size": 9,
     "MD5": "444b408f13a05deb53861c0a9ed2dfbc"
-  },
-  {
-    "FileName": "_TESTE.bat",
-    "Size": 524,
-    "MD5": "540814450e01de425dfc73155ee6ec3f"
   },
   {
     "FileName": "Addons\\ai.pbo",
