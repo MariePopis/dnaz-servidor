@@ -25,6 +25,11 @@
     "MD5": "1258450056b4d601a3288a1505a77c78"
   },
   {
+    "FileName": "nickname.ini",
+    "Size": 4,
+    "MD5": "d40b913237b22c538b948e7e44aeb9cf"
+  },
+  {
     "FileName": "steam_api64.dll",
     "Size": 834560,
     "MD5": "30091b91923d9583a54a93ed1145554b"
@@ -38,6 +43,11 @@
     "FileName": "steam_appid.txt",
     "Size": 9,
     "MD5": "444b408f13a05deb53861c0a9ed2dfbc"
+  },
+  {
+    "FileName": "version",
+    "Size": 4,
+    "MD5": "41cf2677cc4ec9356dad8e76dfb87448"
   },
   {
     "FileName": "Addons\\ai.pbo",
@@ -71,53 +81,53 @@
   },
   {
     "FileName": "Addons\\anims_anm_player.pbo",
-    "Size": 328049813,
-    "MD5": "f25720d9e197925a20f3e709a2288517"
+    "Size": 59524337,
+    "MD5": "6ef0c093d5cb5deb5cb557885819a3f5"
   },
   {
     "FileName": "Addons\\anims_anm_player.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "59fecf1d3809cd0b5f9246020d1e40d1"
+    "MD5": "6ce4ce39fe792a9a7cca3a53f382608e"
   },
   {
     "FileName": "Addons\\anims_cfg.pbo",
-    "Size": 46936,
-    "MD5": "8d7a1d060ee7f67e67c74cdf688a21fa"
+    "Size": 46937,
+    "MD5": "a9387aea834d7605dd8e5a640006cb59"
   },
   {
     "FileName": "Addons\\anims_cfg.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "2a9156b075baa9633178cd08746173f0"
+    "MD5": "a98c2c094f0f8dd23b1e6d6d17947291"
   },
   {
     "FileName": "Addons\\anims_workspaces.pbo",
-    "Size": 3926130,
-    "MD5": "32face27fcab27887810ca815f7de418"
+    "Size": 3917780,
+    "MD5": "92fe45cef346a0c99bab7ea74bb6208e"
   },
   {
     "FileName": "Addons\\anims_workspaces.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "047dddbae6ce10f2b93f58475adef9e8"
+    "MD5": "58c92a5823ff583f5011685a686a24c2"
   },
   {
     "FileName": "Addons\\characters_backpacks.pbo",
-    "Size": 159348431,
-    "MD5": "e99a9b32c980180028f0f7c3eace5db8"
+    "Size": 159317369,
+    "MD5": "8ec2d5e0414f2c154782c84fd793cd67"
   },
   {
     "FileName": "Addons\\characters_backpacks.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "766df24520a8b467c33766979c4b67df"
+    "MD5": "4ec1f36a9d4b5283751ccc307f70322f"
   },
   {
     "FileName": "Addons\\characters_belts.pbo",
-    "Size": 32162852,
-    "MD5": "23dc6df041a7c3ad13f703c0e6492875"
+    "Size": 32123317,
+    "MD5": "85ac9a175a88b7022210ccc2012f4ed9"
   },
   {
     "FileName": "Addons\\characters_belts.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "74600e532f49b3926137b173002cffed"
+    "MD5": "ccc3abaca67d80a1efb09d863c483da0"
   },
   {
     "FileName": "Addons\\characters_bodies.pbo",
@@ -131,13 +141,13 @@
   },
   {
     "FileName": "Addons\\characters_data.pbo",
-    "Size": 23042752,
-    "MD5": "a9dd5784f4839c1b7a0f7ca64aff1ea4"
+    "Size": 23039934,
+    "MD5": "698f47b30d4ab82407c9067c131aa296"
   },
   {
     "FileName": "Addons\\characters_data.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "3d20c9eed05798bc5f35911175c2c0a1"
+    "MD5": "172412c056d7666210bcdbb29feb86aa"
   },
   {
     "FileName": "Addons\\characters_glasses.pbo",
@@ -151,53 +161,53 @@
   },
   {
     "FileName": "Addons\\characters_gloves.pbo",
-    "Size": 51965120,
-    "MD5": "2855ff93b97bd9c2cd54cb22e82500ad"
+    "Size": 38741686,
+    "MD5": "e9c50d7208b1655de999f74874196716"
   },
   {
     "FileName": "Addons\\characters_gloves.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "2567d0163514bc4e464f2ba7cf3c7289"
+    "MD5": "4747b384f3b4f323a59d1f20aab9bff8"
   },
   {
     "FileName": "Addons\\characters_headgear.pbo",
-    "Size": 292140080,
-    "MD5": "dc4207d46382057b2f36900c2cbfb703"
+    "Size": 231613528,
+    "MD5": "2da42e554609f943b1f53c70bffb6575"
   },
   {
     "FileName": "Addons\\characters_headgear.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "a942c3914991a73a9f15e506de170f7a"
+    "MD5": "67ab5d06c77b3e90b6585daaa0126b25"
   },
   {
     "FileName": "Addons\\characters_heads.pbo",
-    "Size": 515910628,
-    "MD5": "2dd88e2047625d7f3ef322a6889ac430"
+    "Size": 515920662,
+    "MD5": "b7193c3516d0aec37c8e603dedbacfe3"
   },
   {
     "FileName": "Addons\\characters_heads.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "e48730f1128808fefbd7da281026dbb2"
+    "MD5": "1c73aa8755b47b2d78ce52dfa9a373a7"
   },
   {
     "FileName": "Addons\\characters_masks.pbo",
-    "Size": 74095233,
-    "MD5": "ceecd8bfc9cefdc14ff66651f5c880d9"
+    "Size": 74095236,
+    "MD5": "61228cc99b7a6a9e332a6afde6f8da5f"
   },
   {
     "FileName": "Addons\\characters_masks.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "23e827f0645038aace09aede2dae269e"
+    "MD5": "0b30638e2d16d3c63c38ac6819cead3a"
   },
   {
     "FileName": "Addons\\characters_pants.pbo",
-    "Size": 166454032,
-    "MD5": "d225ac068f7ffd034295efcec6f15552"
+    "Size": 166453646,
+    "MD5": "752d220db2303ccd1af2cfcccf452aa0"
   },
   {
     "FileName": "Addons\\characters_pants.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "4ecb074aadf63524a658f2c18b1d8b79"
+    "MD5": "df09161930371d0b5973e8fd8c684529"
   },
   {
     "FileName": "Addons\\characters_proxies.pbo",
@@ -211,23 +221,23 @@
   },
   {
     "FileName": "Addons\\characters_shoes.pbo",
-    "Size": 33894816,
-    "MD5": "3630df47ed34db267285da97614bfdac"
+    "Size": 33896918,
+    "MD5": "92d24a9c0ad9ff2e4ada161670ac9b81"
   },
   {
     "FileName": "Addons\\characters_shoes.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "7224dafaf2f4b5a0aee67732184e5914"
+    "MD5": "2bb3ba4c26b3051e274d28855554faac"
   },
   {
     "FileName": "Addons\\characters_tops.pbo",
-    "Size": 475424885,
-    "MD5": "4bae1514e2d5ed2b45c440827e32c113"
+    "Size": 467899070,
+    "MD5": "dab64e06578a2b72cdd8912fbfa255af"
   },
   {
     "FileName": "Addons\\characters_tops.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "9eb366cbe1268fc0b18fd630ba2b20dd"
+    "MD5": "ec673f85dc037f7444dce39153608996"
   },
   {
     "FileName": "Addons\\characters_vests.pbo",
@@ -251,13 +261,13 @@
   },
   {
     "FileName": "Addons\\dz.pbo",
-    "Size": 142194853,
-    "MD5": "67df462d1cfe6e845cbd64564f4519a4"
+    "Size": 140282797,
+    "MD5": "19ba37837eb9f4a0101a36cc4479faeb"
   },
   {
     "FileName": "Addons\\dz.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "31fd39f3a524bdb9e8314ff74c054892"
+    "MD5": "6ff1b837f4464210f949c4fb736bf55a"
   },
   {
     "FileName": "Addons\\gear_books.pbo",
@@ -271,23 +281,23 @@
   },
   {
     "FileName": "Addons\\gear_camping.pbo",
-    "Size": 210671379,
-    "MD5": "320768c7e4d78c0b3e1b01e8534a7259"
+    "Size": 208673998,
+    "MD5": "831b3c76617eb44cdcad4addfc2dd5a9"
   },
   {
     "FileName": "Addons\\gear_camping.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "fcfbdf85bbd6666d163c1fccb6ab88a2"
+    "MD5": "f47060a81b5842d0e2ea9380995d0d01"
   },
   {
     "FileName": "Addons\\gear_consumables.pbo",
-    "Size": 109329622,
-    "MD5": "53e75b719acd9b593ceb16c235625414"
+    "Size": 109329627,
+    "MD5": "268be2b168044aa2d4e5ce2d4451f0c4"
   },
   {
     "FileName": "Addons\\gear_consumables.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "0df09535f88f12c13f9838560e2fa5a0"
+    "MD5": "534da4bbf2755011148d4288430d81c4"
   },
   {
     "FileName": "Addons\\gear_containers.pbo",
@@ -321,13 +331,13 @@
   },
   {
     "FileName": "Addons\\gear_cultivation.pbo",
-    "Size": 109445410,
-    "MD5": "e268491cf26e7a8222510d96a855fd92"
+    "Size": 109445039,
+    "MD5": "2e6ac8f3c380e11d85eb3b1fbf046141"
   },
   {
     "FileName": "Addons\\gear_cultivation.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "e648bbbcc0d5f0fd48a7fc6d3bcd254c"
+    "MD5": "11261986a67e8a9b11e453ef1306c7de"
   },
   {
     "FileName": "Addons\\gear_drinks.pbo",
@@ -341,13 +351,13 @@
   },
   {
     "FileName": "Addons\\gear_food.pbo",
-    "Size": 216391871,
-    "MD5": "10e229807ecdd436e0855f6dbdb03bfe"
+    "Size": 216460589,
+    "MD5": "4547ce427b23e8a7bac6432e19aa761a"
   },
   {
     "FileName": "Addons\\gear_food.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "8ee88b95ff22cad7c971daa8c150c71b"
+    "MD5": "3bcd55c2778811cb00552cb69ef7bddf"
   },
   {
     "FileName": "Addons\\gear_medical.pbo",
@@ -361,13 +371,13 @@
   },
   {
     "FileName": "Addons\\gear_navigation.pbo",
-    "Size": 16123122,
-    "MD5": "2894aec2a25a516a522c91992c13b9bd"
+    "Size": 16122890,
+    "MD5": "607eeadf284a8d60ca978a8c1d28552d"
   },
   {
     "FileName": "Addons\\gear_navigation.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "3cff7498ad265422b9cbd4da58b9a87d"
+    "MD5": "73a95ee68872198fd2e2dd5ab432dc68"
   },
   {
     "FileName": "Addons\\gear_optics.pbo",
@@ -391,23 +401,23 @@
   },
   {
     "FileName": "Addons\\gear_tools.pbo",
-    "Size": 148989381,
-    "MD5": "80229e4f377f03e077b2871e82c16432"
+    "Size": 149043258,
+    "MD5": "ccadbf5e5b2306c33b0546f00ddecb50"
   },
   {
     "FileName": "Addons\\gear_tools.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "52d1aed3e13772d4ebe7fd7ebef728d8"
+    "MD5": "116e485312f6e361f65f4b88f66a2cfe"
   },
   {
     "FileName": "Addons\\gear_traps.pbo",
-    "Size": 9700143,
-    "MD5": "c11f904a2070253b6888c38fef89fb3f"
+    "Size": 9700146,
+    "MD5": "b4cb0293abfca491f06f83936b1dd457"
   },
   {
     "FileName": "Addons\\gear_traps.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "34dc45c2eaf11a70d35f94dceadbab82"
+    "MD5": "c21c08d821a9c66b3a9d2f557309346f"
   },
   {
     "FileName": "Addons\\modules_dayz.pbo",
@@ -421,23 +431,23 @@
   },
   {
     "FileName": "Addons\\plants.pbo",
-    "Size": 688121945,
-    "MD5": "ea95e333a0a88ea9b20f6ed31b6ed264"
+    "Size": 688622171,
+    "MD5": "485f741577a0609782b4e85c16ec78ac"
   },
   {
     "FileName": "Addons\\plants.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "ff14148c8d9c4fd3508938c7666e7a3c"
+    "MD5": "1d5705db2121b844472a5f632caf9fa3"
   },
   {
     "FileName": "Addons\\rocks.pbo",
-    "Size": 122957768,
-    "MD5": "970722eb2b7839b2dc262e2077f2cbd2"
+    "Size": 114699910,
+    "MD5": "dc381a9ef832986671f2fd8b557727a1"
   },
   {
     "FileName": "Addons\\rocks.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "6eba3e4832fe239cadd6f2c5e4f75b15"
+    "MD5": "f5dfc3725a7d9adc39bb9ea48a4f19dd"
   },
   {
     "FileName": "Addons\\server_data.pbo",
@@ -461,53 +471,53 @@
   },
   {
     "FileName": "Addons\\sounds_characters.pbo",
-    "Size": 131072568,
-    "MD5": "6357db285da549954f09062f7e8d7ba2"
+    "Size": 128925913,
+    "MD5": "69bc8c34173763efdf34be1970a3736c"
   },
   {
     "FileName": "Addons\\sounds_characters.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "213f347730382438320ec5d0347f260b"
+    "MD5": "e0cdf82dcfbc46821e6601c4d764dd4e"
   },
   {
     "FileName": "Addons\\sounds_environment.pbo",
-    "Size": 66991788,
-    "MD5": "e5c1d452516e3446830432725eba54aa"
+    "Size": 64967269,
+    "MD5": "4bd4a645ede9ad527f6b988563ed627a"
   },
   {
     "FileName": "Addons\\sounds_environment.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "2bcb680a7ca0e0c4a1157a35dc0af5ca"
+    "MD5": "d6727532bc508cc56b8fd233b18b18f4"
   },
   {
     "FileName": "Addons\\sounds_hpp.pbo",
-    "Size": 8704407,
-    "MD5": "2d8aeda6f41db4f6a3a10ac158585976"
+    "Size": 8662472,
+    "MD5": "6b6081f25966e66eb3b9d48cc5eb061b"
   },
   {
     "FileName": "Addons\\sounds_hpp.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "3dc9b25ec2c1aeb98f8d0fd857cc42b4"
+    "MD5": "04f2ac5be510824d0c4e8a0adad91cf7"
   },
   {
     "FileName": "Addons\\sounds_vehicles.pbo",
-    "Size": 12769690,
-    "MD5": "977dd4f03135fd88fc7eb550f0bdecdb"
+    "Size": 12753104,
+    "MD5": "9f9addca3b34e6ea40b0dbdbfb3b82c4"
   },
   {
     "FileName": "Addons\\sounds_vehicles.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "80332cf7dc7ddf1f0bb1690376c194d7"
+    "MD5": "f40aef982b8e00bb1a5713cee6e9bcb7"
   },
   {
     "FileName": "Addons\\sounds_weapons.pbo",
-    "Size": 75253469,
-    "MD5": "77e0984d832c432440216c10cd2e3ea5"
+    "Size": 71095651,
+    "MD5": "d53d2fe4e2fcd90d839dec28f2696d0d"
   },
   {
     "FileName": "Addons\\sounds_weapons.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "f83cbd9e0f18226b047f405d8db67f97"
+    "MD5": "149c1ac065d6720eac340db164fa7b53"
   },
   {
     "FileName": "Addons\\structures_data.pbo",
@@ -521,33 +531,33 @@
   },
   {
     "FileName": "Addons\\structures_furniture.pbo",
-    "Size": 288264691,
-    "MD5": "c2bc582927f51f0a1a31544868b27986"
+    "Size": 281215887,
+    "MD5": "257f2789b60e704af9254999a749afad"
   },
   {
     "FileName": "Addons\\structures_furniture.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "abb58e4a5ef32bb4eab18aeb2a4d95f8"
+    "MD5": "f4a905255b9923036ce82ac149e98296"
   },
   {
     "FileName": "Addons\\structures_industrial.pbo",
-    "Size": 1104112996,
-    "MD5": "c1c72ce1f5786afa4680affd977d87a3"
+    "Size": 1104082618,
+    "MD5": "74eb49ae40c3e4474489758b9c2632d5"
   },
   {
     "FileName": "Addons\\structures_industrial.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "262e66591d3ef6b614f4b22e8c7b8d6e"
+    "MD5": "edce500af946bd0374a54f3cdfb8b787"
   },
   {
     "FileName": "Addons\\structures_military.pbo",
-    "Size": 987706175,
-    "MD5": "0d54dd3fa0419e9e5f56c650742effcd"
+    "Size": 952701171,
+    "MD5": "1629d7a910387cf0d409c4becfbbedeb"
   },
   {
     "FileName": "Addons\\structures_military.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "3b78d838c22accf44155c681981762dd"
+    "MD5": "ac9f42bcfa773ac694a2ddecd162d12f"
   },
   {
     "FileName": "Addons\\structures_proxy_parts.pbo",
@@ -571,83 +581,83 @@
   },
   {
     "FileName": "Addons\\structures_residential.pbo",
-    "Size": 905519876,
-    "MD5": "bc3802157c99c9b84c69ce44b91a0158"
+    "Size": 888625534,
+    "MD5": "aac7ed676d1034da9fe249814550fb3e"
   },
   {
     "FileName": "Addons\\structures_residential.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "784c0fc0e168fbaeaa66281a45591542"
+    "MD5": "4c6c00fe7e320613c4542e2c6b37063f"
   },
   {
     "FileName": "Addons\\structures_roads.pbo",
-    "Size": 317010785,
-    "MD5": "b320de1e132a70f13e5e75d831c6baa6"
+    "Size": 284983358,
+    "MD5": "02f9f140aa08b35b500715c121d17699"
   },
   {
     "FileName": "Addons\\structures_roads.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "9b9fe53e28be95b3645b50e8c0db1f54"
+    "MD5": "d79c2d577a9082f8b89327e76446d82d"
   },
   {
     "FileName": "Addons\\structures_ruins.pbo",
-    "Size": 48128436,
-    "MD5": "608bed172f1a6921b46d32869b74d8fe"
+    "Size": 43873069,
+    "MD5": "f3650d90a1cc8d3d705a2ead953c4203"
   },
   {
     "FileName": "Addons\\structures_ruins.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "12fd95a8378ddaf57a529893f6dfceec"
+    "MD5": "276e75f68ad1103d918f59a25d1d924a"
   },
   {
     "FileName": "Addons\\structures_signs.pbo",
-    "Size": 194953603,
-    "MD5": "52012a3f67d61d0106a9880bac598f9f"
+    "Size": 176462325,
+    "MD5": "fd7ec76c7a4a87041268e91b6e52b334"
   },
   {
     "FileName": "Addons\\structures_signs.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "b244099004553555f7e61c0be2912e77"
+    "MD5": "aed5cc4b68fe42cc51a11a223f47e6c1"
   },
   {
     "FileName": "Addons\\structures_specific.pbo",
-    "Size": 796621216,
-    "MD5": "23e4f4a1474041cf8fb96cff9684bbcb"
+    "Size": 768680969,
+    "MD5": "d490963a43e0b64e2760cca239d60068"
   },
   {
     "FileName": "Addons\\structures_specific.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "0cb66a60fc84458bd1384d28a3852396"
+    "MD5": "62fbd1d83c0559f70fd90284ec75d70c"
   },
   {
     "FileName": "Addons\\structures_walls.pbo",
-    "Size": 40921857,
-    "MD5": "89d78cf6659266063b5e11059bc89836"
+    "Size": 40922077,
+    "MD5": "ab8e3041e15b12d87f651991ab9555af"
   },
   {
     "FileName": "Addons\\structures_walls.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "46dd576a4488b5f9ad89a6061fa2f8ae"
+    "MD5": "28dbef20b4f81e2a789a66ac80bde6cf"
   },
   {
     "FileName": "Addons\\structures_wrecks.pbo",
-    "Size": 711169930,
-    "MD5": "91145547a5c9948d573e5c277498117a"
+    "Size": 694319087,
+    "MD5": "bb162d32f5e45cb2ca1acba1230c2eff"
   },
   {
     "FileName": "Addons\\structures_wrecks.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "61b5418ff4bfebcfee06b456dd25b02e"
+    "MD5": "927faa9ed6edfef38426415c0cb15051"
   },
   {
     "FileName": "Addons\\surfaces.pbo",
-    "Size": 159641065,
-    "MD5": "58d7f74443a9546f84e8e71c82a8ee2e"
+    "Size": 151381808,
+    "MD5": "77fe9dd531e3aa381b6455af7a6b5492"
   },
   {
     "FileName": "Addons\\surfaces.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "e1383cad27d69510e1fdb3c001afde60"
+    "MD5": "aadd9fcb3df8048bf3fdbba4d8a6b192"
   },
   {
     "FileName": "Addons\\ui.pbo",
@@ -681,33 +691,33 @@
   },
   {
     "FileName": "Addons\\vehicles_wheeled.pbo",
-    "Size": 854008882,
-    "MD5": "9a6b02c37bbf7d874fe809eee1868a50"
+    "Size": 841892330,
+    "MD5": "5c649bf84b35ab0ed4e521f5bcb00a53"
   },
   {
     "FileName": "Addons\\vehicles_wheeled.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "52e052b285c00bc15600e0ce828009e3"
+    "MD5": "a7a3b2f02963eec27f71956b2d4a0ef0"
   },
   {
     "FileName": "Addons\\water.pbo",
-    "Size": 100838973,
-    "MD5": "edc821ddd8dc6fe61964f22e1e59ce27"
+    "Size": 100828682,
+    "MD5": "5bbfefd85f728ebb0a98a46698e3abee"
   },
   {
     "FileName": "Addons\\water.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "71bb4873f603dcb2557a3c3bbee3fef4"
+    "MD5": "3deb71768f05c8bd0f685adc60add11f"
   },
   {
     "FileName": "Addons\\weapons_ammunition.pbo",
-    "Size": 33645757,
-    "MD5": "8638a1797d0f3d130edefc47b765f3a7"
+    "Size": 33645998,
+    "MD5": "215355993514fbfe9f37b9dd57fa8fb5"
   },
   {
     "FileName": "Addons\\weapons_ammunition.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "b311cf9b79cfd730e5b8371dc7dca348"
+    "MD5": "ebd920856afe2e2f89e54058de74d925"
   },
   {
     "FileName": "Addons\\weapons_animations.pbo",
@@ -721,43 +731,43 @@
   },
   {
     "FileName": "Addons\\weapons_archery.pbo",
-    "Size": 27216855,
-    "MD5": "50b6769058b9b860957e288f2df6b013"
+    "Size": 27216783,
+    "MD5": "a65efdc376978c815ea6e241a312c71e"
   },
   {
     "FileName": "Addons\\weapons_archery.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "95e7948a901c286b9eaadd8f2d411876"
+    "MD5": "73e82f7890a39a79da3e35ef06656f73"
   },
   {
     "FileName": "Addons\\weapons_data.pbo",
-    "Size": 2918062,
-    "MD5": "25b32e96d0177dc1f5aa3579f68a3dda"
+    "Size": 2912638,
+    "MD5": "414e6758cb7f2065354f62ab37ce440d"
   },
   {
     "FileName": "Addons\\weapons_data.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "835de73012d880426fd708d36c184158"
+    "MD5": "4c95e7d7ea9a1847e783eac7b9ce0985"
   },
   {
     "FileName": "Addons\\weapons_explosives.pbo",
-    "Size": 18246711,
-    "MD5": "83fc63c068ae8d35e0d493a563f4e38a"
+    "Size": 18246532,
+    "MD5": "1c925478ffacdb66c0fa6c41f317f0ea"
   },
   {
     "FileName": "Addons\\weapons_explosives.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "dd480264b3b9d6c7d7522f8ff3e8c083"
+    "MD5": "e09376051fc1458f80e0f3ba6ba0c617"
   },
   {
     "FileName": "Addons\\weapons_firearms.pbo",
-    "Size": 496719811,
-    "MD5": "6e9d00344c0dbe1a6b6e4fc6ae4e9333"
+    "Size": 475613218,
+    "MD5": "3ad2840749c4c351d1f9392a28fb6c78"
   },
   {
     "FileName": "Addons\\weapons_firearms.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "aecd10230f6733970490b7c34151d4c2"
+    "MD5": "956f1097a3938751f6a65f16e4dba037"
   },
   {
     "FileName": "Addons\\weapons_launchers.pbo",
@@ -771,13 +781,13 @@
   },
   {
     "FileName": "Addons\\weapons_melee.pbo",
-    "Size": 104099909,
-    "MD5": "f2d594638d471ef9e1c7ddcb15bdfb20"
+    "Size": 104099567,
+    "MD5": "488748d930eac5e1570de3a6ff23bee4"
   },
   {
     "FileName": "Addons\\weapons_melee.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "94db65a92003f1ae724b6f58ed82797b"
+    "MD5": "85f9c08e3de61bb8fc8e833bbff53bd8"
   },
   {
     "FileName": "Addons\\weapons_misc.pbo",
@@ -811,13 +821,13 @@
   },
   {
     "FileName": "Addons\\weapons_projectiles.pbo",
-    "Size": 11050656,
-    "MD5": "16a56bfc7d0ef59e9d40db743c5ad29d"
+    "Size": 11050390,
+    "MD5": "958c88d390a457266b1315a2ef219733"
   },
   {
     "FileName": "Addons\\weapons_projectiles.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "c15ff7e3fa17d799c9fb66151b19bf4f"
+    "MD5": "9d537b1c8fd0cd6df155b4df1cc4e118"
   },
   {
     "FileName": "Addons\\weapons_proxies.pbo",
@@ -831,23 +841,23 @@
   },
   {
     "FileName": "Addons\\weapons_shotguns.pbo",
-    "Size": 60322779,
-    "MD5": "8e0b4e40f8858cfd6de65939a651dd54"
+    "Size": 60323018,
+    "MD5": "42bb8636931570df603d6e4ff7fabcbc"
   },
   {
     "FileName": "Addons\\weapons_shotguns.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "46ee3078fdb7b4c3c1b280950d49c949"
+    "MD5": "76e3471b5ff1e6a824573a26e722f65c"
   },
   {
     "FileName": "Addons\\weapon_attachments_textures.pbo",
     "Size": 142058818,
-    "MD5": "992c766eb86733a6403a526e3a115843"
+    "MD5": "0df412e75070e2f78ed289d5f7d082e9"
   },
   {
     "FileName": "Addons\\weapon_attachments_textures.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "896cc59e8fac13054149b8433d08d269"
+    "MD5": "29a0c4eab2cd22cd41056ae4f8de84c0"
   },
   {
     "FileName": "Addons\\weapon_lights.pbo",
@@ -861,13 +871,13 @@
   },
   {
     "FileName": "Addons\\weapon_magazines.pbo",
-    "Size": 69318630,
-    "MD5": "ddc79ad432732245a0b8040684701331"
+    "Size": 67376772,
+    "MD5": "9b6c9c3fc97c28f0b33606c5c8657dda"
   },
   {
     "FileName": "Addons\\weapon_magazines.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "1a2ac68a03631f7cc1eacdb7c4b558e3"
+    "MD5": "bcfd917452e27617d37c83584ccce389"
   },
   {
     "FileName": "Addons\\weapon_muzzles.pbo",
@@ -911,43 +921,43 @@
   },
   {
     "FileName": "Addons\\worlds_chernarusplus.pbo",
-    "Size": 223667558,
-    "MD5": "2a53e8be333abc437c0fbc545f6b4f1b"
+    "Size": 222147271,
+    "MD5": "45e73b1aca2c5af4bce8f62215aacd55"
   },
   {
     "FileName": "Addons\\worlds_chernarusplus.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "002771dfdcb83b159a6f5e23b0604ea7"
+    "MD5": "9f5d4658fa3159c3bcfd33ae9ceed337"
   },
   {
     "FileName": "Addons\\worlds_chernarusplus_ce.pbo",
-    "Size": 108315628,
-    "MD5": "af1570eb1502ff38482537638d2f12fa"
+    "Size": 108225423,
+    "MD5": "e066f20a5e28ba1d3a23f9246a5fd3f9"
   },
   {
     "FileName": "Addons\\worlds_chernarusplus_ce.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "916386805a83d41d14e336d25f79e40b"
+    "MD5": "e8be7cc78a026c189244ba0236f3cddb"
   },
   {
     "FileName": "Addons\\worlds_chernarusplus_data.pbo",
-    "Size": 281780052,
-    "MD5": "e5420ff8a693c51fed898798f5fd6126"
+    "Size": 255199502,
+    "MD5": "abe1d009453d8aa846843267ffd08da4"
   },
   {
     "FileName": "Addons\\worlds_chernarusplus_data.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "6fca8ca3a8a6b0735640355a38ee2f51"
+    "MD5": "596cc367012f615e5be7018eb8759ff8"
   },
   {
     "FileName": "Addons\\worlds_chernarusplus_nav.pbo",
-    "Size": 550847934,
-    "MD5": "0d0f925a8df189f0bdcbe84738e4c38a"
+    "Size": 551485418,
+    "MD5": "67ea7d4550e36b04775304c5b28049cb"
   },
   {
     "FileName": "Addons\\worlds_chernarusplus_nav.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "0b4a6e1c494d323f83e887a9e0442b0e"
+    "MD5": "dce7ce2081afc3d01181234ca31a412c"
   },
   {
     "FileName": "BattlEye\\BEClient_x64.cfg",
@@ -1156,13 +1166,13 @@
   },
   {
     "FileName": "bliss\\Addons\\animals_bliss.pbo",
-    "Size": 18284974,
-    "MD5": "e89b54368f3bc3925ba6d0a84486a116"
+    "Size": 18284972,
+    "MD5": "cf62cb4424d0066af0194a3039582fa4"
   },
   {
     "FileName": "bliss\\Addons\\animals_bliss.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "4851bc34b48f9de290dd0a694c4a4c09"
+    "MD5": "bd6c06645df6bc26a69fc23b019fba23"
   },
   {
     "FileName": "bliss\\Addons\\data_bliss.pbo",
@@ -1176,13 +1186,13 @@
   },
   {
     "FileName": "bliss\\Addons\\plants_bliss.pbo",
-    "Size": 305116017,
-    "MD5": "4ecb767d5467c7054540ad4cc0843ff5"
+    "Size": 305630889,
+    "MD5": "08b21e011c0c91ab6aca6d6cd48c34ac"
   },
   {
     "FileName": "bliss\\Addons\\plants_bliss.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "332a1790e13faafac3b19558343e3612"
+    "MD5": "26273ac7d1282449580776f960e4b347"
   },
   {
     "FileName": "bliss\\Addons\\rocks_bliss.pbo",
@@ -1196,23 +1206,23 @@
   },
   {
     "FileName": "bliss\\Addons\\sounds_bliss.pbo",
-    "Size": 48775405,
-    "MD5": "c058f348daca2761d2a814c809a0a83b"
+    "Size": 48775404,
+    "MD5": "e56efacf3e7dd94ed2bf645a5e3547bf"
   },
   {
     "FileName": "bliss\\Addons\\sounds_bliss.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "86fd31a598a8108168fe64221326c423"
+    "MD5": "1e9019515e1c3914d146726531069803"
   },
   {
     "FileName": "bliss\\Addons\\structures_data_bliss.pbo",
-    "Size": 580866734,
-    "MD5": "8389798edb181d9cd269393fa0defa5d"
+    "Size": 573629281,
+    "MD5": "8549d6360389287b60b2345d715b41c0"
   },
   {
     "FileName": "bliss\\Addons\\structures_data_bliss.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "051ecac639d4cd5014f9c006cdf77355"
+    "MD5": "9ef1349554586eeb2476bb51ffc70a33"
   },
   {
     "FileName": "bliss\\Addons\\structures_industrial_bliss.pbo",
@@ -1266,23 +1276,23 @@
   },
   {
     "FileName": "bliss\\Addons\\structures_ruins_bliss.pbo",
-    "Size": 394611672,
-    "MD5": "fa854c1a6a470fc714b7736ab24adf9a"
+    "Size": 394611245,
+    "MD5": "1567385aca1402edf8c1012f77f9370f"
   },
   {
     "FileName": "bliss\\Addons\\structures_ruins_bliss.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "9bf1dfde24104d559a2f88be3d93d67e"
+    "MD5": "09b188f0bf4a31a21710d0f3bab5e2d8"
   },
   {
     "FileName": "bliss\\Addons\\structures_signs_bliss.pbo",
-    "Size": 42630608,
-    "MD5": "6b2d827f633014657fee3da0acdd9a06"
+    "Size": 42630557,
+    "MD5": "84e7c0514e06408f2df81d65b4c22252"
   },
   {
     "FileName": "bliss\\Addons\\structures_signs_bliss.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "63a8420b29a08fd66b3edc9f9c428cb3"
+    "MD5": "fe3531277cb2bac6f44874fe288fe462"
   },
   {
     "FileName": "bliss\\Addons\\structures_specific_bliss.pbo",
@@ -1346,53 +1356,53 @@
   },
   {
     "FileName": "bliss\\Addons\\worlds_enoch.ebo",
-    "Size": 225968990,
-    "MD5": "ccf0d9149f5a135c27d71adbd5d97f04"
+    "Size": 225953682,
+    "MD5": "b5a72cb38130ba46da6b25ea269118fd"
   },
   {
     "FileName": "bliss\\Addons\\worlds_enoch.ebo.dayz.bisign",
     "Size": 557,
-    "MD5": "888dc0f2094ae09ff09dacf6253fe691"
+    "MD5": "172baad760bf3229c60755fbbf8471e1"
   },
   {
     "FileName": "bliss\\Addons\\worlds_enoch_ce.pbo",
-    "Size": 100104412,
-    "MD5": "91a52d9bf1d852800efbf1591870e8c8"
+    "Size": 100019868,
+    "MD5": "59a0c5ceaa4d476c0d21d89687d1572a"
   },
   {
     "FileName": "bliss\\Addons\\worlds_enoch_ce.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "1c3508e0c7e9965186515c96cb1d023a"
+    "MD5": "f79466e18d188bdeb6d434d73b4e9453"
   },
   {
     "FileName": "bliss\\Addons\\worlds_enoch_data.pbo",
-    "Size": 297067748,
-    "MD5": "94e1cb9a3f7c9356881b974833b6d014"
+    "Size": 278847371,
+    "MD5": "df462cec578e57c7285bef8fe4eb1f63"
   },
   {
     "FileName": "bliss\\Addons\\worlds_enoch_data.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "43b6344be516d30882311e13884ef4a9"
+    "MD5": "65c56ed3f5fd9d2d4c85508bd1765c28"
   },
   {
     "FileName": "bliss\\Addons\\worlds_enoch_nav.pbo",
-    "Size": 395134334,
-    "MD5": "c3563319bb887267c6856a307a212a82"
+    "Size": 395156363,
+    "MD5": "0e4b3e304e09f031e24bd35bacafaf4f"
   },
   {
     "FileName": "bliss\\Addons\\worlds_enoch_nav.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "fd479495ec2a9af9eb0f598e8d766972"
+    "MD5": "12c69a4e7c23d1ac37aa91d1e29de65e"
   },
   {
     "FileName": "dta\\bin.pbo",
-    "Size": 285061,
-    "MD5": "875dafa1fe5d3050115c3cf838d70ad8"
+    "Size": 284444,
+    "MD5": "bc81acff95f803efa62b78d28a8a0dd4"
   },
   {
     "FileName": "dta\\bin.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "74f8c163ba84ca567d305129a62ab227"
+    "MD5": "2dd78224b3a5d3989de2a254fa0f6559"
   },
   {
     "FileName": "dta\\core.pbo",
@@ -1406,33 +1416,33 @@
   },
   {
     "FileName": "dta\\graphics.pbo",
-    "Size": 59442210,
-    "MD5": "bd9acafd64efdcffc209a1fe4992aa47"
+    "Size": 58958129,
+    "MD5": "350ea66aa84aeda9e1bee2934123c4de"
   },
   {
     "FileName": "dta\\graphics.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "bdf2118fd7f6de6c6f7f94bcb56c0916"
+    "MD5": "f045327a8f6fda5df3b896a750972220"
   },
   {
     "FileName": "dta\\gui.pbo",
-    "Size": 130553186,
-    "MD5": "4734f98ccc5d986562a9978e5ef267ad"
+    "Size": 130490404,
+    "MD5": "70104d3a3cea24b47d42f0519ffeb5cd"
   },
   {
     "FileName": "dta\\gui.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "94f6e0107216d022cd0b0b1afacfcd2a"
+    "MD5": "0fa4dacd14a93e82db51b645b52d8dd0"
   },
   {
     "FileName": "dta\\languagecore.pbo",
-    "Size": 4557352,
-    "MD5": "700d6b152882c1b2e88a6d2c5a53420f"
+    "Size": 4532443,
+    "MD5": "b792c4c49839c4f5eca2ca70cfa0d191"
   },
   {
     "FileName": "dta\\languagecore.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "f513e669fe131c5fcf3b98eca2ca612a"
+    "MD5": "a39429c10f2b1cc5eb0842dc1927044f"
   },
   {
     "FileName": "dta\\product.bin",
@@ -1441,28 +1451,28 @@
   },
   {
     "FileName": "dta\\scripts.pbo",
-    "Size": 11472328,
-    "MD5": "70cf950219fa5502733975727594e4ff"
+    "Size": 11313861,
+    "MD5": "2391831fed5ae027a8b7c88e6e991415"
   },
   {
     "FileName": "dta\\scripts.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "78cc319625361da8a296c40d9f6ea8bf"
+    "MD5": "56276590237f0df1c1ea3187f58a1bbb"
   },
   {
     "FileName": "dta\\system.pbo",
-    "Size": 14268063,
-    "MD5": "16ce0dd8d6e3be63819f8d12f6bf5e4e"
+    "Size": 14261180,
+    "MD5": "da71fda5ec5776debaeceffd9f3516a0"
   },
   {
     "FileName": "dta\\system.pbo.dayz.bisign",
     "Size": 557,
-    "MD5": "66542442f25d363a0b802d61c629b27b"
+    "MD5": "e95bfc1c5d9d30c2a9cb2e8ac92de434"
   },
   {
     "FileName": "Mods\\nomes.txt",
-    "Size": 329,
-    "MD5": "9e3c2f35ad87b4aa35f03c27019b97fa"
+    "Size": 298,
+    "MD5": "acfe5f109ae75ab037e5814bc69363bc"
   },
   {
     "FileName": "Mods\\Pegar Pastas.bat",
@@ -1605,16 +1615,6 @@
     "MD5": "121512bc9bb078475fa3e041ce94afc0"
   },
   {
-    "FileName": "Mods\\@BuilderItems\\addons\\AltarRetreat.pbo",
-    "Size": 101,
-    "MD5": "236a24a981df28e934f4e3023bd5057c"
-  },
-  {
-    "FileName": "Mods\\@BuilderItems\\addons\\AltarRetreat.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "2e3d86764a27eddd32574c29ebb71500"
-  },
-  {
     "FileName": "Mods\\@BuilderItems\\addons\\billboards.pbo",
     "Size": 2969,
     "MD5": "464705d5ed42bc53026e742b29f916c8"
@@ -1643,36 +1643,6 @@
     "FileName": "Mods\\@BuilderItems\\addons\\BuildingsModPack.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "dd23852a1d4e7cfb1a4bacbaadea8171"
-  },
-  {
-    "FileName": "Mods\\@BuilderItems\\addons\\BuildingsModPack2.pbo",
-    "Size": 718492938,
-    "MD5": "b3d4381eb626f6c36b742e66559486ca"
-  },
-  {
-    "FileName": "Mods\\@BuilderItems\\addons\\BuildingsModPack2.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "30555137ed8dbdaf09907f21f5c3a535"
-  },
-  {
-    "FileName": "Mods\\@BuilderItems\\addons\\BuildingsModPack3.pbo",
-    "Size": 1517380735,
-    "MD5": "1d72a08ea4c3a9f7942e206410f4af4f"
-  },
-  {
-    "FileName": "Mods\\@BuilderItems\\addons\\BuildingsModPack3.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "cfc7de4b30c320e64916c69f48030298"
-  },
-  {
-    "FileName": "Mods\\@BuilderItems\\addons\\BuildingsModPack4.pbo",
-    "Size": 786901007,
-    "MD5": "a2d950772d0af37dec036ae6929cc682"
-  },
-  {
-    "FileName": "Mods\\@BuilderItems\\addons\\BuildingsModPack4.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "7aa4b3a26b8285244b4edc14ceacb9f7"
   },
   {
     "FileName": "Mods\\@BuilderItems\\addons\\BuildingsModPack7.pbo",
@@ -2055,16 +2025,6 @@
     "MD5": "e50a650799f179bae8ba5f3b15329dba"
   },
   {
-    "FileName": "Mods\\@Cars\\Addons\\A3_UI_F.pbo",
-    "Size": 569,
-    "MD5": "1fbd0a027a8a41f20757d71e72804f09"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\A3_UI_F.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "b7eb7e42e1f311ec54c3739f7013dc94"
-  },
-  {
     "FileName": "Mods\\@Cars\\Addons\\Audi_RS6.pbo",
     "Size": 28938369,
     "MD5": "22c55f793777c51ce65c07dbff61700e"
@@ -2123,56 +2083,6 @@
     "FileName": "Mods\\@Cars\\Addons\\bastard_btr70_script.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "d551686dec5195d77aba1e6ea9a5730b"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\bastard_framework.pbo",
-    "Size": 2109901,
-    "MD5": "a9d55ce94bcb20a766cb738da46f3345"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\bastard_framework.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "71e272f2a342e9071a5d92833ac204fb"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\bastard_shihiga.pbo",
-    "Size": 147369749,
-    "MD5": "376efcb889a6118ad5061f6ceb5ee5b9"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\bastard_shihiga.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "c2c7f3c5ee76ec6fc88dff700a200a07"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\bastard_shihiga_script.pbo",
-    "Size": 567348,
-    "MD5": "59692d7281b74f64dd210613c5b78efe"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\bastard_shihiga_script.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "1e7f7d66ef275c64c3c375465d7dea99"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\bastard_tigr.pbo",
-    "Size": 135162513,
-    "MD5": "9277b1b4028c3b67d890aaeda181f0ba"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\bastard_tigr.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "12b4903123f8612db595efc01375fbf5"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\bastard_tigr_script.pbo",
-    "Size": 6050654,
-    "MD5": "20babd1f466aa851d376914c6c04522a"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\bastard_tigr_script.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "b7406cd2854a677798db73fdc711d332"
   },
   {
     "FileName": "Mods\\@Cars\\Addons\\BMW.pbo",
@@ -2275,16 +2185,6 @@
     "MD5": "42fed45a99e0b3aeff7810fcf14d0163"
   },
   {
-    "FileName": "Mods\\@Cars\\Addons\\Buran.pbo",
-    "Size": 52846582,
-    "MD5": "cce5a03eabe1c3462d562c1178783aac"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\Buran.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "dd7dfbb5e5bff87bf02b330627f4d9fd"
-  },
-  {
     "FileName": "Mods\\@Cars\\Addons\\Callatic_Vehicles_Free_Pack.pbo",
     "Size": 33200687,
     "MD5": "bb034a341e7cef8e026f924c583df4a2"
@@ -2305,16 +2205,6 @@
     "MD5": "46d20eec367481801b9dcbbb23a5bc55"
   },
   {
-    "FileName": "Mods\\@Cars\\Addons\\CamperRV.pbo",
-    "Size": 427416972,
-    "MD5": "0f89d6e4497d48268cf7d0ad51bf460f"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\CamperRV.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "681c16e685312dc92908fe9df9bc99fc"
-  },
-  {
     "FileName": "Mods\\@Cars\\Addons\\Camper_Core.pbo",
     "Size": 76236,
     "MD5": "324f6075a788bdc6ff68d942963e460b"
@@ -2323,56 +2213,6 @@
     "FileName": "Mods\\@Cars\\Addons\\Camper_Core.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "ab5dd6913a6bcff234796fed79c251ba"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\Candy_GenericPickUp.pbo",
-    "Size": 76248468,
-    "MD5": "90acf1b1ea97a87d7e0cd4511c5fb88f"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\Candy_GenericPickUp.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "097a018b8c9959c9f4951bb472da38fa"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\Candy_MustFrank.pbo",
-    "Size": 80790839,
-    "MD5": "a6521aa2bb72a0889b5c28baf048a6b4"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\Candy_MustFrank.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "1c34987440733ec5ae54a4f702e4582a"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\Candy_OshkoshApoc.pbo",
-    "Size": 157091648,
-    "MD5": "32c8c2d9298b50c64b04c75e1e967c08"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\Candy_OshkoshApoc.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "5c2b172bd001f1496a9ec2be8f0a43e4"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\Candy_PAZ.pbo",
-    "Size": 103852446,
-    "MD5": "fbe72633c1c8bb4f7fffe6907315f2f3"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\Candy_PAZ.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "c5a28567566a0eceed76eddeb837e9b8"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\Candy_Titus.pbo",
-    "Size": 406085609,
-    "MD5": "ee7231b66bbb92855816c791b48b40b0"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\Candy_Titus.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "f16f399cdc339938440ac9d56675c866"
   },
   {
     "FileName": "Mods\\@Cars\\Addons\\ChevroletCorvette.pbo",
@@ -2505,16 +2345,6 @@
     "MD5": "62229268081787a6554ddd01d7e919d2"
   },
   {
-    "FileName": "Mods\\@Cars\\Addons\\DadyBikeRF.pbo",
-    "Size": 29911528,
-    "MD5": "34e21219138db289b876b647cf68b145"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\DadyBikeRF.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "aa3575f2f75b0895c724328ed0a935db"
-  },
-  {
     "FileName": "Mods\\@Cars\\Addons\\DBN_BMW_X6M.pbo",
     "Size": 65355099,
     "MD5": "5b99812ad9a9d9219e36f0da3ba74179"
@@ -2523,16 +2353,6 @@
     "FileName": "Mods\\@Cars\\Addons\\DBN_BMW_X6M.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "de603593e85d5676c54d129320dc1f77"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\Dnepr_MT_11.pbo",
-    "Size": 146480173,
-    "MD5": "e2eb89269c1ee5754be9170555b5557f"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\Dnepr_MT_11.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "814b89bfba91e0c6a9c2c1e06dab7dc1"
   },
   {
     "FileName": "Mods\\@Cars\\Addons\\DozorB.pbo",
@@ -2785,26 +2605,6 @@
     "MD5": "c013f613a16a9af06611ddd90a12afed"
   },
   {
-    "FileName": "Mods\\@Cars\\Addons\\Izh_56_RUS.pbo",
-    "Size": 146466990,
-    "MD5": "57456186fd4f823410d3f659cfe1a4f9"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\Izh_56_RUS.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "30995574759c88cb6ecd1b966ba94f49"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\jawa_350_638.pbo",
-    "Size": 94418434,
-    "MD5": "bb02e3953b44c558f5f189b185779eeb"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\jawa_350_638.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "aaf6a74afe180b9e7e781a770d5b4b7b"
-  },
-  {
     "FileName": "Mods\\@Cars\\Addons\\Jeep_Wrangler.pbo",
     "Size": 65024420,
     "MD5": "e33c774902e72c723031f4ee88239d63"
@@ -3035,24 +2835,14 @@
     "MD5": "aa349a5efa6a7aaef61b64f0836e0190"
   },
   {
-    "FileName": "Mods\\@Cars\\Addons\\moped_80.pbo",
-    "Size": 70933734,
-    "MD5": "6621ab6796959db85ebff7dbf877f36f"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\moped_80.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "8b1b242f95680d6851ae09b304d0b2b8"
-  },
-  {
     "FileName": "Mods\\@Cars\\Addons\\motorbike.pbo",
-    "Size": 54026064,
-    "MD5": "37a12778d5be9af64357972854fb0350"
+    "Size": 29094054,
+    "MD5": "572020844e508bd7aa57435714121e44"
   },
   {
     "FileName": "Mods\\@Cars\\Addons\\motorbike.pbo.dnaz.bisign",
     "Size": 557,
-    "MD5": "867620ccce66a4ab389f7c5b58a4e77b"
+    "MD5": "25230c582396f548200efcca1bb1818c"
   },
   {
     "FileName": "Mods\\@Cars\\Addons\\MotorHome.pbo",
@@ -3605,26 +3395,6 @@
     "MD5": "7888645f2ada52a64aad8880c84ec999"
   },
   {
-    "FileName": "Mods\\@Cars\\Addons\\URAL_M62.pbo",
-    "Size": 40995916,
-    "MD5": "08c81236607293f4e6322e08985ecf4f"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\URAL_M62.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "9e6145662a7a817c70a1716a2dc86561"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\VanExtra.pbo",
-    "Size": 44744670,
-    "MD5": "12c9ed5d6983b9cb6cf9a56492365cd1"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\VanExtra.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "fa30d1d4025f00baba48dc7985153b53"
-  },
-  {
     "FileName": "Mods\\@Cars\\Addons\\VAZ_2108.pbo",
     "Size": 46236264,
     "MD5": "9cf40ad535059f0a57c9ca47640b7bce"
@@ -3703,16 +3473,6 @@
     "FileName": "Mods\\@Cars\\Addons\\vg7_scorpion.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "bdafb2bbb55c352c87e0fc2e0a0a4bdf"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\vino_RF.pbo",
-    "Size": 40140411,
-    "MD5": "49d7f8194c11fa4e3fe079705e653260"
-  },
-  {
-    "FileName": "Mods\\@Cars\\Addons\\vino_RF.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "6a9b4495da97c1cef7b6bbbeb1f129b0"
   },
   {
     "FileName": "Mods\\@Cars\\Addons\\Willys_MB.pbo",
@@ -3858,51 +3618,6 @@
     "FileName": "Mods\\@CodeLock\\Addons\\CodelockRemote.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "d94784bc53d233fd6aed06bcc373c737"
-  },
-  {
-    "FileName": "Mods\\@Community-Online-Tools\\Addons\\GUI.pbo",
-    "Size": 262421,
-    "MD5": "642f728952f6115b6f6cd2ff20188d7c"
-  },
-  {
-    "FileName": "Mods\\@Community-Online-Tools\\Addons\\GUI.pbo.Jacob_Mango_V3.bisign",
-    "Size": 567,
-    "MD5": "62fc4a67e6acd509c524d217cfbb4185"
-  },
-  {
-    "FileName": "Mods\\@Community-Online-Tools\\Addons\\languagecore.pbo",
-    "Size": 58541,
-    "MD5": "cd428e8fa734a56486ab510c84fcd0ff"
-  },
-  {
-    "FileName": "Mods\\@Community-Online-Tools\\Addons\\languagecore.pbo.Jacob_Mango_V3.bisign",
-    "Size": 567,
-    "MD5": "3123415f2709df7034d2010be476577f"
-  },
-  {
-    "FileName": "Mods\\@Community-Online-Tools\\Addons\\Objects_Debug.pbo",
-    "Size": 3111,
-    "MD5": "e436957650512233511c80cb83247516"
-  },
-  {
-    "FileName": "Mods\\@Community-Online-Tools\\Addons\\Objects_Debug.pbo.Jacob_Mango_V3.bisign",
-    "Size": 567,
-    "MD5": "70679fba0862452455d49e3864257ad3"
-  },
-  {
-    "FileName": "Mods\\@Community-Online-Tools\\Addons\\Scripts.pbo",
-    "Size": 887593,
-    "MD5": "51a7371d9364bb1fb7dcb96bb45be2a2"
-  },
-  {
-    "FileName": "Mods\\@Community-Online-Tools\\Addons\\Scripts.pbo.Jacob_Mango_V3.bisign",
-    "Size": 567,
-    "MD5": "963aea349c311cffc765e445f762d742"
-  },
-  {
-    "FileName": "Mods\\@Community-Online-Tools\\Keys\\Jacob_Mango_V3.bikey",
-    "Size": 167,
-    "MD5": "5d1b66407ee86a70fe9caa6a196c0e01"
   },
   {
     "FileName": "Mods\\@DabsFramework\\meta.cpp",
@@ -4185,26 +3900,6 @@
     "MD5": "ca819f460ed268e0d6bef94b4470aa29"
   },
   {
-    "FileName": "Mods\\@DNAZ\\Addons\\evg_turrets.pbo",
-    "Size": 70298688,
-    "MD5": "09a9dc58a8cf83e1fa8f7f7cb0ca1b05"
-  },
-  {
-    "FileName": "Mods\\@DNAZ\\Addons\\evg_turrets.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "8e69ad1c0f1b075c89ca08cb221f9af8"
-  },
-  {
-    "FileName": "Mods\\@DNAZ\\Addons\\evg_turrets_Scripts.pbo",
-    "Size": 397606,
-    "MD5": "adc5e3e4ec8a43cf49990fe03375662f"
-  },
-  {
-    "FileName": "Mods\\@DNAZ\\Addons\\evg_turrets_Scripts.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "6530c66b17ad956158815429e5567174"
-  },
-  {
     "FileName": "Mods\\@DNAZ\\Addons\\GasAlarm.pbo",
     "Size": 124697,
     "MD5": "03ea5810b93828404874636fa6ed96d5"
@@ -4265,6 +3960,26 @@
     "MD5": "92d950a82fafa1864e781b2b8b8eadcd"
   },
   {
+    "FileName": "Mods\\@DNAZ\\Addons\\SFP.pbo",
+    "Size": 2129042473,
+    "MD5": "2c13f3decb56c9cddc921ebac70d0c3e"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\SFP.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "837f3e0df16f89fd565732760b9aacea"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\SFP2.pbo",
+    "Size": 1572694444,
+    "MD5": "ac2d0d6b0874681d20f49001c052ad98"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\SFP2.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "6b0c20c775d724c7e898537cd15e8822"
+  },
+  {
     "FileName": "Mods\\@DNAZ\\Addons\\UnderGroundBases.pbo",
     "Size": 259087255,
     "MD5": "602ddd33784533c8151793abfb8e32fd"
@@ -4293,26 +4008,6 @@
     "FileName": "Mods\\@DNAZ\\Addons\\ZenSleep.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "30166cc222b9ed5d6291c6a68c1254e6"
-  },
-  {
-    "FileName": "Mods\\@Edificacao\\SFP.pbo",
-    "Size": 2129042473,
-    "MD5": "2c13f3decb56c9cddc921ebac70d0c3e"
-  },
-  {
-    "FileName": "Mods\\@Edificacao\\SFP.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "837f3e0df16f89fd565732760b9aacea"
-  },
-  {
-    "FileName": "Mods\\@Edificacao\\SFP2.pbo",
-    "Size": 1572694444,
-    "MD5": "ac2d0d6b0874681d20f49001c052ad98"
-  },
-  {
-    "FileName": "Mods\\@Edificacao\\SFP2.pbo.dnaz.bisign",
-    "Size": 557,
-    "MD5": "6b0c20c775d724c7e898537cd15e8822"
   },
   {
     "FileName": "Mods\\@GUI\\Addons\\GUISparda.pbo",
@@ -4353,6 +4048,96 @@
     "FileName": "Mods\\@Heli\\Addons\\0_RFWC_Define.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "39592e162681d3d804c567719d598c34"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\A2-UH1H.pbo",
+    "Size": 23944180,
+    "MD5": "8123b2feef13a44fa57ab378f755fcb2"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\A2-UH1H.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "857f5a035f1ad86aaa8f10c3633dd263"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\AC-AH6.pbo",
+    "Size": 15570147,
+    "MD5": "bd113051a0c7e2dd86b92f9a424c3fb7"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\AC-AH6.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "eae6237b6f67e4c806c4debb3102c27b"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\AC-Data.pbo",
+    "Size": 1612708,
+    "MD5": "c2844ebe428ff068b3cc808807fbbfee"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\AC-Data.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "28aaae6f12622e4d6ebe8b3f4243dce9"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\AC-Models.pbo",
+    "Size": 14552,
+    "MD5": "c3f825f40276e4949a556497683539cf"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\AC-Models.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "04929b06229ac6d762f6c25fda54d240"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\AC-UH1H.pbo",
+    "Size": 19481304,
+    "MD5": "3624a779c94c7b563563c04474abf421"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\AC-UH1H.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "571c8981cab90e8b881fcb6a565bd022"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\CA-AH6.pbo",
+    "Size": 28245743,
+    "MD5": "c708be80439ab036426bd92452950406"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\CA-AH6.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "601744a936ebc48ac5e8b34d5cd10db6"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\CA-Mi17.pbo",
+    "Size": 32820754,
+    "MD5": "8983139141124460f846fe0b5e59cd2c"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\CA-Mi17.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "d8a4a86d9c3cf2764470631fca6460d5"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\CA-UltraLight.pbo",
+    "Size": 8741812,
+    "MD5": "be036c659bc25dd560398840d83616dc"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\CA-UltraLight.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "cc56e556d4dd77bc73e4f816e4c2180d"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\CA-XH9-Warbird.pbo",
+    "Size": 45029434,
+    "MD5": "ed1fb008103e51d53a232b8d1f919dbb"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\CA-XH9-Warbird.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "997eb75381aea83491b49d944e0a7b50"
   },
   {
     "FileName": "Mods\\@Heli\\Addons\\Gunner_SIB_NIC.pbo",
@@ -6095,6 +5880,76 @@
     "MD5": "c5c1f1fe284b11b7315be189abca16cb"
   },
   {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\AC-Data.pbo",
+    "Size": 44582007,
+    "MD5": "cc48d3b5dcc95e379b00bf4e1ef07778"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\AC-Data.pbo.Andrew_Caires.bisign",
+    "Size": 566,
+    "MD5": "1284beb9b90b298741d597575f1c2273"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\AC-DZ.pbo",
+    "Size": 27150153,
+    "MD5": "190de1096a6e0e863bf1c31283554f57"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\AC-DZ.pbo.Andrew_Caires.bisign",
+    "Size": 566,
+    "MD5": "6b4d26d6696e2dc57e49a6f71b2b6863"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\AC-Graphics.pbo",
+    "Size": 776326,
+    "MD5": "fb7e8ec42401fc942ff563f31e2e1271"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\AC-Graphics.pbo.Andrew_Caires.bisign",
+    "Size": 566,
+    "MD5": "52abd29bd86edfd820a42c99fdd1f927"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\AC-GUI.pbo",
+    "Size": 164659,
+    "MD5": "b34345ba5e44b1e042930bc9f30460a0"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\AC-GUI.pbo.Andrew_Caires.bisign",
+    "Size": 566,
+    "MD5": "07d0bb307a98a08e49956833c9838a15"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\AC-Models.pbo",
+    "Size": 472996,
+    "MD5": "102474d27af9ba1b8aefb9fa46887e00"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\AC-Models.pbo.Andrew_Caires.bisign",
+    "Size": 566,
+    "MD5": "ce3528e53cf003f7c315a0107cea41f5"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\AC-Scripts.pbo",
+    "Size": 1643839,
+    "MD5": "123e8f45915464c36332cf143c1c1d01"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\AC-Scripts.pbo.Andrew_Caires.bisign",
+    "Size": 566,
+    "MD5": "5b1afd01f1da8323a11736195ba4afa8"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\AC-Sounds.pbo",
+    "Size": 394338,
+    "MD5": "8f5e31bc93dacc0aa40ae3b3a6535cb6"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\AC-Sounds.pbo.Andrew_Caires.bisign",
+    "Size": 566,
+    "MD5": "74040900875439499a94657232f239b5"
+  },
+  {
     "FileName": "Mods\\@VPPAdminTools\\Addons\\assets.pbo",
     "Size": 89091,
     "MD5": "549af86ec3a79fbf96d009e805b19414"
@@ -6103,6 +5958,46 @@
     "FileName": "Mods\\@VPPAdminTools\\Addons\\assets.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "efd054a45977516d3f3b8495f15475b9"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\GUI.pbo",
+    "Size": 263377,
+    "MD5": "3ccaf3a69dc0f0b1baa77f98fb75e728"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\GUI.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "8954fc6408d60c565360553f86f4962b"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\languagecore.pbo",
+    "Size": 59566,
+    "MD5": "2368dfb61b1bc51e80cc15b71170343a"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\languagecore.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "002e17d5be1a9e7ca26f9c637c9e64f3"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\Objects_Debug.pbo",
+    "Size": 3111,
+    "MD5": "24ffecba74369517b6986346e8149321"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\Objects_Debug.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "eddbb782a642d1b82b75c2ac493ad08f"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\Scripts.pbo",
+    "Size": 904248,
+    "MD5": "5a7a380a400e3a40f49293d5a9cb1e25"
+  },
+  {
+    "FileName": "Mods\\@VPPAdminTools\\Addons\\Scripts.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "c20bb875c0cc5c94386983dd13bbb3c6"
   },
   {
     "FileName": "Mods\\@VPPAdminTools\\Addons\\VPPAdminTools.pbo",
@@ -6123,5 +6018,15 @@
     "FileName": "Mods\\@VPPAdminTools\\Addons\\VPPStaticItems.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "1d92d52ac48ccde8f815be1117c3638d"
+  },
+  {
+    "FileName": "_Essenciais\\dxwebsetup.exe",
+    "Size": 292184,
+    "MD5": "bcbb7c0cd9696068988953990ec5bd11"
+  },
+  {
+    "FileName": "_Essenciais\\VisualC.exe",
+    "Size": 30008040,
+    "MD5": "fc1123681bd0de0a7513d86d0e4f712c"
   }
 ]
