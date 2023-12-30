@@ -5,6 +5,11 @@
     "MD5": "14a6db156de5b3e224232f6251f839dd"
   },
   {
+    "FileName": "cream_api.ini",
+    "Size": 1300,
+    "MD5": "727adf62af191a4849eedb025b66d822"
+  },
+  {
     "FileName": "dayz.gproj",
     "Size": 1719,
     "MD5": "c3eb54b881b35859c09000f1695157ff"
@@ -21,8 +26,13 @@
   },
   {
     "FileName": "steam_api64.dll",
-    "Size": 1958912,
-    "MD5": "c7ce820020b0900eb44d2a72f2ab9294"
+    "Size": 834560,
+    "MD5": "30091b91923d9583a54a93ed1145554b"
+  },
+  {
+    "FileName": "steam_api64_s.dll",
+    "Size": 298856,
+    "MD5": "f3db5801dc9b75da671b39041e2e8bcf"
   },
   {
     "FileName": "steam_appid.txt",
@@ -1451,8 +1461,8 @@
   },
   {
     "FileName": "Mods\\nomes.txt",
-    "Size": 298,
-    "MD5": "acfe5f109ae75ab037e5814bc69363bc"
+    "Size": 329,
+    "MD5": "9e3c2f35ad87b4aa35f03c27019b97fa"
   },
   {
     "FileName": "Mods\\Pegar Pastas.bat",
@@ -2045,6 +2055,16 @@
     "MD5": "e50a650799f179bae8ba5f3b15329dba"
   },
   {
+    "FileName": "Mods\\@Cars\\Addons\\A3_UI_F.pbo",
+    "Size": 569,
+    "MD5": "1fbd0a027a8a41f20757d71e72804f09"
+  },
+  {
+    "FileName": "Mods\\@Cars\\Addons\\A3_UI_F.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "b7eb7e42e1f311ec54c3739f7013dc94"
+  },
+  {
     "FileName": "Mods\\@Cars\\Addons\\Audi_RS6.pbo",
     "Size": 28938369,
     "MD5": "22c55f793777c51ce65c07dbff61700e"
@@ -2253,6 +2273,16 @@
     "FileName": "Mods\\@Cars\\Addons\\Buggy_Core.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "42fed45a99e0b3aeff7810fcf14d0163"
+  },
+  {
+    "FileName": "Mods\\@Cars\\Addons\\Buran.pbo",
+    "Size": 52846582,
+    "MD5": "cce5a03eabe1c3462d562c1178783aac"
+  },
+  {
+    "FileName": "Mods\\@Cars\\Addons\\Buran.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "dd7dfbb5e5bff87bf02b330627f4d9fd"
   },
   {
     "FileName": "Mods\\@Cars\\Addons\\Callatic_Vehicles_Free_Pack.pbo",
@@ -2475,6 +2505,16 @@
     "MD5": "62229268081787a6554ddd01d7e919d2"
   },
   {
+    "FileName": "Mods\\@Cars\\Addons\\DadyBikeRF.pbo",
+    "Size": 29911528,
+    "MD5": "34e21219138db289b876b647cf68b145"
+  },
+  {
+    "FileName": "Mods\\@Cars\\Addons\\DadyBikeRF.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "aa3575f2f75b0895c724328ed0a935db"
+  },
+  {
     "FileName": "Mods\\@Cars\\Addons\\DBN_BMW_X6M.pbo",
     "Size": 65355099,
     "MD5": "5b99812ad9a9d9219e36f0da3ba74179"
@@ -2483,6 +2523,16 @@
     "FileName": "Mods\\@Cars\\Addons\\DBN_BMW_X6M.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "de603593e85d5676c54d129320dc1f77"
+  },
+  {
+    "FileName": "Mods\\@Cars\\Addons\\Dnepr_MT_11.pbo",
+    "Size": 146480173,
+    "MD5": "e2eb89269c1ee5754be9170555b5557f"
+  },
+  {
+    "FileName": "Mods\\@Cars\\Addons\\Dnepr_MT_11.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "814b89bfba91e0c6a9c2c1e06dab7dc1"
   },
   {
     "FileName": "Mods\\@Cars\\Addons\\DozorB.pbo",
@@ -2735,6 +2785,26 @@
     "MD5": "c013f613a16a9af06611ddd90a12afed"
   },
   {
+    "FileName": "Mods\\@Cars\\Addons\\Izh_56_RUS.pbo",
+    "Size": 146466990,
+    "MD5": "57456186fd4f823410d3f659cfe1a4f9"
+  },
+  {
+    "FileName": "Mods\\@Cars\\Addons\\Izh_56_RUS.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "30995574759c88cb6ecd1b966ba94f49"
+  },
+  {
+    "FileName": "Mods\\@Cars\\Addons\\jawa_350_638.pbo",
+    "Size": 94418434,
+    "MD5": "bb02e3953b44c558f5f189b185779eeb"
+  },
+  {
+    "FileName": "Mods\\@Cars\\Addons\\jawa_350_638.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "aaf6a74afe180b9e7e781a770d5b4b7b"
+  },
+  {
     "FileName": "Mods\\@Cars\\Addons\\Jeep_Wrangler.pbo",
     "Size": 65024420,
     "MD5": "e33c774902e72c723031f4ee88239d63"
@@ -2965,14 +3035,24 @@
     "MD5": "aa349a5efa6a7aaef61b64f0836e0190"
   },
   {
+    "FileName": "Mods\\@Cars\\Addons\\moped_80.pbo",
+    "Size": 70933734,
+    "MD5": "6621ab6796959db85ebff7dbf877f36f"
+  },
+  {
+    "FileName": "Mods\\@Cars\\Addons\\moped_80.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "8b1b242f95680d6851ae09b304d0b2b8"
+  },
+  {
     "FileName": "Mods\\@Cars\\Addons\\motorbike.pbo",
-    "Size": 29094054,
-    "MD5": "572020844e508bd7aa57435714121e44"
+    "Size": 54026064,
+    "MD5": "37a12778d5be9af64357972854fb0350"
   },
   {
     "FileName": "Mods\\@Cars\\Addons\\motorbike.pbo.dnaz.bisign",
     "Size": 557,
-    "MD5": "25230c582396f548200efcca1bb1818c"
+    "MD5": "867620ccce66a4ab389f7c5b58a4e77b"
   },
   {
     "FileName": "Mods\\@Cars\\Addons\\MotorHome.pbo",
@@ -3525,6 +3605,16 @@
     "MD5": "7888645f2ada52a64aad8880c84ec999"
   },
   {
+    "FileName": "Mods\\@Cars\\Addons\\URAL_M62.pbo",
+    "Size": 40995916,
+    "MD5": "08c81236607293f4e6322e08985ecf4f"
+  },
+  {
+    "FileName": "Mods\\@Cars\\Addons\\URAL_M62.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "9e6145662a7a817c70a1716a2dc86561"
+  },
+  {
     "FileName": "Mods\\@Cars\\Addons\\VanExtra.pbo",
     "Size": 44744670,
     "MD5": "12c9ed5d6983b9cb6cf9a56492365cd1"
@@ -3613,6 +3703,16 @@
     "FileName": "Mods\\@Cars\\Addons\\vg7_scorpion.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "bdafb2bbb55c352c87e0fc2e0a0a4bdf"
+  },
+  {
+    "FileName": "Mods\\@Cars\\Addons\\vino_RF.pbo",
+    "Size": 40140411,
+    "MD5": "49d7f8194c11fa4e3fe079705e653260"
+  },
+  {
+    "FileName": "Mods\\@Cars\\Addons\\vino_RF.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "6a9b4495da97c1cef7b6bbbeb1f129b0"
   },
   {
     "FileName": "Mods\\@Cars\\Addons\\Willys_MB.pbo",
@@ -3875,6 +3975,16 @@
     "MD5": "a1f724d078e24e2e2ca4d1025be15d65"
   },
   {
+    "FileName": "Mods\\@DNAZ\\Addons\\AdmiralsDivingMod.pbo",
+    "Size": 45222165,
+    "MD5": "8191381e4444cb172681a2d2f7116c08"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\AdmiralsDivingMod.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "1c1709fcb786fc267e63c745dcf5b3ca"
+  },
+  {
     "FileName": "Mods\\@DNAZ\\Addons\\AirRaid.pbo",
     "Size": 49836936,
     "MD5": "2a591927de77b25fb1e2be75c02bd130"
@@ -3983,6 +4093,16 @@
     "FileName": "Mods\\@DNAZ\\Addons\\billboard.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "a8bd48cd55d69e1c5e616cc8741836ff"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\body_slot.pbo",
+    "Size": 946178,
+    "MD5": "8dd796b2d41007a5f007d10bb8937ce8"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\body_slot.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "dc752e68176c75466f5aa7a432103cb6"
   },
   {
     "FileName": "Mods\\@DNAZ\\Addons\\BuildingsModPack7.pbo",
@@ -4233,6 +4353,16 @@
     "FileName": "Mods\\@Heli\\Addons\\0_RFWC_Define.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "39592e162681d3d804c567719d598c34"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\Gunner_SIB_NIC.pbo",
+    "Size": 36930474,
+    "MD5": "9e8863c14e047cdbf5c3a7401ee95e53"
+  },
+  {
+    "FileName": "Mods\\@Heli\\Addons\\Gunner_SIB_NIC.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "c06913c7e6c9bc85c39bf91e9ecdd00d"
   },
   {
     "FileName": "Mods\\@Heli\\Addons\\RFFSHeli_Apache.pbo",
@@ -5993,15 +6123,5 @@
     "FileName": "Mods\\@VPPAdminTools\\Addons\\VPPStaticItems.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "1d92d52ac48ccde8f815be1117c3638d"
-  },
-  {
-    "FileName": "steam_settings\\DLC.txt",
-    "Size": 20,
-    "MD5": "71f97c1c5eca66ddb6f8003b49bc9da6"
-  },
-  {
-    "FileName": "steam_settings\\steam_appid.txt",
-    "Size": 6,
-    "MD5": "115093213041c0d1c7de0079972716ee"
   }
 ]
