@@ -3715,6 +3715,16 @@
     "MD5": "4dd8e17c6aa1409d06134fbe075cfcf8"
   },
   {
+    "FileName": "Mods\\@DNAZ\\Addons\\AP4_clothing_2.pbo",
+    "Size": 128142727,
+    "MD5": "c7b11afd0e79176a37b11b1d06e7d783"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\AP4_clothing_2.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "7305241197d6b9125ff23fc367d102e2"
+  },
+  {
     "FileName": "Mods\\@DNAZ\\Addons\\Armour_arena.pbo",
     "Size": 32954662,
     "MD5": "b698270e8be31904dad8e8e4588f4da9"
@@ -3935,6 +3945,36 @@
     "MD5": "edf76b2730fef0f7125a1ab53cdf5678"
   },
   {
+    "FileName": "Mods\\@DNAZ\\Addons\\mz_foods.pbo",
+    "Size": 10366447,
+    "MD5": "a2df8efb9b1c6fa972c14d4ec49fd67a"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\mz_foods.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "d4999dab9ddc6cf74ef7becca01d13ff"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\MZ_HB.pbo",
+    "Size": 2174142,
+    "MD5": "9f420cfb6ccb1a94cd70097839766008"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\MZ_HB.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "692e33522f1d97fadb26344edf0f0522"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\M_Kits.pbo",
+    "Size": 342684297,
+    "MD5": "ebd139c94c955b1a49c6e95f69f0c52e"
+  },
+  {
+    "FileName": "Mods\\@DNAZ\\Addons\\M_Kits.pbo.dnaz.bisign",
+    "Size": 557,
+    "MD5": "368b40275b5ae5ad4af4f739c4ee2b6e"
+  },
+  {
     "FileName": "Mods\\@DNAZ\\Addons\\newkillfeed.pbo",
     "Size": 14971,
     "MD5": "c9f18c81fea96b8f4178494fd6f95d47"
@@ -4005,6 +4045,11 @@
     "MD5": "30166cc222b9ed5d6291c6a68c1254e6"
   },
   {
+    "FileName": "Mods\\@DNAZ\\Keys\\dnaz.bikey",
+    "Size": 157,
+    "MD5": "861b7707100d694323e6b5697a6c9736"
+  },
+  {
     "FileName": "Mods\\@GUI\\Addons\\GUISparda.pbo",
     "Size": 31802948,
     "MD5": "8a24127d070c4e2478ccdda40c7d8de9"
@@ -4013,6 +4058,11 @@
     "FileName": "Mods\\@GUI\\Addons\\GUISparda.pbo.dnaz.bisign",
     "Size": 557,
     "MD5": "fd3f79196bf049cc19118b98c567bf14"
+  },
+  {
+    "FileName": "Mods\\@GUI\\Keys\\dnaz.bikey",
+    "Size": 157,
+    "MD5": "861b7707100d694323e6b5697a6c9736"
   },
   {
     "FileName": "Mods\\@Heli\\meta.cpp",
