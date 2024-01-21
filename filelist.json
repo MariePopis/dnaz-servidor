@@ -25,9 +25,34 @@
     "MD5": "1258450056b4d601a3288a1505a77c78"
   },
   {
+    "FileName": "DiscordRPC.dll",
+    "Size": 83968,
+    "MD5": "3956130e36754f184a0443c850f708f8"
+  },
+  {
+    "FileName": "ico.ico",
+    "Size": 136606,
+    "MD5": "9b88b97aec17afd862fa11f05f2fc3dd"
+  },
+  {
+    "FileName": "Launcher.exe",
+    "Size": 4276224,
+    "MD5": "26b5e77ed26a88e033c001c5857a822b"
+  },
+  {
+    "FileName": "Launcher.exe.config",
+    "Size": 563,
+    "MD5": "467c9988e896a5596d1c64968cdcff73"
+  },
+  {
+    "FileName": "Newtonsoft.Json.dll",
+    "Size": 711952,
+    "MD5": "195ffb7167db3219b217c4fd439eedd6"
+  },
+  {
     "FileName": "steam_api64.dll",
-    "Size": 298856,
-    "MD5": "f3db5801dc9b75da671b39041e2e8bcf"
+    "Size": 0,
+    "MD5": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
     "FileName": "steam_api64_s.dll",
@@ -41,8 +66,8 @@
   },
   {
     "FileName": "version",
-    "Size": 4,
-    "MD5": "84fb96c7357a56226a81fc94253ac761"
+    "Size": 6,
+    "MD5": "f2b0054b79403596c4687dda393ba724"
   },
   {
     "FileName": "Addons\\ai.pbo",
