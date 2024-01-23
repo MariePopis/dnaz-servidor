@@ -7767,7 +7767,7 @@
   {
     "FileName": "Mods\\@RedFalcon Watercraft\\meta.cpp",
     "Size": 108,
-    "MD5": "30ee63ff6b1fd39d22e5dae6241c61c0"
+    "MD5": "b4c8e310f7dade6139d5bb80a5798fb6"
   },
   {
     "FileName": "Mods\\@RedFalcon Watercraft\\Addons\\0_RFWC_Define.pbo",
@@ -7782,12 +7782,12 @@
   {
     "FileName": "Mods\\@RedFalcon Watercraft\\Addons\\RFWC_Buoys.pbo",
     "Size": 29091878,
-    "MD5": "ca000f5f113b294e61dc769d357f7d9a"
+    "MD5": "a06bfb88f155471c3bb3fe3d89717aec"
   },
   {
     "FileName": "Mods\\@RedFalcon Watercraft\\Addons\\RFWC_Buoys.pbo.RedFalcon.bisign",
     "Size": 562,
-    "MD5": "37359c6768fe4dfc863a98e939806cf1"
+    "MD5": "81594b6acd3067bfcef5ae85b94ee4bb"
   },
   {
     "FileName": "Mods\\@RedFalcon Watercraft\\Addons\\RFWC_CarpBoat.pbo",
@@ -7801,13 +7801,13 @@
   },
   {
     "FileName": "Mods\\@RedFalcon Watercraft\\Addons\\RFWC_Core.pbo",
-    "Size": 2957871,
-    "MD5": "f6e3c626ebb2e21ab31a0b8de549a4ff"
+    "Size": 2960428,
+    "MD5": "9e11c85386fd85b50a9d470fc47e10d7"
   },
   {
     "FileName": "Mods\\@RedFalcon Watercraft\\Addons\\RFWC_Core.pbo.RedFalcon.bisign",
     "Size": 562,
-    "MD5": "c04840296283d60eb9a0bdbcb914d6f0"
+    "MD5": "dd15a7af912bc14da4306e9c4bd6d419"
   },
   {
     "FileName": "Mods\\@RedFalcon Watercraft\\Addons\\RFWC_DragBoat.pbo",
@@ -7818,6 +7818,16 @@
     "FileName": "Mods\\@RedFalcon Watercraft\\Addons\\RFWC_DragBoat.pbo.RedFalcon.bisign",
     "Size": 562,
     "MD5": "c4d7b4274994969a279b379624a9e243"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon Watercraft\\Addons\\RFWC_DragBoat_ReTexture.pbo",
+    "Size": 1282024,
+    "MD5": "2809e1da692ec185b83e4dc3c9cea713"
+  },
+  {
+    "FileName": "Mods\\@RedFalcon Watercraft\\Addons\\RFWC_DragBoat_ReTexture.pbo.RedFalcon.bisign",
+    "Size": 562,
+    "MD5": "d70ec948993944f5667c0eb9f1852cf3"
   },
   {
     "FileName": "Mods\\@RedFalcon Watercraft\\Addons\\RFWC_Seadoo.pbo",
@@ -7831,13 +7841,13 @@
   },
   {
     "FileName": "Mods\\@RedFalcon Watercraft\\Addons\\RFWC_Whaler.pbo",
-    "Size": 12786326,
-    "MD5": "c460b2b695de93014b03a94ad07bd59f"
+    "Size": 11910125,
+    "MD5": "2803a8b5738d492802be8e16e20c15eb"
   },
   {
     "FileName": "Mods\\@RedFalcon Watercraft\\Addons\\RFWC_Whaler.pbo.RedFalcon.bisign",
     "Size": 562,
-    "MD5": "eac2255d160b9e1e9870393de4d282d4"
+    "MD5": "25039c00cc46662021cb9c7e3af81e89"
   },
   {
     "FileName": "Mods\\@RedFalcon Watercraft\\Addons\\RFWC_Wrecks.pbo",
@@ -8096,6 +8106,166 @@
   },
   {
     "FileName": "Mods\\@SNAFU Weapons\\XML_and_Clasnames\\SNAFU_types.xml",
+    "Size": 228740,
+    "MD5": "5a45d1316e0684a4e45ca0f1124f4144"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\meta.cpp",
+    "Size": 92,
+    "MD5": "2a36f0ceb4227ff19c8620dee045353f"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\mod.cpp",
+    "Size": 513,
+    "MD5": "47359ddcef25b2a5d17b1e033b807a59"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Addons\\GCGN_Guns.pbo",
+    "Size": 359639040,
+    "MD5": "1c21a4febbd0511925414cf71d249547"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Addons\\GCGN_Guns.pbo.SNAFU_Weapons_V1.bisign",
+    "Size": 569,
+    "MD5": "395e436bb5d2848a975a0079962d18e4"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Addons\\Guns_01.pbo",
+    "Size": 377759549,
+    "MD5": "beaa7e877348e333ca3b3fba32b6958f"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Addons\\Guns_01.pbo.SNAFU_Weapons_V1.bisign",
+    "Size": 569,
+    "MD5": "157b8280e3a86977b2d64a81acbf010c"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Addons\\SNAFU_Guns.pbo",
+    "Size": 281947875,
+    "MD5": "8f131b6073cd9fb19dbef4e5a6533060"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Addons\\SNAFU_Guns.pbo.SNAFU_Weapons_V1.bisign",
+    "Size": 569,
+    "MD5": "25fd9a6215b9b3dc8ce954ad6b61beee"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Addons\\SNAFU_Guns_01.pbo",
+    "Size": 469218215,
+    "MD5": "e526a84aac9eb8af9cdca2183728fb87"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Addons\\SNAFU_Guns_01.pbo.SNAFU_Weapons_V1.bisign",
+    "Size": 569,
+    "MD5": "dba377ec8404e7821c23a161f38dc19e"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Addons\\SNAFU_Guns_02.pbo",
+    "Size": 974651923,
+    "MD5": "ab26e96d29b580a5702ebf86724ab2d0"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Addons\\SNAFU_Guns_02.pbo.SNAFU_Weapons_V1.bisign",
+    "Size": 569,
+    "MD5": "4566873812d9e971f5015311a24d60d3"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Addons\\SNAFU_Guns_03.pbo",
+    "Size": 152623532,
+    "MD5": "5d6e4aea07b3e2ed71e5f623cfbc82c8"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Addons\\SNAFU_Guns_03.pbo.SNAFU_Weapons_V1.bisign",
+    "Size": 569,
+    "MD5": "dc9e3d9c76d2c53a400693453a244a29"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Addons\\SNAFU_Guns_05.pbo",
+    "Size": 138292851,
+    "MD5": "a6a85f897693dc4786c48141db8fc502"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Addons\\SNAFU_Guns_05.pbo.SNAFU_Weapons_V1.bisign",
+    "Size": 569,
+    "MD5": "4380b73e012ae875ccbf86bbd8236f17"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Addons\\SNAFU_Guns_06.pbo",
+    "Size": 395478673,
+    "MD5": "0d04ae1fefa100b2fc7717aabb991924"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Addons\\SNAFU_Guns_06.pbo.SNAFU_Weapons_V1.bisign",
+    "Size": 569,
+    "MD5": "877052c3867ceec477e9cb638d253821"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Addons\\SNAFU_Scopes.pbo",
+    "Size": 385563508,
+    "MD5": "aab7322b20fdd0cc7078eab9557444f1"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Addons\\SNAFU_Scopes.pbo.SNAFU_Weapons_V1.bisign",
+    "Size": 569,
+    "MD5": "3dbf0991936afddbb1e9939edc418389"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Addons\\SNAFU_Scripts.pbo",
+    "Size": 15065,
+    "MD5": "282b31e210efe55f242d67a31e4648d5"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Addons\\SNAFU_Scripts.pbo.SNAFU_Weapons_V1.bisign",
+    "Size": 569,
+    "MD5": "9e6c38aa47faa19826faebedd337dd55"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Addons\\SNAFU_WW2.pbo",
+    "Size": 134038604,
+    "MD5": "1208c512b908d0d92857d7355b551b7b"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Addons\\SNAFU_WW2.pbo.SNAFU_Weapons_V1.bisign",
+    "Size": 569,
+    "MD5": "6a0580a25484b39f188860ed09b77b4c"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Keys\\SNAFU_Weapons_V1.bikey",
+    "Size": 169,
+    "MD5": "837df0bfc162025ce78b075af0ab4a47"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\Readme_Terms\\Mod_Terms_Of _Use_DPL_ND.pdf",
+    "Size": 170085,
+    "MD5": "f534578265cc19816b41be6c0cf69f6a"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\XML_and_Clasnames\\All-classes-and-their-attachments.json",
+    "Size": 727976,
+    "MD5": "9d78a050b14a859399085eecbff4dbc2"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\XML_and_Clasnames\\snafuspawnabletypes25percent.xml",
+    "Size": 200821,
+    "MD5": "d02486749036cc27708acc7e562deedf"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\XML_and_Clasnames\\SnafuTraderPlus.json",
+    "Size": 19547,
+    "MD5": "8ce68c49abd2432873cce50aa6217608"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\XML_and_Clasnames\\Snafu_Market.rar",
+    "Size": 6449,
+    "MD5": "b6fa829a22eb5072e55b794ab6cb4ee2"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\XML_and_Clasnames\\snafu_trader_config.xml",
+    "Size": 25542,
+    "MD5": "581dde86771a04d19bfe122f23aede6f"
+  },
+  {
+    "FileName": "Mods\\@SNAFU_Weapons\\XML_and_Clasnames\\SNAFU_types.xml",
     "Size": 228740,
     "MD5": "5a45d1316e0684a4e45ca0f1124f4144"
   },
