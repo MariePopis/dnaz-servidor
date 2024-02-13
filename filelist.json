@@ -35,11 +35,6 @@
     "MD5": "f3db5801dc9b75da671b39041e2e8bcf"
   },
   {
-    "FileName": "version",
-    "Size": 6,
-    "MD5": "f2b0054b79403596c4687dda393ba724"
-  },
-  {
     "FileName": "Addons\\ai.pbo",
     "Size": 112505,
     "MD5": "f1c02e4ae5744ea1caff6af2a8377a34"
@@ -1461,8 +1456,8 @@
   },
   {
     "FileName": "Mods\\nomes.txt",
-    "Size": 298,
-    "MD5": "acfe5f109ae75ab037e5814bc69363bc"
+    "Size": 359,
+    "MD5": "b0a74a9b5c981cecee4649b4c2ab9363"
   },
   {
     "FileName": "Mods\\Pegar Pastas.bat",
